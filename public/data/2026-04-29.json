@@ -1,0 +1,219 @@
+{
+  "date": "2026-04-29",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Kimi K2.6设计能力超越Claude Design",
+          "link": "https://www.qbitai.com/2026/04/411133.html",
+          "summary": "月之暗面Kimi K2.6在设计评测中超越Claude Design，「全球最强开源」含金量持续上升，引发行业关注。",
+          "source": "量子位"
+        },
+        {
+          "title": "不卷参数卷架构，开源模型统一图像理解与生成",
+          "link": "https://www.qbitai.com/2026/04/410937.html",
+          "summary": "基于NEO-unify架构的开源模型摒弃拼接式方案，实现多模态理解与生成的原生统一，全网开源即刻可用。",
+          "source": "量子位"
+        },
+        {
+          "title": "GPT-5.5即将上线，OpenAI登陆亚马逊云",
+          "link": "https://www.qbitai.com/2026/04/410772.html",
+          "summary": "亚马逊云发布AI服务，GPT-5.5即将向云客户开放，奥特曼即使打着官司也亲自站台支持发布会。",
+          "source": "量子位"
+        },
+        {
+          "title": "腾讯开源0.4G离线翻译模型，支持33种语言",
+          "link": "https://www.qbitai.com/2026/04/411186.html",
+          "summary": "腾讯混元开源Hy-MT翻译模型，仅0.4G即可在手机本地离线运行，翻译质量超越谷歌翻译。",
+          "source": "量子位"
+        },
+        {
+          "title": "DeepSeek多模态能力灰度上线，终于能看图了",
+          "link": "https://zhidx.com/p/554246.html",
+          "summary": "DeepSeek开启识图模式灰度测试，支持物体识别、场景理解与视觉推理，多模态拼图终于补齐。",
+          "source": "智东西"
+        },
+        {
+          "title": "商汤开源SenseNova U1统一理解生成模型",
+          "link": "https://www.leiphone.com/category/industrynews/GXTSctETRfmZWIWQ.html",
+          "summary": "商汤发布SenseNova U1 Lite系列，8B规格在多项基准达开源SOTA，业内首个实现连续性图文创作输出。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "ACL 2026：DeepSeek长文本加速神器LCA，推理提速2.5倍",
+          "link": "https://mp.weixin.qq.com/s/HtqtOyKKDpoBu4bQqpgPew",
+          "summary": "琶洲实验室等提出LCA技术，128K上下文下加速2.5倍、减少90% KV缓存，即插即用已开源。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "银河通用发布LDA具身智能基础模型",
+          "link": "https://www.qbitai.com/2026/04/410653.html",
+          "summary": "银河通用联合清华北大英伟达发布LDA-1B，实现对3万小时异构数据的统一利用，论文被RSS接收。",
+          "source": "量子位"
+        },
+        {
+          "title": "阶跃星辰发布Step Image Edit 2图像编辑模型",
+          "link": "https://zhidx.com/p/554262.html",
+          "summary": "阶跃星辰发布3.5B参数图像编辑模型，KRIS-Bench综合排名第一，0.7秒出图，API定价0.02元/张。",
+          "source": "智东西"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Claude Code悄悄涨价，开发者与普通用户费用翻倍",
+          "link": "https://zhidx.com/p/554027.html",
+          "summary": "Anthropic悄然上调Claude Code计费标准，企业开发者日费用从6美元升至13美元，90%普通用户上限翻倍。",
+          "source": "智东西"
+        },
+        {
+          "title": "AWS推出桌面AI助手Amazon Quick对标Claude Cowork",
+          "link": "https://zhidx.com/p/554160.html",
+          "summary": "AWS发布桌面AI助手Quick，可常驻后台打通Slack、Gmail等办公应用，月费20美元，宝马3M等企业已部署。",
+          "source": "智东西"
+        },
+        {
+          "title": "苹果iOS 27发力AI修图，新增扩展增强重构图功能",
+          "link": "https://zhidx.com/p/554269.html",
+          "summary": "苹果计划在iOS 27照片应用中引入AI扩展、增强、重新构图功能，主要端侧运行，WWDC 2026预览。",
+          "source": "智东西"
+        },
+        {
+          "title": "百度文库网盘发布GenFlow 4.0全端AI工作台",
+          "link": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc",
+          "summary": "百度文库网盘发布GenFlow 4.0，月活用户超1亿，将网盘转型为全端AI工作台，深度整合AI创作能力。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI写代码太烧钱：Copilot、Claude一起涨价",
+          "link": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa",
+          "summary": "GitHub暂停Copilot新用户注册，Claude Code费用翻倍，AI编程工具成本飙升引发企业预算重新核算。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌推出AI聊天历史导入Gemini工具",
+          "link": "https://36kr.com/newsflashes/3787882892631302?f=rss",
+          "summary": "谷歌推出可将其他AI提供商的聊天历史记录导入Gemini的工具，降低用户迁移成本。",
+          "source": "36氪"
+        },
+        {
+          "title": "慧算账引入腾讯云AI智能体龙虾助理提升服务效能",
+          "link": "https://www.leiphone.com/category/industrynews/9wtwJ3Y3iVXK5JP7.html",
+          "summary": "财税SaaS企业慧算账集成腾讯云ClawPro，会计服务能力从300家提升至400-500家企业，效率超50%。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "SentiPulse发布SentiCat：Agent开始「建立关系」",
+          "link": "https://www.leiphone.com/category/industrynews/PGPJEG6p5mY1cluz.html",
+          "summary": "SentiPulse公测SentiCat，将Live2D角色与Agent能力结合，打通陪伴与效率闭环，本地化隐私保护。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "大模型密集迭代，你应该删掉90%的AI插件",
+          "link": "https://www.tmtpost.com/7971719.html",
+          "summary": "面对大模型快速迭代，多数AI插件功能已被基座模型覆盖，用户应学会断舍离，精简工具链。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "英特尔发布至强600系列与锐炫Pro B70 GPU",
+          "link": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI",
+          "summary": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，搭配全新AI工作站方案面向专业场景。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "魔法原子发布MagicBot X1人形机器人与灵巧手H01",
+          "link": "https://www.leiphone.com/category/industrynews/fVzqHUGeCT0NXApV.html",
+          "summary": "魔法原子在硅谷GEIS大会发布旗舰人形机器人X1、灵巧手H01及世界模型Magic-Mix，目标2036年营收140亿美元。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "英特尔提出智能体PC概念，端云混合AI架构",
+          "link": "https://zhidx.com/p/554239.html",
+          "summary": "英特尔推出智能体PC全栈方案，覆盖轻薄本到边缘网关，推荐三档配置并发布家庭AI大脑AI Box。",
+          "source": "智东西"
+        },
+        {
+          "title": "平头哥首款智能网卡磐脉920发布即量产",
+          "link": "https://zhidx.com/p/553996.html",
+          "summary": "阿里平头哥发布国内首个内置PCIe Switch的400G智能网卡，发布即量产，训推完成时间提升14%。",
+          "source": "智东西"
+        },
+        {
+          "title": "艾聆科技AI Note全场景随身记录产品矩阵亮相",
+          "link": "https://www.leiphone.com/category/industrynews/GOJ25WaJMTMk6gum.html",
+          "summary": "艾聆科技发布AI Note全家桶六款新品，覆盖录音卡、领夹、笔、纽扣等形态，构建随身AI记录生态。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "芯桥半导体打造具身智能算力工厂",
+          "link": "https://zhidx.com/p/554028.html",
+          "summary": "芯桥推出五位一体智能算力架构，X200大算力上云负责群体规划，S200小模型落地保障断网自主执行。",
+          "source": "智东西"
+        },
+        {
+          "title": "吨级重载机器马全球首发",
+          "link": "https://www.qbitai.com/2026/04/410732.html",
+          "summary": "大咖机器人全球首发吨级重载机器马，覆盖安防巡检、消防救援、工程基建等六大核心场景。",
+          "source": "量子位"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "小米收获百亿IPO：商米科技开盘大涨290%",
+          "link": "https://zhidx.com/p/553510.html",
+          "summary": "商米科技港交所上市，开盘涨290%市值超320亿，小米美团蚂蚁均为股东，全球安卓BIoT市场第一。",
+          "source": "智东西"
+        },
+        {
+          "title": "马斯克vs OpenAI世纪庭审开庭",
+          "link": "https://zhidx.com/p/554107.html",
+          "summary": "马斯克与OpenAI庭审进入开庭陈词，马斯克称「被偷走慈善机构」，OpenAI称其为「伪善表演」。",
+          "source": "智东西"
+        },
+        {
+          "title": "比博斯特完成超10亿元B轮融资",
+          "link": "https://36kr.com/p/3740907027054600?f=rss",
+          "summary": "智能底盘企业比博斯特B轮融资超10亿元，产品覆盖制动悬架转向全领域，已成为大众体系供应商。",
+          "source": "36氪"
+        },
+        {
+          "title": "前米哈游高管AI增长Agent获CMC资本领投",
+          "link": "https://36kr.com/p/3786123369094405?f=rss",
+          "summary": "AI原生增长Agent LeapMind Growth完成天使+轮融资，核心产品GrowthGPT获客成本降低70%。",
+          "source": "36氪"
+        },
+        {
+          "title": "智能电动时代谁杀死了汽车的利润",
+          "link": "https://www.tmtpost.com/7971782.html",
+          "summary": "车企从粗放扩张转向精益经营，比亚迪一季度净利润腰斩，行业利润率持续承压。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "无糖狂飙AI节流，肥宅快乐水赢麻了",
+          "link": "https://www.tmtpost.com/7971571.html",
+          "summary": "可口可乐营收强劲增长实现开门红，无糖产品与AI降本增效双轮驱动业绩上扬。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

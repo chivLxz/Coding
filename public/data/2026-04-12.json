@@ -1,0 +1,165 @@
+{
+  "date": "2026-04-12",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "中国团队构建首个大规模超声专属数据集，36.4万图文对推动AI读懂临床语义",
+          "link": "https://www.qbitai.com/2026/04/399975.html",
+          "summary": "中国团队构建首个大规模超声专属数据集，包含36.4万超声图文对，让AI真正理解临床诊断语义，论文入选CVPR 2026，推动超声AI迈入大模型时代。",
+          "source": "量子位"
+        },
+        {
+          "title": "元戎启行CEO：解决小模型「跷跷板效应」必须转向大模型范式",
+          "link": "https://36kr.com/newsflashes/3763547677590018?f=rss",
+          "summary": "元戎启行CEO周光指出，城区NOA渗透率仅15%，量产小模型参数量多在1B以下，存在「跷跷板效应」，必须用大模型范式和Scaling方式系统性提升智驾能力。",
+          "source": "36氪"
+        },
+        {
+          "title": "DeepSeek，该卸下扫地僧的枷锁了",
+          "link": "https://www.ifanr.com/1661836?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "爱范儿深度分析DeepSeek面临的困境与突破方向，探讨其如何从技术光环走向产品化和商业化的关键转型阶段。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "AI打榜，打的是什么？",
+          "link": "https://www.tmtpost.com/7949939.html",
+          "summary": "钛媒体剖析AI榜单生态，探讨各大模型评测榜单的真实价值与局限性，反思行业对排名的过度依赖与刷榜现象。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "跨会话埋雷AI毫无察觉，CIK投毒风险曝光",
+          "link": "https://www.tmtpost.com/7947704.html",
+          "summary": "首个真实环境安全实验揭示AI系统三大致命漏洞，跨会话注入攻击（CIK）最高攻破率达89.2%，即使最安全的大模型也无法幸免。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "Anthropic探索自研AI芯片应对算力短缺，与CoreWeave达成多年协议",
+          "link": "https://www.tmtpost.com/7950039.html",
+          "summary": "Anthropic探索自研AI芯片以应对日益严峻的算力短缺问题，同时与CoreWeave签订多年合作协议，强化Claude模型的训练与推理基础设施。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Claude复活30年前传奇游戏，仅用一个周末",
+          "link": "https://www.qbitai.com/2026/04/399903.html",
+          "summary": "Claude成功破解并复刻了一款30年前的传奇游戏，仅用一个周末就完成了对作者自定义编程语言的逆向工程，展示AI编程的强大能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "谷歌开源 Colab MCP Server，AI智能体可云端运行代码",
+          "link": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article",
+          "summary": "谷歌开源Colab MCP Server，允许AI智能体在云端直接运行代码，大幅降低AI Agent的开发门槛，拓展了MCP协议在云编程场景的应用。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "可复制的AI Coding全栈实战：比OpenSpec更轻量更丝滑",
+          "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
+          "summary": "QCon北京分享了一套可复制的AI Coding全栈实战方法论，相比OpenSpec更轻量，帮助开发者高效利用AI辅助编程完成全栈开发。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "轻舟智航：智能汽车AI迈入超人智能新阶段",
+          "link": "https://36kr.com/newsflashes/3763626360636167?f=rss",
+          "summary": "轻舟智航于骞博士表示智能汽车AI能力已完成三次关键进化，2026年迈入超人智能阶段，通用物理AI成为驱动自动驾驶变革的核心技术力量。",
+          "source": "36氪"
+        },
+        {
+          "title": "小马智行发布PonyWorld 2.0，自动驾驶进入AI主动研发新范式",
+          "link": "https://www.tmtpost.com/7950039.html",
+          "summary": "小马智行发布具备自我诊断与进化能力的PonyWorld 2.0系统，推动自动驾驶从被动执行迈向AI主动研发的新范式。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "特斯拉受监督版FSD获准在荷兰使用，为首个欧洲国家",
+          "link": "https://36kr.com/newsflashes/3763462028067590?f=rss",
+          "summary": "荷兰车辆管理局批准特斯拉受监督版全自动驾驶系统在公共道路使用，荷兰成为首个批准该系统的欧洲国家，系统经一年半全面检验。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "星元晶算发布面向2030年的1nm芯片技术路线图",
+          "link": "https://36kr.com/newsflashes/3763627559780867?f=rss",
+          "summary": "星元晶算发布先进异构集成1nm芯片路线图，目标2030年实现10TW级等效太空算力，结合二维材料与先进封装，部署太空算力节点实现天地协同。",
+          "source": "36氪"
+        },
+        {
+          "title": "中国首家脑机接口独角兽，要把仿生手带给机器人",
+          "link": "https://www.qbitai.com/2026/04/399681.html",
+          "summary": "中国首家脑机接口独角兽公司致力于将仿生手技术应用于机器人领域，其灵巧手技术已超越人手水平，在具身智能方向展现巨大想象空间。",
+          "source": "量子位"
+        },
+        {
+          "title": "荣耀机器人「闪电」「元气仔」出征北京亦庄马拉松",
+          "link": "https://36kr.com/newsflashes/3763625016476420?f=rss",
+          "summary": "荣耀自研机器人正式报名参加4月19日北京亦庄机器人马拉松，成为全球首个由终端大厂派出的机器人马拉松参赛者，集成具身AI最新成果。",
+          "source": "36氪"
+        },
+        {
+          "title": "机器人财报里的「隐性成本」与「显性焦虑」",
+          "link": "https://www.tmtpost.com/7949914.html",
+          "summary": "深度分析国产机器人企业财报背后的隐性成本与焦虑，指出当前国产机器人行业最缺乏的并非资金，而是核心技术和商业化落地能力。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "神经计算机概念提出统一计算内存与I/O的新型机器范式",
+          "link": "https://www.tmtpost.com/7950039.html",
+          "summary": "新型神经计算机概念提出统一计算、内存与I/O的架构范式，量子计算在处理海量经典数据中展现出指数级优势，为AI硬件发展提供新方向。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "139%客户在增购：中科院AI公司八年从实验室到港股IPO",
+          "link": "https://www.tmtpost.com/7950387.html",
+          "summary": "中科院自动化所走出的AI公司以「决策智能第一股」标签冲刺港股，客户增购率达139%，展现强劲商业化能力，八年完成从实验室到资本市场的跨越。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "估值8520亿CEO零持股，谁在掌控OpenAI？",
+          "link": "https://www.tmtpost.com/7949965.html",
+          "summary": "深度解析OpenAI估值达8520亿美元的权力结构，CEO奥特曼零持股背后的治理博弈，股东之间的利益角力与控制权争夺。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "开源中国完成数亿元C+轮融资，聚焦信创安全与AI国产化",
+          "link": "https://www.tmtpost.com/7950039.html",
+          "summary": "开源中国完成数亿元C+轮融资，资金将重点投入信创安全与AI国产化赛道，加速开源生态在国内的产业化布局。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "美国MATCH法案强制盟友150天内对齐对华半导体管制",
+          "link": "https://www.tmtpost.com/7950039.html",
+          "summary": "美国MATCH法案要求盟友在150天内对齐对华半导体出口管制，引发全球AI芯片供应链剧烈震荡，对A股半导体及AI板块产生深远影响。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI撞墙：科技巨头的零碳叙事在物理世界中松动",
+          "link": "https://www.tmtpost.com/7949997.html",
+          "summary": "AI训练的巨大电力与水耗正冲击科技巨头的零碳承诺，电力供给、水资源消耗和社区阻力同时浮现，零碳叙事接受物理世界首次压力测试。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

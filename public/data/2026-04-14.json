@@ -1,0 +1,231 @@
+{
+  "date": "2026-04-14",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "斯坦福年度结论：中美大模型已没差距",
+          "link": "https://www.qbitai.com/2026/04/401094.html",
+          "summary": "斯坦福最新报告显示，中美在大模型领域的差距正在快速缩小，AI普及率呈现历史性加速态势。",
+          "source": "量子位"
+        },
+        {
+          "title": "MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源",
+          "link": "https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&utm_medium=article",
+          "summary": "MiniMax调整M2.7模型授权政策引发争议，增加商业限制和来源标注要求，社区对其保留MIT标识表示不满。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude故意降智，模型也开始「看人下菜碟」？",
+          "link": "https://www.tmtpost.com/7952815.html",
+          "summary": "Anthropic被指对B端和C端用户采用不同策略，C端可能面临模型能力限制以降低成本，引发对AI公平性的讨论。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "千亿诉讼，马斯克能否阻断OpenAI商业化？",
+          "link": "https://www.tmtpost.com/7952620.html",
+          "summary": "马斯克对OpenAI发起千亿元诉讼，试图通过法律手段阻碍其商业化进程，诉讼被视为反AI竞争的战略工具。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "写Verilog、调CUDA，总翻车？工业代码大模型开始学会「先想后写」",
+          "link": "https://mp.weixin.qq.com/s/ySwvg7ht71bu2-IxQEjfdg",
+          "summary": "北航联合多机构推出InCoder-32B Thinking，引入ECoT和ICWM技术，让模型在工业场景中具备思考验证能力。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "在一台1970年代的PDP-11上训练Transformer需要多久？答案是5.5分钟",
+          "link": "https://mp.weixin.qq.com/s/fCmKVdt9jkeSjrIS6chNIQ",
+          "summary": "开发者在PDP-11小型机上用汇编实现单层Transformer，仅用5.5分钟完成训练，证明算法创新比算力更重要。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "警惕！大模型成本倒挂：你正在为模型的多余「思考」买单",
+          "link": "https://mp.weixin.qq.com/s/JnkKHU2HO_nVAQWGbDmecg",
+          "summary": "研究发现低价模型因生成大量推理token，实际成本可能远超高价模型，呼吁关注模型效率而非仅看标价。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+          "link": "https://www.qbitai.com/2026/04/401041.html",
+          "summary": "阿里千问推出Agent能力，用户可通过对话直接生成和编辑Excel文件，大幅提升办公效率。",
+          "source": "量子位"
+        },
+        {
+          "title": "李开复陆奇重仓同一家Harness智能体公司",
+          "link": "https://www.qbitai.com/2026/04/401065.html",
+          "summary": "李开复和陆奇共同投资同一家AI智能体公司，团队由李笛带队，4个月完成2轮融资，资金可支撑3-5年发展。",
+          "source": "量子位"
+        },
+        {
+          "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+          "link": "https://www.qbitai.com/2026/04/401047.html",
+          "summary": "中兴通讯转型AI基础设施服务商，将AI系统部署到企业机房，提供从硬件到软件的一体化解决方案。",
+          "source": "量子位"
+        },
+        {
+          "title": "模力工场 036 周 AI 应用周榜：AI不只做「单点能力」，而是在拼「完整工作流」",
+          "link": "https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&utm_medium=article",
+          "summary": "本周AI应用榜单显示，市场竞争已从单点能力转向完整工作流，能提供端到端解决方案的产品更具优势。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+          "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+          "summary": "利用AI技术自动发现Java应用的性能优化机会，在Dragonwell Native场景中实现10倍性能提升。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理",
+          "link": "https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&utm_medium=article",
+          "summary": "腾讯云推出基于大模型的AI查询优化器，使用LLM技术重塑SQL调优与计划管理流程，提升数据库性能。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Serverless 智能弹性与 AI 驱动的云原生数据库平台",
+          "link": "https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&utm_medium=article",
+          "summary": "腾讯云介绍Serverless智能弹性技术与AI驱动的云原生数据库平台，实现自动化资源管理和性能优化。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "实测腾讯云AndonQ：号称比肩原厂技术专家的「领域虾」",
+          "link": "https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&utm_medium=article",
+          "summary": "腾讯云AndonQ被实测验证，在技术支持和问题解决能力上可媲美原厂专家，提供高效的云服务体验。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章",
+          "link": "https://mp.weixin.qq.com/s/SrARqbLyNGBkwz059e1TcA",
+          "summary": "EverMind推出专为智能体设计的记忆底座EverOS，首创Skills自进化引擎，任务成功率提升234.8%。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "目标更重要？国内公司超越Generalist，进化到动作中心世界模型",
+          "link": "https://mp.weixin.qq.com/s/rUBVvWjd2Z2X8s5gxoD7hQ",
+          "summary": "极佳视界开源GigaWorld-Policy模型，提出以动作为中心的世界模型架构，延迟仅360ms，成功率83%。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "智能眼镜「iPhone 时刻」终将到来，因为苹果亲自下场了",
+          "link": "https://www.ifanr.com/1661905?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "苹果正式进入智能眼镜市场，这一动作被视为行业拐点，智能眼镜或将迎来类似iPhone的普及时刻。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "从「戴得上」到「离不开」：智能眼镜的必经之役",
+          "link": "https://www.tmtpost.com/7952774.html",
+          "summary": "智能眼镜行业从佩戴舒适度向用户粘性转变，大厂纷纷布局，争夺下一代智能终端入口。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "中国人形机器人在波兰街头驱赶野猪",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "杭州宇树科技的Unitree G1人形机器人在波兰成功驱赶野猪，售价9.9万元，展示了中国具身智能产品的性价比优势。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "做了5年3D打印机，我发现了世界模型的Scaling Law",
+          "link": "https://www.leiphone.com/category/ai/SjJFJkVt2aQjt3XC.html",
+          "summary": "魔芯科技基于3D打印经验发现空间智能Scaling Law，推出全国产算力世界模型KOKONI-World，可在端侧NPU部署。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "直面LeCun愿景，智在无界发布最强具身世界模型",
+          "link": "https://mp.weixin.qq.com/s/4GBE4mjEPHVakZ0sGbuKlg",
+          "summary": "BeingBeyond发布第三代世界模型Being-H0.7，基于20万小时人类视频训练，在6项评测中夺冠，支持端侧实时部署。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "BeingBeyond发布最强世界模型，具身行业开启「大脑纪元」",
+          "link": "https://mp.weixin.qq.com/s/xe3u-j9SPfG8tHmyOXnq1A",
+          "summary": "BeingBeyond推出具身世界模型Being-H0.7，在端侧芯片实现实时部署，推动具身智能从Demo走向商业化。",
+          "source": "智能涌现公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "教育部等五部门关于印发《人工智能+教育》行动计划的通知",
+          "link": "https://www.qbitai.com/2026/04/401190.html",
+          "summary": "教育部等五部门发布人工智能+教育行动计划，统筹推进AI人才培养和应用创新，构建智能时代教育体系。",
+          "source": "量子位"
+        },
+        {
+          "title": "三个山东人，为美国AI发电，美元赚到手软",
+          "link": "https://www.tmtpost.com/7952195.html",
+          "summary": "三位山东创业者在美国AI基础设施领域取得成功，为AI算力提供关键支持，获得可观商业回报。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "Q1AI漫剧抢人潮：70K高薪疯抢AI人才，大厂跨界布局？",
+          "link": "https://www.tmtpost.com/7940730.html",
+          "summary": "AI人才市场持续火热，第一季度高薪争抢AI工程师，大企业跨界布局AI业务，人才竞争加剧。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI伴侣的「成人礼」：监管重锤落下，谁是真正的行业幸存者？",
+          "link": "https://www.tmtpost.com/7952727.html",
+          "summary": "AI伴侣产品面临监管重锤，行业进入洗牌期，合规能力将成为企业生存的关键竞争因素。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "地平线6号员工再创业！章鱼动力完成3.5亿融资",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "地平线前员工创立章鱼动力，完成数亿元融资，专注于物理AI和具身智能领域，获得多家顶级机构投资。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "狂赚超20亿！金山办公一季度净利暴增4倍",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "金山办公一季度业绩亮眼，净利润暴增4倍达20亿，AI应用落地见效，三大核心业务均实现增长。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "绿米联创Aqara冲刺港交所：累计激活设备超5600万台",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "Aqara向港交所递交招股书，专注空间智能领域，累计激活设备超5600万台，2025年营收14.72亿元。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "曦智科技通过港交所聆讯，冲击港股「AI光电通讯算力第一股」",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "曦智科技通过港交所上市聆讯，专注光电混合算力领域，计划募资3-4亿美元，将成为港股AI光电通讯算力第一股。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "奥特曼痛失三员大将，Meta千亿挖角挖到星门根上",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "OpenAI星门项目三位核心负责人集体跳槽Meta，Meta今年在AI基础设施上投入超千亿美元，挖角力度空前。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "曾被扒出换皮DeepSeek，日本企业抱团砸万亿日元押注国产AI",
+          "link": "https://www.leiphone.com/category/zaobao/IjA6V91kzBYq99C2.html",
+          "summary": "软银联合多家日本企业成立新公司，计划砸万亿日元开发国产AI，此前乐天因换皮DeepSeek引发争议。",
+          "source": "雷锋网"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "date": "2026-04-09",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Meta超级智能团队首个模型Muse Spark亮相，转向闭源",
+          "link": "https://www.qbitai.com/2026/04/398020.html",
+          "summary": "Meta发布由超级智能实验室历时九个月打造的Muse Spark模型，主打原生多模态，一改开源策略转为闭源模式，训练中使用了通义千问等第三方开源模型，消息公布后Meta股价跃升6%。",
+          "source": "量子位"
+        },
+        {
+          "title": "智谱发布GLM-5.1，SWE-bench Pro首超Opus 4.6",
+          "link": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+          "summary": "智谱发布新一代开源模型GLM-5.1，是唯一达到8小时级持续工作的开源模型，在SWE-bench Pro基准测试中实现国产模型首次超越Opus 4.6，同时GLM系列再度提价10%，标志国产大模型进入性能溢价阶段。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "DeepSeek重要更新：上线快速模式与专家模式",
+          "link": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+          "summary": "DeepSeek首次在产品端引入模式分层设计，快速模式适合日常对话即时响应，专家模式擅长复杂问题并支持深度思考和智能搜索。词元吞吐速度极快，但尚不确定是否搭载传闻中的V4模型。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "神秘「欢乐马」霸榜视频生成模型，据传10号正式发布",
+          "link": "https://www.qbitai.com/2026/04/398157.html",
+          "summary": "一款名为「欢乐马」的神秘视频模型突然霸榜，性能被认为已超越此前备受关注的Seedance 2.0。业内传闻该模型将于4月10日正式发布，引发视频生成领域高度关注。",
+          "source": "量子位"
+        },
+        {
+          "title": "Token之战：连续五周，中国AI靠什么赢了美国AI",
+          "link": "https://www.tmtpost.com/7947044.html",
+          "summary": "分析文章指出中国AI在Token调用量上连续五周超越美国，探讨背后原因包括模型性能提升、价格优势、开源生态繁荣以及本土化场景适配能力等多重因素的综合作用。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "阿里巴巴升级通义大模型事业部，李飞飞出任阿里云CTO",
+          "link": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+          "summary": "阿里CEO吴泳铭发布内部信宣布AI组织调整：新设集团技术委员会，通义实验室升级为通义大模型事业部，李飞飞负责阿里云技术及AI云基建。最新模型Qwen 3.6 Plus已问鼎OpenRouter全球周调用量冠军。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Anthropic发布Managed Agents，开源平替迅速获2.6k Star",
+          "link": "https://www.qbitai.com/2026/04/398121.html",
+          "summary": "Anthropic推出Managed Agents服务后，社区迅速涌现开源平替方案，GitHub上斩获2.6k Star。这被视为Anthropic亲自下场做Agent中间层，对Agent创业公司构成直接冲击。",
+          "source": "量子位"
+        },
+        {
+          "title": "阿里云百炼上线Agent记忆库，提升AI应用用户理解能力",
+          "link": "https://www.qbitai.com/2026/04/398117.html",
+          "summary": "阿里云百炼平台推出Agent记忆库功能，让AI Agent应用能够更好地记忆和理解用户偏好与上下文，可通过OpenClaw等Agent产品一键安装使用。",
+          "source": "量子位"
+        },
+        {
+          "title": "爆火GitHub：开源AI记忆系统，检索性能提升34%",
+          "link": "https://www.qbitai.com/2026/04/398090.html",
+          "summary": "一个名为「记忆宫殿」的开源AI记忆系统在GitHub爆火，借鉴《生化危机》概念打造免费记忆框架，据称可将检索性能提升34%，为AI Agent提供长期记忆能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "美团GN06推出AI浏览器Tabbit，主打Agent自动化能力",
+          "link": "https://36kr.com/p/3759372854706953?f=rss",
+          "summary": "美团GN06团队推出AI浏览器Tabbit进入公测，集成多模型切换、Agent自动化「妙招」功能，支持用户自定义自动化流程。团队认为浏览器拥有最完整的用户上下文，是AI落地的最佳场景。",
+          "source": "36氪"
+        },
+        {
+          "title": "Anthropic推出Mythos，以时薪6毛钱出租AI Agent劳动力",
+          "link": "https://www.ifanr.com/1661513?utm_source=rss",
+          "summary": "Anthropic发布Mythos平台，以极低价格提供AI Agent劳动力服务，加速了自身产品迭代。这一举措被视为Agent商业化的重要尝试，但也引发关于AI劳动力定价的讨论。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "百度Create2026 AI开发者大会定档5月13至14日",
+          "link": "https://www.leiphone.com/category/industrynews/ljciEjrbH8lCGB1X.html",
+          "summary": "百度宣布Create2026大会以「万物一体」为主题，将发布芯-云-模-体全栈AI布局最新进展，包含20+分论坛和30+AI公开课，展示AI从基础设施到产业应用的全链路进化。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "众擎机器人完成2亿美元B轮融资，估值突破百亿",
+          "link": "https://36kr.com/newsflashes/3759548282995201?f=rss",
+          "summary": "人形机器人公司众擎机器人完成2亿美元B轮融资，由河南投资集团汇融基金领投，立讯精密战略入局联合领投，估值突破百亿元人民币，多家国资平台及产业资本参与。",
+          "source": "36氪"
+        },
+        {
+          "title": "三星将投资40亿美元在越南建设芯片封装厂",
+          "link": "https://36kr.com/newsflashes/3759542094824200?f=rss",
+          "summary": "三星电子计划投资40亿美元在越南北部太原省建造芯片封装厂，分阶段实施，首期投入20亿美元。此举旨在扩大三星在越南的半导体制造影响力。",
+          "source": "36氪"
+        },
+        {
+          "title": "华为AI眼镜即将到来，何刚晒出拍摄样张",
+          "link": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+          "summary": "华为终端BG CEO何刚在微博晒出由「HUAWEI AI Glasses」拍摄的样张，暗示华为AI眼镜即将发布。该产品支持拍照功能，搭载鸿蒙系统，具备跨端协同和同传翻译能力。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "OBSBOT寻影Tiny 3发布：63g口袋AI直播摄像头支持4K",
+          "link": "https://36kr.com/p/3759286934356744?f=rss",
+          "summary": "OBSBOT寻影发布Tiny 3 AI直播摄像头，仅重63g搭载1/1.28英寸传感器支持4K@30FPS，AI跟踪2.0支持人物锁定，三麦克风阵列360度收音，售价2499元。",
+          "source": "36氪"
+        },
+        {
+          "title": "INAIR完成千万美元A+轮融资，便携空间主机适配多款AR眼镜",
+          "link": "https://36kr.com/p/3759045427937793?f=rss",
+          "summary": "INAIR多屏未来完成千万美元A+轮融资，核心产品INAIR Pod搭载自研空间操作系统，支持最多6块虚拟屏幕，兼容Viture、Xreal、雷鸟等主流AR眼镜，已出海推出V3.5版本。",
+          "source": "36氪"
+        },
+        {
+          "title": "智子力控完成千万级融资，用光学重构机器人力觉感知",
+          "link": "https://36kr.com/p/3758900416348934?f=rss",
+          "summary": "智子力控获中芯聚源独家投资，基于光学传感技术为人形机器人提供分布式力觉感知方案，采用集中式架构在1000Hz采样频率下稳定运行，解耦算法串扰率控制在0.3%以下。",
+          "source": "36氪"
+        },
+        {
+          "title": "前小米高管王腾创业今日宜休，瞄准AI睡眠硬件赛道融资上亿",
+          "link": "https://36kr.com/p/3758896443884033?f=rss",
+          "summary": "前小米高管王腾创立今日宜休，以睡眠为切口打造精力管理生态，获高瓴、智元等投资，累计融资上亿元。首款产品计划下半年推出，打通监测到干预的软硬件闭环。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "马斯克要求罢免OpenAI CEO奥尔特曼，诉讼即将开庭",
+          "link": "https://www.qbitai.com/2026/04/398071.html",
+          "summary": "马斯克修改诉讼目标，寻求逆转OpenAI营利性转型并解除奥尔特曼职务。此案预计本月开庭，正值OpenAI启动上市关键期，OpenAI反斥其为嫉妒驱动的骚扰运动。",
+          "source": "量子位"
+        },
+        {
+          "title": "Anthropic挖角微软Azure AI掌舵人，加码AI基建",
+          "link": "https://www.tmtpost.com/7947051.html",
+          "summary": "Anthropic从微软挖走Azure AI负责人，负责AI基础设施建设。此举被视为AI竞争进入基建决定论阶段，头部公司对AI基础设施人才的争夺日趋激烈。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "群核科技最快今日招股，禾赛、泰康等四大基石投资者已落实",
+          "link": "https://www.leiphone.com/category/zaobao/DHsa9yGegOpLxsAb.html",
+          "summary": "杭州六小龙之一群核科技最快4月9日开始招股，募资超1亿美元，禾赛科技、泰康保险等成为基石投资者。摩根大通、建银国际为联席保荐人。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "大厂1.24亿抢科学家后又盯上13岁AI产品经理",
+          "link": "https://www.tmtpost.com/7946563.html",
+          "summary": "AI人才争夺战持续升级，继开出1.24亿年薪抢夺顶尖科学家后，科技大厂又将目光投向年轻的AI产品经理，反映出AI行业对复合型人才的极度渴求。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "耀速科技获2亿人民币A轮融资，AI+器官芯片嵌入新药开发",
+          "link": "https://36kr.com/p/3758982738641670?f=rss",
+          "summary": "AI for 3D Biology企业耀速科技完成2亿人民币A轮融资，国寿股权独家领投。FDA新政策鼓励类器官和AI毒理学模型替代动物实验，为公司打通落地应用关键环节。",
+          "source": "36氪"
+        },
+        {
+          "title": "AI植发机器人企业磅策医疗完成亿元B轮融资",
+          "link": "https://www.tmtpost.com/7947170.html",
+          "summary": "AI植发机器人企业磅策医疗完成亿元B轮融资。脱发人群呈现年轻化趋势，90后00后成为消费主力，20-40岁人群占植发客群比例达95%，AI医疗机器人赛道持续吸引资本。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

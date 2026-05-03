@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-30",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "刚刚，DeepSeek多模态技术范式公布，以视觉原语思考",
+          "link": "https://mp.weixin.qq.com/s/2ounFVjR9t6QHSwjKC13ew",
+          "summary": "DeepSeek联合北大清华发布多模态模型，通过视觉原语（边界框、点坐标）作为推理锚点，在计数、空间推理和拓扑任务上显著超越GPT-5.4、Claude Sonnet 4.6等主流模型。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek「开眼」背后的技术，公开了！",
+          "link": "https://zhidx.com/p/555086.html",
+          "summary": "DeepSeek发布284B参数多模态推理模型技术报告，基座为DeepSeek-V4-Flash。核心创新是将语言推理链升级为「语言逻辑+空间坐标」双轨思维，KV缓存压缩比达7056倍。",
+          "source": "智东西"
+        },
+        {
+          "title": "GPT-5系列咋都爱说「哥布林」？原因找到了",
+          "link": "https://mp.weixin.qq.com/s/c70SK2ldUAevW39Jqs9zRQ",
+          "summary": "文章揭示DeepSeek V3.1输出神秘「极」字源于训练数据未清洗，OpenAI模型频繁使用奇幻词汇则因强化学习奖励机制无意偏爱「书呆子」人格，微小偏差被放大并广泛传染。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "不只是DeepSeek V4，还有个万亿级大模型，训推全程国产芯片",
+          "link": "https://mp.weixin.qq.com/s/BY00hmiU56bLquu0kU9Png",
+          "summary": "美团在国产算力环境下成功训练出万亿参数MoE大模型LongCat-2.0-Preview，实现训练到推理全流程无英伟达芯片，依托5-6万张国产加速卡，支持百万字上下文。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭",
+          "link": "https://www.leiphone.com/category/yanxishe/rT2PkHFzmsUrpPbo.html",
+          "summary": "Anthropic联合剑桥发布「内省适配器」技术，通过轻量LoRA插件让大模型用自然语言准确报告微调中学到的行为，在AuditBench基准上以59%成功率超越所有现有审计方法，首次破解加密微调攻击。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "大模型「降智」真相，找到了",
+          "link": "https://zhidx.com/p/554608.html",
+          "summary": "智谱发布技术报告披露GLM-5系列在高并发长上下文场景下出现乱码、复读异常，定位到KV Cache异步Abort竞态和HiCache加载流水线同步缺失两个底层Bug，修复后异常率降至万分之三以下。",
+          "source": "智东西"
+        },
+        {
+          "title": "中国科学院推出「磐石100」系列，八大学科大模型",
+          "link": "https://zhidx.com/p/554058.html",
+          "summary": "中科院发布磐石科学大模型体系，基础模型升级至1.5pro版新增波、谱、场三大科学模态，面向数学、物理、材料、天文等八大学科打造领域大模型，「数字细胞」30天发现3个未知药物靶点。",
+          "source": "智东西"
+        },
+        {
+          "title": "ACL 2026 综述：大模型内生可解释性的前沿进展",
+          "link": "https://mp.weixin.qq.com/s/ykWkbRbw_0VapEjBWPcJDw",
+          "summary": "北大与普渡大学合作综述提出从「事后解释黑箱」转向「设计玻璃箱」新范式，梳理功能透明性、概念对齐、表征可分解性等五类核心设计原则，推动可解释性成为模型设计核心。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "谷歌开源「Agent Skill 超级工具箱」",
+          "link": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
+          "summary": "谷歌开源Agent Skill工具箱，将云服务、代码库、搜索引擎和AI能力全线打通，为开发者提供一站式智能体技能构建方案，大幅降低Agent开发门槛。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+          "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article",
+          "summary": "谷歌云正式推出Agents CLI命令行工具，旨在简化AI智能体从创建、测试到部署的全流程开发体验，进一步降低企业级Agent应用的开发复杂度。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "美团首度披露AI商家工具应用进展：已服务超180万实体商家",
+          "link": "https://www.leiphone.com/category/industrynews/M7UHcqytIywn2Wbu.html",
+          "summary": "美团披露AI小管家矩阵进展，核心功能已服务超180万实体商家。袋鼠参谋累计生成32万份选址报告准确率87%，智能掌柜每周服务近10万商家，AI数字员工覆盖200余种行业。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "阿里云领跑智能体安全，四项满分彰显AI安全硬实力",
+          "link": "https://www.leiphone.com/category/industrynews/x2c3Npbg5pWxaEVL.html",
+          "summary": "IDC发布智能体威胁检测技术评估报告，阿里云获总分最高及4项满分，在漏洞检测、运行时检测、MCP安全检测等维度表现优异，构建基于「Agent原生安全」的系统化防御体系。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+          "link": "https://www.qbitai.com/2026/04/411959.html",
+          "summary": "蚂蚁数科在以太坊全球基准评测中登顶，为AI智能体之间的可信协作提供新的安全方案，已投入自主研发超过10年。",
+          "source": "量子位"
+        },
+        {
+          "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+          "link": "https://www.qbitai.com/2026/04/412018.html",
+          "summary": "Stripe推出由Link驱动的智能体钱包等288项新功能，致力于构建AI时代的经济基础设施，为智能体之间的自主交易和支付提供底层支撑。",
+          "source": "量子位"
+        },
+        {
+          "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+          "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic的Claude Code在代码审计中发现了Linux内核中存在长达23年之久的可远程利用漏洞，展示了AI编程工具在安全审计领域的强大实战能力。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "2.69万！宇树最便宜人形机器人来了",
+          "link": "https://zhidx.com/p/554760.html",
+          "summary": "宇树发布R1系列双臂人形机器人，售价2.69万元起，为目前市面上价格最低的商业化人形机器人。支持5/7自由度单臂、固定/移动底盘，头部算力10TOPS，末端可快速换装。",
+          "source": "智东西"
+        },
+        {
+          "title": "小米最新人形机器人的手，会「出汗」了",
+          "link": "https://www.ifanr.com/1664575?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "小米展示最新人形机器人技术突破，机器人手部具备仿生「出汗」散热功能，还能与人比心互动，展示出精细的运动控制能力和人机交互水平。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "追觅AURORA手机全球亮相，最新估值近百亿美元",
+          "link": "https://36kr.com/p/3789059666173189?f=rss",
+          "summary": "追觅在硅谷发布AURORA手机，实现全焦段2亿像素、LOFIC技术和3D空间建模。搭载自研AIOS原生AI系统，按640亿元人民币估值推进新一轮融资。",
+          "source": "36氪"
+        },
+        {
+          "title": "追觅AI智能戒指亮相硅谷——硬核技术引领下一代智能穿戴",
+          "link": "https://www.leiphone.com/category/industrynews/6OBMhbp1mRMDjDc1.html",
+          "summary": "追觅AI智能戒指在硅谷发布会亮相，搭载全球首创AI震动主动交互技术，仅2.5mm厚度内实现触觉反馈。苹果联合创始人沃兹现场试戴称「未来无所不能」。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "钉钉爆火的AI硬件出Pro了：充电一次录音180小时",
+          "link": "https://zhidx.com/p/554835.html",
+          "summary": "钉钉推出DingTalk A1 Pro AI录音卡片，售价1299元。内置2980mAh电池，连续录音180小时，待机180天。搭载MEMS指向麦拾音10米，支持AI转写和多语种翻译。",
+          "source": "智东西"
+        },
+        {
+          "title": "「优时科技」完成数亿元B2轮融资，从L4自动驾驶延展至人形机器人",
+          "link": "https://36kr.com/p/3788687934249989?f=rss",
+          "summary": "优时科技完成数亿元B2轮融资，以纯视觉L4自动驾驶为底座，将社交导航能力平移至人形机器人平台。数千台优时小车在商超场景累积海量数据构建数据飞轮。",
+          "source": "36氪"
+        },
+        {
+          "title": "Generalist之后，罗剑岚团队推出LWD，也要变革具身智能训练范式",
+          "link": "https://mp.weixin.qq.com/s/Z9-QfTvW-3kRAzZT2o0-zw",
+          "summary": "智元机器人提出LWD具身智能训练新范式，通过分布式多机强化学习实现机器人真实环境持续学习，长程任务成功率达95%，标志具身智能从静态执行向动态进化转变。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Anthropic最新估值剑指6万亿！或将超过OpenAI",
+          "link": "https://zhidx.com/p/554953.html",
+          "summary": "Anthropic开始筹划新一轮融资，规模预计400-500亿美元，完成后估值将达8500-9000亿美元，有望超过OpenAI。年化收入已突破300亿美元，Claude Code和Claude Cowork贡献主要营收。",
+          "source": "智东西"
+        },
+        {
+          "title": "软银拟推AI新实体年内上市，估值直指千亿美元",
+          "link": "https://36kr.com/newsflashes/3789206220528901?f=rss",
+          "summary": "软银拟设立AI与机器人业务实体「Roze AI」，目标最早年内上市，估值直指1000亿美元。孙正义对此相当乐观，但软银内部仍有人对估值及上市时间表示怀疑。",
+          "source": "36氪"
+        },
+        {
+          "title": "营收同比增长28%，手握2.49万亿订单，AI带飞AWS",
+          "link": "https://zhidx.com/p/554559.html",
+          "summary": "亚马逊Q1营收1815亿美元同比增长17%，AWS营收376亿美元同比增长28%创近四年新高。手持订单达3640亿美元，自研芯片年化营收破200亿美元，但自由现金流骤降95%。",
+          "source": "智东西"
+        },
+        {
+          "title": "AI业务狂飙123%！微软不再靠OpenAI吸金",
+          "link": "https://zhidx.com/p/554366.html",
+          "summary": "微软Q3营收829亿美元同比增长18%，AI业务年收入超370亿美元同比增123%。Azure营收同比增长40%。Copilot付费席位破2000万同比增250%，不再向OpenAI支付分成。",
+          "source": "智东西"
+        },
+        {
+          "title": "净利暴涨80%，谷歌靠AI猛吸金，Gemini用户破3.5亿人",
+          "link": "https://zhidx.com/p/554522.html",
+          "summary": "谷歌母公司Alphabet Q1营收1099亿美元同比增长22%，净利润626亿美元暴涨81%。谷歌云营收首破200亿美元同比增长63%，企业AI解决方案收入同比增长近800%。",
+          "source": "智东西"
+        },
+        {
+          "title": "A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭",
+          "link": "https://www.tmtpost.com/7974339.html",
+          "summary": "A股年报显示AI算力产业链业绩全面爆发，电子信息与材料板块加速兑现，AI算力与绿色产业需求共振推动相关上市公司营收利润双增长。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "刚刚「别过」微软，OpenAI就投入了AWS的怀抱",
+          "link": "https://zhidx.com/p/554089.html",
+          "summary": "AWS与OpenAI宣布扩大合作，将GPT-5.5等最新模型接入Amazon Bedrock并上线Codex智能体。此前微软刚放开OpenAI独家合作权限，OpenAI承诺向AWS采购超1000亿美元算力。",
+          "source": "智东西"
+        },
+        {
+          "title": "集权、搞AI、出海，小红书一夜之间撕掉「慢公司」标签",
+          "link": "https://www.tmtpost.com/7974429.html",
+          "summary": "小红书发全员内部信宣布组织升级，整合社区、电商、商业化三大业务，成立AI一级部门Dots和企业智能部，柯南出任总裁全面负责核心业务经营。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

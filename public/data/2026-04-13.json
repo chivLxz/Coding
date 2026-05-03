@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-13",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Claude强到不敢发的Mythos被质疑用了字节Seed技术",
+          "link": "https://www.qbitai.com/2026/04/400500.html",
+          "summary": "Mythos概念来自字节Seed团队与多个高校合作的论文，Yoshua Bengio也参与其中，引发社区对技术来源的质疑与讨论。",
+          "source": "量子位"
+        },
+        {
+          "title": "上海交大提出LatentUM统一多模态模型",
+          "link": "https://mp.weixin.qq.com/s/QVnCUrJZcfN7SdPuOVRHwQ",
+          "summary": "上海交大联合清华与UCSD提出LatentUM，基于共享语义潜在空间实现统一多模态推理，视觉生成结果直接作为推理中间态，最高准确率达0.99。",
+          "source": "机器之心"
+        },
+        {
+          "title": "南大发布Video-MME-v2评测基准：最强模型仅49分",
+          "link": "https://mp.weixin.qq.com/s/xOLOgZfQJlWWUicZavyyeA",
+          "summary": "南京大学发布新一代视频理解评测基准，揭示当前大模型与人类专家存在巨大鸿沟（49.4 vs 90.7），高层推理能力薄弱。",
+          "source": "机器之心"
+        },
+        {
+          "title": "大模型Latent Space综述：范式革命正在到来",
+          "link": "https://mp.weixin.qq.com/s/6Fini_pAUyB7B5R6GIdfAQ",
+          "summary": "NUS、复旦、清华等联合发布潜在空间综述，指出其正取代传统显式语言空间成为大模型核心计算范式，在多模态与具身智能领域展现颠覆性潜力。",
+          "source": "机器之心"
+        },
+        {
+          "title": "传DeepSeek V4本月下旬发布",
+          "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+          "summary": "据传梁文峰内部发声，DeepSeek V4将于本月下旬发布。此外京东全面拦截员工使用外部AI，红帽裁撤中国区研发团队迁至印度。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAI正在做「替你用电脑」的Super App，新模型Spud几周内登场",
+          "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
+          "summary": "OpenAI正开发可代替用户操作电脑的超级应用，配套新模型Spud预计几周内发布，标志着AI从对话向自主执行的重大跨越。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI Codex只留10条要点把执行交给skills",
+          "link": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+          "summary": "OpenAI不再为Codex编写长篇spec，改为仅保留10条核心要点，将具体执行逻辑交给skills系统，简化AI编程Agent的指令范式。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+          "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+          "summary": "谷歌发布AppFunctions框架，打通AI智能体与Android原生应用之间的交互通道，让Agent能直接调用App功能完成复杂任务。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Cloudflare发布Dynamic Workers公开测试版",
+          "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+          "summary": "Cloudflare推出基于Isolates沙箱环境的Dynamic Workers公测版，专为安全执行AI智能体代码设计，支持动态扩缩容。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "明日新程完成连续两轮融资，领跑群体多智能体赛道",
+          "link": "https://www.leiphone.com/category/industrynews/aiDP2A7dwvwQL6Ue.html",
+          "summary": "微软小冰原班人马创立的明日新程连续完成两轮融资，聚焦Harness群体多智能体协同，号称降低50%以上Token消耗。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "别克至境E7行业首发搭载豆包大模型最新版",
+          "link": "https://www.leiphone.com/category/industrynews/c8rGA0s3Z9EolPet.html",
+          "summary": "别克至境E7首发搭载豆包大模型最新版，打造集陪伴、娱乐、用车、出行、车控五大功能的车载智能体，实现端云协同持续进化。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "阿里押注「智能体经济」：让Token融入服务",
+          "link": "https://www.tmtpost.com/7951332.html",
+          "summary": "阿里AI多线提速，从基础模型到应用生态全面布局智能体经济，推动AI Token成为连接服务与价值的核心媒介。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "留学生用AI看病：小病靠AI缓解大病撑到回国",
+          "link": "https://36kr.com/p/3764892434711049?f=rss",
+          "summary": "近8成留学生用AI辅助看病，通过蚂蚁阿福、ChatGPT等工具进行症状分析和用药建议，部分用户反馈省下超2万元医疗费。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "图速科技发布具身打磨机器人，效率为人工3-4倍",
+          "link": "https://36kr.com/p/3765207394009602?f=rss",
+          "summary": "图速科技发布砺眸具身智能平台、图御路径规划系统及图匠打磨机器人，搭载SLAM导航与高精度力控，实现从检测到修复1分钟完成。",
+          "source": "36氪"
+        },
+        {
+          "title": "前大疆工程师创业陪伴机器人COCOMO即将众筹",
+          "link": "https://36kr.com/p/3764777930621705?f=rss",
+          "summary": "Ludens AI推出陪伴机器人COCOMO与INU，采用端侧AI与非语言情感交互，自研Klara OS操作系统，产品即将登陆海外众筹平台。",
+          "source": "36氪"
+        },
+        {
+          "title": "国内首个全感知力触觉数据采集系统助力VLA进化",
+          "link": "https://mp.weixin.qq.com/s/HyYdjhq3eWsDpfLuG9ADsQ",
+          "summary": "开普勒机器人推出国内首个原生全感知力触觉数据采集系统，融合多模态数据支撑VTLA大模型，工业场景任务成功率达99.4%。",
+          "source": "机器之心"
+        },
+        {
+          "title": "荣耀机器人「闪电」「元气仔」出征北京亦庄马拉松",
+          "link": "https://36kr.com/p/3765146768376326?f=rss",
+          "summary": "荣耀自研机器人「闪电」正式报名参加4月19日北京亦庄机器人马拉松，成为全球首个由终端大厂派出选手的机器人马拉松挑战者。",
+          "source": "36氪"
+        },
+        {
+          "title": "智能座舱「大脑」No.1冲刺港股，小米理想小鹏共同供应商",
+          "link": "https://www.qbitai.com/2026/04/400567.html",
+          "summary": "智能座舱芯片龙头冲刺港股IPO，估值630亿，拿下九家全球TOP10车企订单，是小米、理想、小鹏等车企的共同供应商。",
+          "source": "量子位"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "金山办公一季度净利同比预增402%-473%",
+          "link": "https://36kr.com/p/3765146768376326?f=rss",
+          "summary": "金山办公公告预计Q1净利润20.22亿-23.07亿元，同比增长402%-473%，WPS 365同步加速东南亚市场布局。",
+          "source": "36氪"
+        },
+        {
+          "title": "蓝驰创投募资39亿元重仓AI与硬科技早期项目",
+          "link": "https://www.tmtpost.com/7951047.html",
+          "summary": "蓝驰创投完成39亿元募资，重点投向AI与硬科技早期项目，管理资产总规模接近200亿元人民币。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "OpenAI：微软限制了其接触客户的能力",
+          "link": "https://36kr.com/newsflashes/3765235147113224?f=rss",
+          "summary": "OpenAI内部备忘录透露正与亚马逊建立联盟，同时抱怨微软限制了其接触客户的能力，三方合作关系出现裂痕。",
+          "source": "36氪"
+        },
+        {
+          "title": "成都华微业绩下修股价走弱，高估值叙事落空",
+          "link": "https://www.tmtpost.com/7951428.html",
+          "summary": "芯片企业成都华微业绩下修，上市前高企的应收账款问题愈演愈烈，3倍「芯片牛」高估值叙事面临市场考验。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI潮玩品牌MOMOTOY完成数千万元融资",
+          "link": "https://36kr.com/p/3765146768376326?f=rss",
+          "summary": "AI潮玩品牌MOMOTOY完成数千万元融资，由翼朴基金投资，投后估值2.5亿，资金将投向AI技术迭代与全球渠道拓展。",
+          "source": "36氪"
+        },
+        {
+          "title": "沪电股份一季度净利同比预增55%-65%",
+          "link": "https://36kr.com/p/3765146768376326?f=rss",
+          "summary": "沪电股份公告Q1预计净利润11.8亿-12.6亿元，同比增长54.76%-65.25%，受益于AI算力基础设施需求持续增长。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

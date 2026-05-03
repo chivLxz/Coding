@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-28",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "小米开源MiMo-V2.5系列模型，测评超越DeepSeek-V4-Pro",
+          "link": "https://zhidx.com/p/553664.html",
+          "summary": "小米开源罗福莉带队研发的MiMo-V2.5系列模型，采用MIT协议允许商用。MiMo-V2.5-Pro为1.02T参数MoE模型，在多项基准测试中超越DeepSeek-V4-Pro和Kimi K2.6等主流闭源模型，开源首日完成7家芯片厂商适配。",
+          "source": "智东西"
+        },
+        {
+          "title": "商汤开源SenseNova U1，8B参数拿下多模态开源SOTA",
+          "link": "https://zhidx.com/p/553886.html",
+          "summary": "商汤开源原生理解生成统一模型SenseNova U1，基于自研NEO-unify架构将理解与生成统一到同一体系中。8B参数在信息图生成等多项基准上达到开源SOTA，逼近闭源商业模型，生成延迟约15秒。",
+          "source": "智东西"
+        },
+        {
+          "title": "DeepSeek V4关键特性深度解析，算力消耗降至V3.2的27%",
+          "link": "https://mp.weixin.qq.com/s/Cny1WS3kYfhYaXF6fc6KyA",
+          "summary": "DeepSeek V4通过混合注意力机制、MoE架构和后训练优化，在保持1.6T参数规模的同时将算力消耗降至V3.2的27%，KV缓存压缩至10%。V4-Pro在代码生成和中文任务上接近闭源顶尖，但存在幻觉率高、无多模态等短板。",
+          "source": "智能涌现公众号"
+        },
+        {
+          "title": "DeepSeek V4首发适配昇腾950，推理时延低至10-20ms",
+          "link": "https://www.leiphone.com/category/chips/CqoD5uivrAvZkhZy.html",
+          "summary": "华为昇腾在DeepSeek V4发布当天实现全系列适配，昇腾950超节点推理时延低至10-20ms。昇腾坚持不做CUDA兼容层，通过自研编程范式将算子开发周期缩短至天级，构建独立AI基础设施体系。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "阿里视频模型HappyHorse 1.0开启灰测，支持15秒多镜头叙事",
+          "link": "https://www.qbitai.com/2026/04/410314.html",
+          "summary": "阿里巴巴发布多模态视频生成模型HappyHorse 1.0，支持15秒多镜头叙事、多画幅适配及1080P超分输出，在光影质感和人物真实感方面表现优秀，720P视频生成最低0.44元/秒。",
+          "source": "量子位"
+        },
+        {
+          "title": "LangFlow：连续扩散模型首次在语言建模基准上全面追平离散扩散",
+          "link": "https://mp.weixin.qq.com/s/rLlsmLWLbzPKfB6UfFB7bw",
+          "summary": "UIUC团队提出LangFlow模型，首次在标准语言建模基准上实现连续扩散与离散扩散性能全面追平。通过嵌入空间扩散、Gumbel噪声调度和自条件机制，在7项零样本迁移任务中3项超越自回归模型。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "ICLR 2026 Oral：大模型在正常提问下也会「欺骗」",
+          "link": "https://mp.weixin.qq.com/s/koi55UvPBxIxFquBcx9cuw",
+          "summary": "新加坡国立大学团队提出CSQ评测框架，发现大模型在无明显诱导的正常提问下也可能表现出欺骗行为，模型复杂度越高欺骗倾向越明显，首次将心理学欺骗概念引入AI评估。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "ACL 2026：华为SHAPE方法给LLM推理装「推理税」，准确率升3%token降30%",
+          "link": "https://mp.weixin.qq.com/s/GuRb2wbxf002NNQ9Pymk0Q",
+          "summary": "华为泰勒实验室联合北大提出SHAPE方法，通过推理势能评估和推理税机制动态惩罚冗余表达，在多个数学基准上平均提升准确率3%，降低token消耗30%，有效解决推理啰嗦问题。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "支付宝发布「支付宝AI收」，个人开发者0费率使用",
+          "link": "https://www.qbitai.com/2026/04/410450.html",
+          "summary": "支付宝正式发布AI收款产品「支付宝AI收」，面向个人开发者提供0费率使用政策，助力更多企业与个人低门槛迈入AI时代，降低AI应用开发成本。",
+          "source": "量子位"
+        },
+        {
+          "title": "Cloudflare Sandboxes发布，为AI代理提供持久化隔离环境",
+          "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
+          "summary": "Cloudflare正式发布Sandboxes服务，为AI代理提供持久化的隔离运行环境，支持安全执行代码和文件操作，解决AI代理在生产环境中的安全隔离问题。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "openJiuwen首发「协调工程」，让多智能体从单兵到精锐团队",
+          "link": "https://mp.weixin.qq.com/s/A5ZQjAGpfuFJ6P2h3L_M0g",
+          "summary": "华为支持的openJiuwen社区提出Coordination Engineering新范式，通过Leader-Teammate分级协同和Team Skills标准化封装，实现多智能体协作从一次性组队到智能作战的演进。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "火山引擎发布新一代汽车AI方案，三大引擎打造「汽车大脑」",
+          "link": "https://www.leiphone.com/category/transportation/EbejW9klMvSs4uhf.html",
+          "summary": "火山引擎发布基于Agentic AI架构的汽车AI解决方案，将对话推理、目标驱动和学习成长三大引擎融入统一汽车大脑，豆包大模型已搭载超700万台智能汽车，日均完成超3000万次座舱交互。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "达摩院肠癌AI模型登顶刊，平扫CT精准识别漏诊肠癌",
+          "link": "https://zhidx.com/p/553824.html",
+          "summary": "阿里达摩院联合广东省人民医院研发肠癌筛查AI模型DAMO COCA，从2.7万人平扫CT中精准识别5例漏诊肠癌，敏感性86.6%特异性99.8%，为首个无需肠道准备的「无感」筛查方法。",
+          "source": "智东西"
+        },
+        {
+          "title": "联影智能开源全球首个医疗视频理解大模型uAI-NEXUS-MedVLM",
+          "link": "https://mp.weixin.qq.com/s/EKeHwrcTHXOa4r53q1iPXg",
+          "summary": "联影智能发布全球首个开源医疗视频理解大模型及MedGRPO训练方法，构建含53万条视频指令对的基准数据集，在多项指标上远超GPT-5.4等通用大模型，推动AI安全落地手术室。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "MuleRun首发灰测HappyHorse，支持7x24小时AI视频生成",
+          "link": "https://www.leiphone.com/category/industrynews/xyuy07DyToeJpIoi.html",
+          "summary": "全球首个自进化个人AI平台MuleRun首发灰测阿里HappyHorse模型，用户可全天候调用视频生成能力，平台主动学习用户偏好，构建开放Agent网络实现内容共创。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "AI编程代理9秒删光公司数据库，安全机制缺失暴露行业隐患",
+          "link": "https://mp.weixin.qq.com/s/JV7oR1Z_5mpDZjRljC9qEA",
+          "summary": "SaaS公司PocketOS因使用Cursor与Railway的AI工具，在无人工确认下误删生产数据库及备份，9秒数据全失。事件暴露AI代理缺乏安全约束、平台权限设计缺陷等系统性风险。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "爱芯元智大算力辅助驾驶芯片M97将于三季度发布",
+          "link": "https://36kr.com/p/3784806758243587?f=rss",
+          "summary": "爱芯元智宣布今年三季度发布大算力辅助驾驶芯片M97，已成功流片。该芯片重点提升带宽效率，解决主流高阶辅助驾驶芯片带宽不足的问题，2026年将逐步导入多款车型。",
+          "source": "36氪"
+        },
+        {
+          "title": "三星首款AI眼镜外观参数全曝光，深度整合Gemini AI",
+          "link": "https://zhidx.com/p/553939.html",
+          "summary": "三星Galaxy智能眼镜曝光，基础款约50g重，搭载高通骁龙AR1处理器和1200万像素摄像头，运行Android XR系统并深度整合Gemini AI，预计7月亮相，定价379-499美元。",
+          "source": "智东西"
+        },
+        {
+          "title": "一加Ace 6至尊版发布，自研风驰游戏内核让GPU看齐主机",
+          "link": "https://zhidx.com/p/553955.html",
+          "summary": "一加发布Ace 6至尊版新机，搭载天玑9500芯片和自研风驰游戏内核技术，GPU频率提升至1.716GHz实现主机级光追，支持165帧满帧游戏体验，8600mAh电池，国补后2999元起。",
+          "source": "智东西"
+        },
+        {
+          "title": "萤石发布AI大模型主机CoreX及多款AI硬件新品",
+          "link": "https://www.leiphone.com/category/smarthome/giJBctmwkQfAWjKn.html",
+          "summary": "萤石发布智能大模型主机AI CoreX、儿童AI随身拍Pika、AI双擎蒸汽洗地机器人星辰10系列等新品，构建「云-边-端」协同体系。CoreX搭载24G+128G内存和64T算力，支持本地智能分析。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "超维动力发布人形机器人KAI，115自由度深度融合世界模型",
+          "link": "https://mp.weixin.qq.com/s/olNvQYnEsCe0-Q3vRMaJaQ",
+          "summary": "超维动力发布人形机器人KAI，具备115个自由度、1.8万个触觉点和36自由度灵巧手。基于10万小时第一人称视角数据训练，构建世界模型与动作模型闭环，标志具身智能从概念走向验证。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "昇视唯盛完成A+轮融资，焊接机器人营收预计破数亿",
+          "link": "https://36kr.com/p/3785955616152839?f=rss",
+          "summary": "焊接机器人公司昇视唯盛完成数千万元A+轮融资，由韩国现代和微光创投联合投资。公司具备「AI算法+焊接工艺+机器人本体」三合一能力，已与韩国现代造船签数千万订单，2026年营收预计破数亿。",
+          "source": "36氪"
+        },
+        {
+          "title": "安克创新造芯片进军具身智能，跨境一哥的战略转型",
+          "link": "https://www.tmtpost.com/7969233.html",
+          "summary": "安克创新正从消费电子渠道品牌向智能硬件和具身智能转型，自研芯片布局AI硬件生态，但面临技术门槛高、研发投入大、模式转型困难等多重挑战。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "自动驾驶重卡迎来「iPhone时刻」",
+          "link": "https://www.tmtpost.com/7970665.html",
+          "summary": "AI、机器人与开放生态正加速重构未来运输基础设施，自动驾驶重卡行业在技术成熟度和商业模式验证上取得关键突破，行业拐点临近。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "OpenAI与微软结束独家绑定，模型可上任意云平台",
+          "link": "https://zhidx.com/p/553655.html",
+          "summary": "微软与OpenAI修订合作协议，结束微软独家分销地位，OpenAI可向所有云服务商提供产品。微软不再向OpenAI支付收入分成，IP许可延至2032年，AGI触发条款被取消，为OpenAI IPO铺路。",
+          "source": "智东西"
+        },
+        {
+          "title": "马斯克诉OpenAI案正式开庭，索赔1340亿美元",
+          "link": "https://zhidx.com/p/553513.html",
+          "summary": "马斯克起诉OpenAI案在加州奥克兰联邦法院开庭，陪审团已选定。诉求聚焦违反慈善信托与不当得利，索赔1340亿美元起。微软CEO纳德拉、OpenAI前高管等多位关键证人将出庭，5月21日结束责任阶段。",
+          "source": "智东西"
+        },
+        {
+          "title": "OpenAI曝财务危机：用户和收入目标全未达成，IPO前路坎坷",
+          "link": "https://zhidx.com/p/553737.html",
+          "summary": "OpenAI未能实现ChatGPT周活10亿的内部目标，受谷歌Gemini冲击市场份额持续承压。CFO对算力支出表达担忧，公司承担约6000亿美元未来支出承诺，年底IPO计划面临内部分歧与马斯克诉讼双重压力。",
+          "source": "智东西"
+        },
+        {
+          "title": "英伟达谷歌抢投AI独角兽Ineffable，欧洲史上最大种子轮11亿美元",
+          "link": "https://zhidx.com/p/553778.html",
+          "summary": "前DeepMind首席科学家David Silver创立的Ineffable完成11亿美元种子轮，估值51亿美元。由红杉资本和光速创投领投，英伟达和谷歌参投，为欧洲迄今最大种子轮，目标打造无需人类数据的超级学习系统。",
+          "source": "智东西"
+        },
+        {
+          "title": "2026年资本正「沿着产业集群」给AI公司定价",
+          "link": "https://www.tmtpost.com/7970692.html",
+          "summary": "AI产业资本呈现明显地域分工：北方聚焦「模型+应用」，南方押注「具身+硬件」。投资人开始沿产业集群链条对AI公司进行系统性定价，关注技术壁垒与商业闭环。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "谷歌DeepMind CEO访韩会见现代和LG，加强AI合作",
+          "link": "https://36kr.com/p/3786324189027332?f=rss",
+          "summary": "谷歌DeepMind CEO哈萨比斯访问韩国，分别会见现代汽车集团和LG集团负责人，讨论加强AI领域合作。LG电子及AI研究实验室高管出席，涉及智能驾驶和家电AI化方向。",
+          "source": "36氪"
+        },
+        {
+          "title": "Meta准备撤销对AI初创公司Manus的收购",
+          "link": "https://36kr.com/p/3786324189027332?f=rss",
+          "summary": "据报道Meta正准备撤销对AI初创公司Manus的收购，Manus投资者已收回投资。腾讯、HSG和真格基金等亚洲投资方计划配合撤销交易，AI行业并购整合出现反复。",
+          "source": "36氪"
+        },
+        {
+          "title": "星迹互动完成数千万元天使轮融资，用AI做IP内容",
+          "link": "https://36kr.com/p/3784697499786503?f=rss",
+          "summary": "数字科技文娱公司星迹互动完成数千万元天使轮融资，投资方包括正大集团和大融传媒等。公司以AI为核心开发运营精品IP，今年预计收入千万级并实现盈利，数字人IP业务贡献近50%收入。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

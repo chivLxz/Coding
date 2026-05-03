@@ -1,0 +1,231 @@
+{
+  "date": "2026-04-17",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Claude Opus 4.7深夜上线，评分碾压",
+          "link": "https://mp.weixin.qq.com/s/batX7386Y49hk7-Cr0PbAg",
+          "summary": "Anthropic发布Claude Opus 4.7，编程、多模态、长上下文推理能力大幅提升，多项基准测试超越GPT-5.4和Gemini 3.1 Pro，新增自动模式、专注模式等智能体功能。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "Claude Opus 4.7深夜炸场！胜任更长任务、自主检查，视觉能力拉满",
+          "link": "https://zhidx.com/p/549832.html",
+          "summary": "Claude Opus 4.7在高级软件工程、生物推理、文档推理等维度显著超越前代，生物推理得分从30.9%飙升至74.0%，新增xhigh推理等级和代码审查命令。",
+          "source": "智东西"
+        },
+        {
+          "title": "DeepSeek悄悄更新：Mega MoE、FP4 Indexer来了",
+          "link": "https://mp.weixin.qq.com/s/iOsesC7c1KtUIsmR-CvfeQ",
+          "summary": "DeepSeek更新开源算子库DeepGEMM，新增Mega MoE技术，将MoE推理多个独立步骤融合为单一高效内核，支持FP8×FP4混合精度，为下一代大模型提供关键支撑。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "首个Qwen3.6开源模型来了！编程视觉双提升，还兼容OpenClaw",
+          "link": "https://zhidx.com/p/549800.html",
+          "summary": "阿里通义千问开源Qwen3.6-35B-A3B，激活参数仅30亿，编程基准超越前代MoE模型和Gemma 4系列，视觉能力与Claude Sonnet 4.5持平，已适配OpenClaw等编程助手。",
+          "source": "智东西"
+        },
+        {
+          "title": "Transformer与RNN合体，谷歌打下显存门槛，解锁超长上下文",
+          "link": "https://mp.weixin.qq.com/s/0rYYvTIqR4bRPNFgTSpJrg",
+          "summary": "谷歌提出「记忆缓存」新方法，在RNN中定期缓存历史隐藏状态快照，融合Transformer高效召回与RNN高效推理优势，为非Transformer架构提供实用化新路径。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "Claude Code之父，公开Opus 4.7内部使用技巧",
+          "link": "https://zhidx.com/p/550053.html",
+          "summary": "Claude Code之父Boris Cherny分享Opus 4.7使用技巧：开启自动模式、利用回放功能、调整推理等级、提供验证方式，帮助开发者更高效利用新模型处理复杂任务。",
+          "source": "智东西"
+        },
+        {
+          "title": "RNA预测超95%专家，OpenAI发布生命科学大模型",
+          "link": "https://zhidx.com/p/549959.html",
+          "summary": "OpenAI发布首个行业专用推理模型GPT-Rosalind，专为生物学和药物发现定制，RNA序列功能预测超越95%人类专家，同步开源Codex生命科学研究插件。",
+          "source": "智东西"
+        },
+        {
+          "title": "ACL 2026 | OPeRA Dataset：LLM真的能模仿人类行为了吗？",
+          "link": "https://mp.weixin.qq.com/s/_isMfYDENVLDB7DS7Jm0yQ",
+          "summary": "美国东北大学等机构提出OPeRA数据集，首次系统评估LLM模拟真实人类行为的能力，发现主流模型预测下一步操作准确率不足20%，揭示LLM行为模拟瓶颈。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "字节发Seedance 2.0论文，详解四大核心能力",
+          "link": "https://zhidx.com/p/550052.html",
+          "summary": "字节Seed团队发布Seedance 2.0技术论文，该多模态视频生成模型在文生视频、图生视频、参考生视频三大任务所有维度均排名第一，原生支持音视频联合生成。",
+          "source": "智东西"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI Codex迎来更新：可排班可断点续跑，还能直接操作Mac应用",
+          "link": "https://zhidx.com/p/550055.html",
+          "summary": "OpenAI更新Codex，新增Mac后台交互功能、内置浏览器、90余款插件，支持自主排期和断点续跑长期任务，增强记忆功能并可主动建议后续操作。",
+          "source": "智东西"
+        },
+        {
+          "title": "AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局",
+          "link": "https://www.tmtpost.com/7957423.html",
+          "summary": "算力涨价40%、模型API涨463%，纯API创业公司正被挤出牌桌。文章从算力成本、Token结构、驾驭工程、端侧迁移、数据闭环五个维度拆解AI产业洗牌逻辑。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "MCP设计缺陷波及超20万台服务器、3万代码库",
+          "link": "https://zhidx.com/p/549552.html",
+          "summary": "安全公司发现Anthropic主导的MCP协议存在架构级漏洞，影响3.2万代码仓库和超20万台服务器，攻击者可窃取数据、API密钥及聊天记录，Anthropic回应称「属于预期设计」。",
+          "source": "智东西"
+        },
+        {
+          "title": "用不起Token的我，成了AI时代的下沉市场人群",
+          "link": "https://www.tmtpost.com/7957564.html",
+          "summary": "随着AI应用深入日常工作，Token消耗成为普通用户的新负担，仿佛回到早期互联网流量超额、欠费停机的时代，Token成本正在重塑AI用户的使用习惯。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "OpenAI 也把工程师经验「蒸馏」进 skill 了",
+          "link": "https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article",
+          "summary": "Harness爆文作者披露内部玩法：一个百万行代码系统，全程零人工编码和审核，OpenAI已将工程师经验蒸馏进skill体系，引发行业关注。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面",
+          "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
+          "summary": "InfoQ分析智能体企业架构趋势，指出在数据、模型、系统三大平面之外，控制平面正成为AI Agent架构的关键新层级，决定智能体的协调与治理能力。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Sora折戟，即梦涨价，阿里入局：AI视频的下半场怎么打？",
+          "link": "https://www.tmtpost.com/7956456.html",
+          "summary": "Sora热度消退、即梦涨价、阿里入局，AI视频生成赛道进入下半场竞争，C端赚吆喝、B端抢Token成为行业新态势。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径",
+          "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
+          "summary": "InfoQ技术趋势文章探讨生成式AI与智能体AI从试点走向规模化盈利的ROI兑现路径，分析企业如何实现AI投资的商业回报。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+          "link": "https://www.qbitai.com/2026/04/402189.html",
+          "summary": "Physical Intelligence发布π0.7，这是一款具有涌现能力的可控VLA模型，被视为具身智能领域的GPT-3时刻，标志着机器人操作能力的重大突破。",
+          "source": "量子位"
+        },
+        {
+          "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+          "link": "https://36kr.com/p/3770787623404293?f=rss",
+          "summary": "荣耀发布首款「养虾本」MagicBook系列，出厂配置自研YOYO Claw，端云协同节省50% Token消耗，瞄准基础办公和大学生群体，售价5949元起。",
+          "source": "36氪"
+        },
+        {
+          "title": "物理AI时代，为什么需要一颗「舱驾融合」芯片？",
+          "link": "https://www.leiphone.com/category/transportation/RCJOIk9kvsXhxVvd.html",
+          "summary": "地平线即将发布中国首款舱驾融合智能体芯片「星空」系列，将座舱与智驾统一到一颗芯片，单车BOM成本可降1500-4000元，算力利用率提升至60%以上。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "逐际动力开源 FluxVLA Engine：专为具身智能打造的标准化VLA工程底座",
+          "link": "https://www.leiphone.com/category/robot/PJ2nHfNQ6K5Tz5yt.html",
+          "summary": "逐际动力开源FluxVLA Engine，提供统一配置、模块解耦的标准化VLA工程底座，打通数据处理到真机部署全流程，实现5-10倍推理速度提升。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "全球首款！进迭时空 RISC-V AI CPU K3 成功适配 OpenHarmony 6.1",
+          "link": "https://www.leiphone.com/category/chips/2VeR9uuIHQOur2mT.html",
+          "summary": "进迭时空K3芯片成功运行OpenHarmony 6.1，成为全球首款支持该系统的RISC-V架构芯片，具备130 KDMIPS通用算力和60 TOPS AI算力，可运行300-800亿参数大模型。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+          "link": "https://www.qbitai.com/2026/04/402440.html",
+          "summary": "广汽文远新车型以11.58万价格搭载全系Lidar和L4同源算法，算力仅需200TOPS即可实现城区NOA功能，将高阶智驾拉入十万级市场。",
+          "source": "量子位"
+        },
+        {
+          "title": "4.55亿美金！中国具身智能最大单笔融资诞生",
+          "link": "https://www.qbitai.com/2026/04/402388.html",
+          "summary": "它石智航完成4.55亿美金Pre-A轮融资，创中国具身智能最大单笔融资纪录，资金将用于打造通用具身大模型AWE和吸引顶尖人才。",
+          "source": "量子位"
+        },
+        {
+          "title": "Plaud 爆火后，YoooClaw 要改写 AI 硬件的剧本",
+          "link": "https://www.leiphone.com/category/weiwu/l5ArU7CftQcIfedA.html",
+          "summary": "YoooClaw创始人肖睿哲提出AI硬件新思路：不做聊天入口，而是通过通知消息等日常行为构建个人上下文，让AI在真实场景中更有用，产品已接入OpenClaw生态。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "1300亿！曝OpenAI花大价钱给英伟达找备胎",
+          "link": "https://zhidx.com/p/549988.html",
+          "summary": "OpenAI未来三年将支付超200亿美元购买Cerebras芯片，另提供10亿美元资助数据中心建设。Cerebras计划下月IPO，目标估值约350亿美元。",
+          "source": "智东西"
+        },
+        {
+          "title": "36氪首发 | 「华为天才少年」创业连融超4亿元，做新一代推理芯片重构显存成本",
+          "link": "https://36kr.com/p/3770363954954755?f=rss",
+          "summary": "行云集成电路完成Pre-A及Pre-A+轮融资超4亿元，专注大模型推理芯片，放弃HBM转用LPDDR/NAND降低显存成本一到两个数量级，今年核心目标是完成芯片流片。",
+          "source": "36氪"
+        },
+        {
+          "title": "AI已替代65%编码工作，Snap裁员16%、年省5亿美元",
+          "link": "https://zhidx.com/p/549991.html",
+          "summary": "Snap宣布裁员约1000人占员工16%，AI已生成超65%新代码，预计年化削减5亿美元开支。受消息影响股价上涨约5.8%，成为AI裁员潮最新案例。",
+          "source": "智东西"
+        },
+        {
+          "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
+          "link": "https://www.qbitai.com/2026/04/402158.html",
+          "summary": "杭州六小龙之一的空间智能企业群核科技上市首日暴涨171%，李飞飞押注的空间智能赛道迎来首个IPO，标志着空间智能技术商业化的重要里程碑。",
+          "source": "量子位"
+        },
+        {
+          "title": "黄仁勋：DeepSeek在华为芯片上发布「很可怕」",
+          "link": "https://www.leiphone.com/category/zaobao/As9S1mnDtaVEtMzK.html",
+          "summary": "黄仁勋表示DeepSeek若在华为芯片上首发将「对美国是可怕的结果」，承认中国拥有顶尖AI研究人员，算法进步比硬件改进更重要。DeepSeek V4预计本月下旬发布。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "仕佳光子：拟12.65亿元投建高速光芯片与器件开发及产业化项目",
+          "link": "https://36kr.com/newsflashes/3770902281863945?f=rss",
+          "summary": "仕佳光子拟投资12.65亿元建设高速光芯片项目，建设周期2年，旨在扩大核心产品规模化生产能力，完善光通信领域产业布局。",
+          "source": "36氪"
+        },
+        {
+          "title": "比授予价提高30.8%，字节跳动启动「豆包股」首次回购",
+          "link": "https://www.leiphone.com/category/zaobao/As9S1mnDtaVEtMzK.html",
+          "summary": "字节启动豆包股首次回购，回购价13.08美元/股，较授予价提高30.8%。同时启动新一轮期权回购，在职员工每股回购价229.5美元。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "两位60后AI创业7个月融超20亿，再启10亿级融资",
+          "link": "https://zhidx.com/p/550153.html",
+          "summary": "AI网络基础设施公司Upscale AI成立7个月已完成两轮融资超3亿美元，正洽谈以20亿美元估值再融1.8-2亿美元，计划今年推出产品。",
+          "source": "智东西"
+        }
+      ]
+    }
+  ]
+}

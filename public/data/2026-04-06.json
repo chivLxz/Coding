@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-06",
+  "sources": [
+    "量子位",
+    "36氪",
+    "机器之心",
+    "InfoQ",
+    "爱范儿",
+    "钛媒体",
+    "雷锋网"
+  ],
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "GPT-6曝光：彻底奔着AGI去的模型",
+          "link": "https://www.qbitai.com/2026/04/396366.html",
+          "summary": "OpenAI下一代旗舰模型GPT-6细节曝光，定位为直指AGI的全能模型，在推理、多模态和自主任务执行能力上实现重大跃升。",
+          "source": "量子位"
+        },
+        {
+          "title": "OpenAI新模型不是GPTX！全新预训练\"土豆\"曝光",
+          "link": "https://www.qbitai.com/2026/04/396535.html",
+          "summary": "OpenAI曝光全新预训练代号\"土豆\"项目，非GPT系列延续，采用全新架构范式，正面回应与Anthropic的竞争态势。",
+          "source": "量子位"
+        },
+        {
+          "title": "让离线强化学习从「局部描摹」变「全局布局」",
+          "link": "https://www.qbitai.com/2026/04/396738.html",
+          "summary": "ICLR 2026收录论文提出离线强化学习新范式，从局部策略模仿转向全局规划布局，显著提升智能体决策质量与泛化能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "太初元碁向员工发放百亿算力token，共建高校AI科教融合学院",
+          "link": "https://www.qbitai.com/2026/04/396533.html",
+          "summary": "AI芯片企业太初元碁向员工发放百亿算力token，并宣布与高校共建AI科教融合学院，推动国产算力生态人才培养。",
+          "source": "量子位"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "有道龙虾LobsterAI的养成与实践",
+          "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
+          "summary": "网易有道在QCon北京分享LobsterAI智能体的构建经验，涵盖模型选型、工具链集成和实际业务落地中的工程实践。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Linux内核维护者崩溃：AI每天狂塞10份漏洞报告",
+          "link": "https://www.qbitai.com/2026/04/396358.html",
+          "summary": "AI自动化工具大量生成Linux内核漏洞报告，日均超10份，维护者不堪重负，引发对AI辅助开发质量与效率的反思。",
+          "source": "量子位"
+        },
+        {
+          "title": "Helidon引入Agent能力，Java框架开始内建AI编排",
+          "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
+          "summary": "Oracle微服务框架Helidon正式引入AI Agent编排能力，Java生态开始将智能体工作流作为框架级一等公民支持。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Pinterest部署生产级MCP生态系统，赋能AI智能体工作流",
+          "link": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
+          "summary": "Pinterest部署生产级模型上下文协议(MCP)生态系统，使AI智能体能够自主调用内部工具和数据完成复杂任务。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Evomap如何让Agent从单体智能到群体进化",
+          "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
+          "summary": "QCon北京分享Evomap框架，实现AI智能体从单点能力到群体协作的进化路径，探索多Agent系统的协调与涌现。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "智能体上线就翻车？AWS发布Agent质检工具",
+          "link": "https://www.tmtpost.com/7940504.html",
+          "summary": "AWS推出AI Agent质检工具，帮助企业在部署前对智能体进行全面评估测试，解决Agent演示惊艳但生产环境翻车的痛点。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI创业已经没有\"出海\"这个词了",
+          "link": "https://www.qbitai.com/2026/04/396675.html",
+          "summary": "量子位沙龙指出，AI产品应从Day0起具备全球原生基因，出海概念已过时，全球化不是可选项而是产品设计的起点。",
+          "source": "量子位"
+        },
+        {
+          "title": "AI短剧苦等一个爆款",
+          "link": "https://www.tmtpost.com/7942686.html",
+          "summary": "AI短剧产能爆发但缺乏现象级爆款，红果短剧下架违规作品670部，行业在内容质量与版权合规间寻找平衡。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI时代的架构治理",
+          "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
+          "summary": "探讨AI时代软件架构治理新范式，如何在AI能力快速迭代中保持系统的可控性、可观测性和安全性。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "众筹300万美元的Agent盒子Tiiny AI Pocket Lab",
+          "link": "https://36kr.com/p/3754812277998083?f=rss",
+          "summary": "Tiiny AI推出仅300克的Agent Box，支持本地运行120B模型、零Token费，基于PowerInfer异构加速技术，众筹已达280万美元。",
+          "source": "36氪"
+        },
+        {
+          "title": "荣耀与京东战略合作，推进AI与机器人共创",
+          "link": "https://36kr.com/p/3755161993675523?f=rss",
+          "summary": "荣耀与京东签署战略合作，三年目标超千亿规模，重点推进端侧大模型、机器人导购和AIoT产品共创等AI领域合作。",
+          "source": "36氪"
+        },
+        {
+          "title": "清华系矿石AI智能分选机完成近2亿元C轮融资",
+          "link": "https://36kr.com/p/3753526848897792?f=rss",
+          "summary": "霍里思特完成近2亿元C轮融资，其X射线+AI矿石分选机已覆盖五大矿种，年出货超100台，回本周期少于一年。",
+          "source": "36氪"
+        },
+        {
+          "title": "高端智能投影AWOL Vision获近亿元B轮融资",
+          "link": "https://36kr.com/p/3752260051616512?f=rss",
+          "summary": "AWOL Vision完成近亿元B轮融资，其三色激光投影新品众筹近2000万美元，正从硬件向家庭AI智能娱乐平台转型。",
+          "source": "36氪"
+        },
+        {
+          "title": "自动驾驶优化：从复杂性到实时工程",
+          "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+          "summary": "探讨自动驾驶系统从复杂架构设计到实时工程优化的技术演进路径，关注端到端模型在车载计算平台的部署挑战。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "OpenAI IPO前夜高层大换血：CFO说不，COO被调走",
+          "link": "https://www.tmtpost.com/7942711.html",
+          "summary": "OpenAI上市前夕高管团队剧变，CFO反对财务路线、COO被调离，内部撕裂引发外界对其2026年能否如期上市的质疑。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "大模型生死局：从六小龙到双雄上市",
+          "link": "https://www.tmtpost.com/7942393.html",
+          "summary": "中国大模型创业公司格局洗牌，从六小龙竞争到头部两家冲刺上市，上市并非上岸，AI创业的泡沫与突围仍在继续。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "AI泡沫的时间大考：霍尔木兹只是导火索",
+          "link": "https://www.tmtpost.com/7942749.html",
+          "summary": "中东局势冲击AI产业链：霍尔木兹通行量暴跌90%、氦气断供、电价飙升，四重冲击考验AI产业高估值叙事的持续性。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "英伟达投资澳大利亚AI基建公司Firmus，估值近70亿美元",
+          "link": "https://36kr.com/newsflashes/3755111672496649?f=rss",
+          "summary": "英伟达领投澳大利亚AI基础设施公司Firmus新一轮融资，估值接近70亿美元，持续加码全球AI算力基础设施布局。",
+          "source": "36氪"
+        },
+        {
+          "title": "易烊千玺给字节划了红线：AI内容首次大规模撞上版权",
+          "link": "https://www.tmtpost.com/7942426.html",
+          "summary": "易烊千玺相关事件引发AI生成内容版权争议，字节跳动被迫划定红线，标志着AI内容产业首次面对大规模版权法律挑战。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

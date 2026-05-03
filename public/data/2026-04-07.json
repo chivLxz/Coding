@@ -1,0 +1,198 @@
+{
+  "date": "2026-04-07",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
+          "link": "https://www.qbitai.com/2026/04/396950.html",
+          "summary": "阿里千问3.6Plus登顶全球大模型调用周榜，性能更强的旗舰模型Qwen3.6-Max也将发布。",
+          "source": "量子位"
+        },
+        {
+          "title": "Claude Code更新后思考深度下降67%",
+          "link": "https://www.qbitai.com/2026/04/396958.html",
+          "summary": "社区热议Claude Code更新后性能退化，思考深度骤降67%，用户报告已无法胜任复杂工程任务。",
+          "source": "量子位"
+        },
+        {
+          "title": "美国AI三巨头围剿模型蒸馏，中国公司终要大考",
+          "link": "https://www.tmtpost.com/7944117.html",
+          "summary": "OpenAI、Google、Anthropic联手限制模型蒸馏行为，中国AI公司面临技术封锁与自主创新的考验。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "小米MiMo模型周token消耗量破4万亿",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "小米MiMo-V2-Pro在OpenRouter平台周token消耗破4万亿，拿下日榜、周榜、月榜三项第一。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "DeepSeek连续三天服务异常，业内猜测V4隐身测试",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "DeepSeek连续三天服务中断，业内推断与V4模型灰度测试有关，基础设施短板暴露。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "千问测试“引证”功能，支持对AI回答信源核查",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "阿里千问上线引证功能，可对AI回答进行信源核查，用红绿色标注可信度，属主流AI应用首创。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Cursor 3发布：IDE不重要了，智能体控制台上位",
+          "link": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
+          "summary": "Cursor 3正式发布，IDE弱化为智能体控制台，VS Code传统开发模式开始失效，开发范式面临变革。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
+          "link": "https://www.qbitai.com/2026/04/397517.html",
+          "summary": "AI修图工具像素蛋糕9.0发布，修图师从技术执行者变为创意决策者，AI正在重塑修图行业工作流。",
+          "source": "量子位"
+        },
+        {
+          "title": "AI的订阅制，被Agent用崩了",
+          "link": "https://www.tmtpost.com/7942980.html",
+          "summary": "AI Agent大量消耗API导致订阅制模式崩溃，平台方难以承受自动化调用带来的成本压力。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "豆包大模型首发别克至境E7，智能座舱进入大模型时代",
+          "link": "https://www.leiphone.com/category/transportation/t53GrJdx8I6gT7I0.html",
+          "summary": "上汽通用联合火山引擎将豆包大模型搭载别克至境E7，支持20+情绪表达与全场景上下文记忆。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "23天靠AI短片赚100万，非科班逆袭影视区",
+          "link": "https://www.qbitai.com/2026/04/396890.html",
+          "summary": "非科班创作者用AI生成短片23天收入100万，郭帆导演点赞，AI影视创作迎来爆发期。",
+          "source": "量子位"
+        },
+        {
+          "title": "第一批用AI的人，已经染上了AI疲惫症",
+          "link": "https://www.tmtpost.com/7943806.html",
+          "summary": "AI带来解放还是加速运转的跑步机？深度用户开始出现AI疲惫症，反思人机协作的边界。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "千寻智能30天完成30亿元融资，雷军马云罕见同框",
+          "link": "https://www.leiphone.com/category/ai/ipevOwCEqpoqypW9.html",
+          "summary": "千寻智能30天内完成两轮共30亿融资，顺为与云锋联合领投。Spirit v1.5真机评测全球第一，已在宁德时代、京东落地。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "深度机智发布全球首个具身基座模型PhysBrain 1.0",
+          "link": "https://www.leiphone.com/category/ai/BLS2oRfBOj5bwGyP.html",
+          "summary": "深度机智发布PhysBrain 1.0，仅用1000小时人类第一视角数据零真机数据，在多个国际榜单超越Physical Intelligence和英伟达。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "松应科技发布ORCA Lab 1.0：国产物理AI操作系统",
+          "link": "https://www.leiphone.com/category/ai/HDGEBADnaixxMsxl.html",
+          "summary": "松应科技对标英伟达Omniverse发布ORCA Lab 1.0，支持国产GPU，将物理AI训练门槛从千万级降至笔记本可用。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "前迪士尼工程师和Midjourney联创做DIY仿生机器人",
+          "link": "https://36kr.com/p/3754821568578050?f=rss",
+          "summary": "Animotion Robotics推出模块化仿生机器人Éloi，磁吸换脸设计，本地芯片存储性格与记忆，追求家庭情感共生。",
+          "source": "36氪"
+        },
+        {
+          "title": "专访XREAL徐驰：AI眼镜不替代手机电脑",
+          "link": "https://www.ifanr.com/1661181?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "XREAL创始人徐驰谈AI眼镜定位：不是替代手机电脑，而是开辟空间计算新交互范式。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "力控与运控的融合，共话具身智能“小脑”进化",
+          "link": "https://www.tmtpost.com/7941651.html",
+          "summary": "探讨力控与运控的差异与融合之路，寻找具身智能机器人“小脑”进化的最终解决方案。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "富士通拟开发1.4纳米AI芯片，联合Rapidus本土制造",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "富士通计划联合Rapidus开发1.4nm工艺AI芯片，整合自研NPU与CPU，实现日本本土研发生产。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "OpenAI完成史上最大规模融资：1220亿美元，估值8520亿",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "OpenAI完成1220亿美元融资，估值达8520亿美元，软银领投，亚马逊、英伟达、微软参投。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "智谱上市后首份财报：国内收入最大大模型公司，MaaS ARR达17亿",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "智谱全年收入超7.24亿元同比增长131.9%，MaaS API平台ARR约17亿元同比提升60倍。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道",
+          "link": "https://36kr.com/p/3750675963904513?f=rss",
+          "summary": "红熊AI完成2.1亿元A轮融资投后估值超15亿，主打记忆科学+全模态大模型，预计2027年向港交所递表。",
+          "source": "36氪"
+        },
+        {
+          "title": "面壁智能官宣新一轮数亿元融资，国家队与产业资本下注",
+          "link": "https://www.infoq.cn/article/dOQ5rL2j5Fw1JV2OW8ji?utm_source=rss&utm_medium=article",
+          "summary": "面壁智能完成新一轮数亿元融资，国家队与产业资本同时下注，端侧大模型路线持续获得资本认可。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "优必选年报：营收20亿，全尺寸人形机器人卖了1079台",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "优必选2025年营收20.01亿元同比增长53.3%，人形机器人销量1079台同比增长358倍，净亏损收窄32%。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "盛合晶微冲刺科创板：三年营收从16亿飙至65亿",
+          "link": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+          "summary": "盛合晶微披露科创板招股书，三年营收从16亿飙至65亿拟募资48亿，先进封装服务覆盖GPU/AI芯片。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "OpenAI要求加州和特拉华州调查马斯克",
+          "link": "https://36kr.com/newsflashes/3756675303146248?f=rss",
+          "summary": "OpenAI敦促加州和特拉华州总检察长调查马斯克可能存在的“不当和反竞争行为”，双方争端升级。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 26,
+    "sources": [
+      "量子位",
+      "36氪",
+      "InfoQ",
+      "爱范儿“, ”钛媒体“, ”雷锋网"
+    ]
+  }
+}

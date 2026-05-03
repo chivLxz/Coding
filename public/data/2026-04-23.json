@@ -1,0 +1,189 @@
+{
+  "date": "2026-04-23",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
+          "link": "https://www.qbitai.com/2026/04/405391.html",
+          "summary": "OpenAI GPT Image 2底层架构彻底重构，13人团队中半数为华人，无锡籍研究者领衔，仅用4个月完成从零到封神的突破，引发全球AI社区热议。",
+          "source": "量子位"
+        },
+        {
+          "title": "智能密度再创新高！阿里开源智能体编程模型Qwen3.6-27B",
+          "link": "https://www.leiphone.com/category/industrynews/1qi7Bh5usKdjhiRL.html",
+          "summary": "阿里开源千问3.6系列最新稠密模型Qwen3.6-27B，以270亿参数量媲美千亿级模型性能，创下智能密度新高，家用显卡即可运行，已在Hugging Face开源。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "姚顺雨带队「重建」混元，腾讯新一代大模型Hy3 preview上线",
+          "link": "https://mp.weixin.qq.com/s/49sPn3OqJBl0bLlc-Sr-Pg",
+          "summary": "腾讯混元发布新一代大语言模型Hy3 preview，采用MoE架构295B参数，支持256K上下文，强化代码与智能体能力，已接入元宝、QQ等核心产品线。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "国产具身世界模型FlowWAM登顶全球榜单，斩获双料第一",
+          "link": "https://mp.weixin.qq.com/s/QR3Kzv4TFVgQ1SGoHyLi9g",
+          "summary": "中科第五纪研发的具身世界模型FlowWAM在WorldArena全球基准评测中登顶，物理遵循与3D准确度两大维度均获第一，标志国产具身智能迈入新阶段。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek频繁更新：开源Tile Kernels与DeepEP V2重构",
+          "link": "https://mp.weixin.qq.com/s/JzegnNutRBgOyLHMZCxcoQ",
+          "summary": "DeepSeek密集更新底层技术栈，开源GPU内核库TileKernels，DeepEP V2重构专家并行架构降低SM占用最高4倍，暗示DeepSeek V4即将到来。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek V4发布前，小米MiMo-V2.5深夜突袭4款新模型",
+          "link": "https://zhidx.com/p/552050.html",
+          "summary": "小米MiMo大模型连发4款新模型，旗舰MiMo-V2.5-Pro能完成近千轮工具调用的长程任务，Token效率较竞品节省42%-50%，罗福莉带队36天再升级。",
+          "source": "智东西"
+        },
+        {
+          "title": "首篇「Attention Sink」综述：Transformer注意力汇聚全景解析",
+          "link": "https://mp.weixin.qq.com/s/lu8qvvJujGShtM7eHLeyBA",
+          "summary": "首次提出「基本利用→机制理解→策略性消除」三段式分析框架，梳理180余篇研究，揭示Attention Sink普遍存在的成因与消除方法。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI推Workspace Agents替代GPTs，由Codex驱动",
+          "link": "https://zhidx.com/p/552110.html",
+          "summary": "OpenAI发布工作区智能体Workspace Agents，由Codex驱动，支持90+插件、持久记忆和跨天任务执行，默认人工审批，GPTs正式成为过去式。",
+          "source": "智东西"
+        },
+        {
+          "title": "谷歌云Next 26打出智能体组合拳：Gemini Enterprise全栈升级",
+          "link": "https://zhidx.com/p/552093.html",
+          "summary": "谷歌云发布Gemini Enterprise Agent平台、Workspace一句话生成PPT、新增Claude Opus 4.7支持，推出从芯片到应用的全栈智能体解决方案。",
+          "source": "智东西"
+        },
+        {
+          "title": "阿里云企业级Agent构建平台JVS Crew上线",
+          "link": "https://36kr.com/p/3774776226923272?f=rss",
+          "summary": "阿里云推出JVS Crew智能体构建平台，以「被集成」为设计理念，企业可零门槛获得生产级Agent能力，多租户隔离与安全合规由平台统一承载。",
+          "source": "36氪"
+        },
+        {
+          "title": "金山办公发布全新WPS多维表格，AI引擎全球第二",
+          "link": "https://36kr.com/p/3774776226923272?f=rss",
+          "summary": "WPS AI月活超8000万，新一代多维表格引擎平均编辑响应32毫秒，自研表格AI引擎Qingqiu Agent在SpreadsheetBench排名全球第二，仅次于Gemini。",
+          "source": "36氪"
+        },
+        {
+          "title": "抖音整治AI不当内容，累计下架侵权视频超53.8万条",
+          "link": "https://www.leiphone.com/category/industrynews/XCmxz8i2qtt7XP5D.html",
+          "summary": "抖音发布AI生成不当内容治理公告，已下架AI侵权视频超53.8万条、处罚账号4000余个，重点整治AI换脸盗声及仿冒蹭热等违规行为。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "飞书项目开放平台焕新升级，全面迈向「AI Friendly」",
+          "link": "https://www.qbitai.com/2026/04/406026.html",
+          "summary": "飞书项目开放平台升级为能参与协作与执行的超级助手，全面支持AI Agent接入与自动化工作流构建，降低AI应用开发门槛。",
+          "source": "量子位"
+        },
+        {
+          "title": "字节跳动发布3D生成大模型Seed3D 2.0，采用MoE架构",
+          "link": "https://36kr.com/p/3774776226923272?f=rss",
+          "summary": "字节跳动发布新一代3D生成模型Seed3D 2.0，采用MoE架构通过稀疏专家路由控制推理计算量，生成更丰富纹理细节，API已上线火山引擎。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "Nature封面：机器人乒乓球干翻人类职业选手",
+          "link": "https://www.qbitai.com/2026/04/405370.html",
+          "summary": "索尼乒乓球机器人Ace在东京击败职业选手，配备9摄像头视觉系统和八关节机械臂，实现首次真实竞技规则下机器人达到专家级水平，登上Nature封面。",
+          "source": "量子位"
+        },
+        {
+          "title": "机器人这回真要进家当保姆了！世界统一模型WALL-B登场",
+          "link": "https://zhidx.com/p/552203.html",
+          "summary": "自变量机器人发布全球首个基于世界统一模型架构的具身模型WALL-B，5月25日机器人将入驻真实家庭，具备物理世界观和自我进化能力。",
+          "source": "智东西"
+        },
+        {
+          "title": "减重300kg首搭5nm智驾芯片：2026款乐道L90正式亮相",
+          "link": "https://www.leiphone.com/category/industrynews/2jBgPPuhjyMg2MmY.html",
+          "summary": "乐道L90搭载自研5nm神玑NX9031芯片，546GB/s内存带宽，100ms内推演216种场景，较同级减重超300kg，起售价26.58万元。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "华为乾崑智驾ADS 5发布，世界模型进化为AI智能体",
+          "link": "https://36kr.com/newsflashes/3779353259693059?f=rss",
+          "summary": "华为发布乾崑智驾ADS 5，世界模型WEWA 2.0进化为面向自动驾驶的AI智能体，首发乾崑OS操作系统，CAS 5.0从五维安全升级至六维安全。",
+          "source": "36氪"
+        },
+        {
+          "title": "安克推出自研Thus芯片，为所有产品引入本地AI能力",
+          "link": "https://www.leiphone.com/category/zaobao/LhySxpmfbe0aqU7Q.html",
+          "summary": "安克发布全球首款神经网络存内计算AI音频芯片Thus，计算直接在模型存储位置完成，功耗更低，将率先应用于soundcore旗舰耳机。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "国产GPU独角兽象帝先冲刺IPO，累计融资25亿元",
+          "link": "https://www.leiphone.com/category/zaobao/LhySxpmfbe0aqU7Q.html",
+          "summary": "象帝先与中信建投签署财务顾问协议启动IPO，天钧系列三代GPU芯片已批量交付，基于伏羲架构的新一代芯片已完成量产，估值曾达150亿元。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "1万亿美元！Anthropic估值暴涨反超OpenAI",
+          "link": "https://zhidx.com/p/552228.html",
+          "summary": "Anthropic在私募二级市场估值突破1万亿美元，超过OpenAI的8520亿美元，2月融资估值仅3800亿美元，Claude Code商业化势头推动股价三个月翻近三倍。",
+          "source": "智东西"
+        },
+        {
+          "title": "曝腾讯与阿里巴巴争投DeepSeek，估值飙至200亿美元",
+          "link": "https://www.leiphone.com/category/zaobao/LhySxpmfbe0aqU7Q.html",
+          "summary": "腾讯和阿里巴巴正洽谈投资DeepSeek，目标估值从100亿美元上调至超200亿美元，为DeepSeek首次外部融资，梁文锋「不引入外部资金」立场出现转变。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "600亿美元！马斯克旗下SpaceX拟收购Cursor",
+          "link": "https://www.leiphone.com/category/zaobao/LhySxpmfbe0aqU7Q.html",
+          "summary": "SpaceX宣布与Cursor达成合作，获得今年晚些时候以600亿美元收购Cursor的选择权，也可支付100亿美元作为合作阶段价格，Cursor此前估值超500亿美元。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "2492倍估值扣非净利亏损，云南锗业在风口上「裸泳」",
+          "link": "https://www.tmtpost.com/7964789.html",
+          "summary": "「锗王」云南锗业股价翻倍但扣非净利润亏损，2492倍估值引发质疑，股民炒作AI芯片上游材料概念，基本面与估值严重脱节。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "特斯拉：造车罕见回血，AI宏图又跳票",
+          "link": "https://www.tmtpost.com/7964054.html",
+          "summary": "特斯拉汽车主业打出不错预期差但AI业务再度延期，马斯克描绘的Robotaxi和人形机器人路线图持续推迟，资本市场耐心正在消耗。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "Anthropic拟高薪招聘专员洽谈数据中心，助力欧洲扩张",
+          "link": "https://36kr.com/newsflashes/3779388327629831?f=rss",
+          "summary": "Anthropic积极在欧洲推进数据中心合作，招聘六位数薪酬岗位洽谈算力容量协议，为AI模型提供算力支撑，加速欧洲业务布局。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

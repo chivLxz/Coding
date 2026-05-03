@@ -1,0 +1,165 @@
+{
+  "date": "2026-04-11",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Claude新模型Mythos能力恐怖，鲍威尔紧急召集华尔街巨头开会",
+          "link": "https://36kr.com/p/3761709375521288?f=rss",
+          "summary": "Anthropic最新模型Mythos能自主发现操作系统和浏览器漏洞，精准揪出隐藏27年的OpenBSD远程崩溃漏洞，能力太强被拒绝向公众发布。美国财长与美联储主席紧急召集华尔街CEO发出金融安全警告。",
+          "source": "36氪"
+        },
+        {
+          "title": "中国具身模型登顶全球第一，灵初智能用10万小时数据集一战成名",
+          "link": "https://www.qbitai.com/2026/04/399417.html",
+          "summary": "00后创业团队灵初智能凭借10万小时人类操作数据集，在具身智能模型领域拿下全球第一，标志着机器人训练的人类数据时代正式到来。",
+          "source": "量子位"
+        },
+        {
+          "title": "Anthropic推出多代理Harness，重构长时AI编程流程",
+          "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic发布多代理编程框架Harness，通过协调多个AI代理协作完成长时间复杂编程任务，大幅提升代码生成的可靠性和效率。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "面向AI智能体的有状态接续：传输层为何至关重要",
+          "link": "https://www.infoq.cn/article/P3Ko14uHlmRMm50rIhXs?utm_source=rss&utm_medium=article",
+          "summary": "InfoQ深入分析了AI智能体在有状态接续场景下的传输层技术挑战，探讨了如何在长时间任务执行中保持会话连续性和状态同步。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "大模型厂商是时候告别Token狂欢了",
+          "link": "https://www.tmtpost.com/7949702.html",
+          "summary": "文章指出单纯追求更低Token价格并非大模型的未来方向，行业需要从价格竞争转向真正的能力提升和价值创造，寻找可持续的商业路径。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "专治AI说谎，25岁天才少女公司估值过百亿",
+          "link": "https://www.tmtpost.com/7949630.html",
+          "summary": "一位25岁创业者聚焦AI幻觉检测领域，创办的公司估值已超百亿，通过技术手段精准识别和纠正大模型输出的虚假信息，在窄赛道实现逆袭。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "拿下3300万美元豪华种子轮的AI评测公司Yupp宣布倒闭",
+          "link": "https://36kr.com/p/3762088319484419?f=rss",
+          "summary": "AI模型评测平台Yupp成立仅22个月便关闭，虽获a16z领投3300万美元种子轮及45位顶级天使投资，但因AI技术演进太快导致市场不复存在，资金甚至没花完就宣告失败。",
+          "source": "36氪"
+        },
+        {
+          "title": "工业和信息化部将发布一批「人工智能+」高价值场景",
+          "link": "https://36kr.com/newsflashes/3762215677297158?f=rss",
+          "summary": "工信部科技司表示将以制造业为主战场，发布AI+高价值场景、建设特色智能体、提供新型智能终端，全面推动人工智能与制造业深度融合。",
+          "source": "36氪"
+        },
+        {
+          "title": "百度智能云联合多家企业打造具身智能数据超市",
+          "link": "https://www.leiphone.com/category/robot/HGiF0FHOUfxAKkWP.html",
+          "summary": "百度智能云联合零次方、傅利叶等头部具身智能企业推出数据超市Beta版，首创层级化数据标签体系，以35%份额位居中国具身智能AI云服务市场第一。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "滴滴自动驾驶张博：聚焦安全和体验，推动全球化落地",
+          "link": "https://www.qbitai.com/2026/04/399675.html",
+          "summary": "滴滴自动驾驶CEO张博出席智能电动汽车论坛，展示与广汽埃安联手打造的新一代Robotaxi车型R2，强调安全与体验是行稳致远的根基，已在广州和北京开启全无人载客测试。",
+          "source": "量子位"
+        },
+        {
+          "title": "Cloudflare与苏黎世联邦理工学院概述基于AI的缓存优化方法",
+          "link": "https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&utm_medium=article",
+          "summary": "Cloudflare联合苏黎世联邦理工学院提出AI驱动的缓存优化方案，利用机器学习预测内容热度，动态调整缓存策略以提升CDN效率。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "所谓Skill不过是AI时代的工业垃圾",
+          "link": "https://www.tmtpost.com/7949507.html",
+          "summary": "钛媒体评论文章对当前AI Agent技能生态提出质疑，认为大量低质量Skill正在成为AI时代的工业垃圾，行业需要建立更高质量的技能标准和筛选机制。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "蔚来神玑NX9031智驾芯片与世界模型将上车乐道L90",
+          "link": "https://36kr.com/newsflashes/3761992686207752?f=rss",
+          "summary": "蔚来CEO李斌宣布旗舰智驾芯片神玑NX9031和新版世界模型将在2026款乐道L90全面上车，在20-30万级别应用全球旗舰级智驾芯片和系统。",
+          "source": "36氪"
+        },
+        {
+          "title": "深大教授AI芯片散热项目锐盟半导体完成近亿元A轮融资",
+          "link": "https://36kr.com/p/3761737030894342?f=rss",
+          "summary": "锐盟半导体完成近亿元A轮融资，聚焦压电主动式散热微系统，已与传音联合发布压电风扇技术，并在CES展亮相，布局端侧和云侧AI芯片散热全场景。",
+          "source": "36氪"
+        },
+        {
+          "title": "日本投入160亿美元力推Rapidus进军AI芯片领域",
+          "link": "https://36kr.com/newsflashes/3761942487990792?f=rss",
+          "summary": "日本政府新增对芯片初创企业Rapidus的投资，累计补贴总额升至2.6万亿日元（约163亿美元），支持其为富士通开展先进AI芯片研发。",
+          "source": "36氪"
+        },
+        {
+          "title": "汽车行业在阿里云上使用超10万卡「真武」PPU研发智驾",
+          "link": "https://www.leiphone.com/category/industrynews/7Buf1To9Icgx0HDU.html",
+          "summary": "阿里云透露30多家车企和智驾方案商在云上使用平头哥自研真武PPU突破10万卡，创下汽车行业在公共云上使用自研AI芯片的最大规模纪录。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+          "link": "https://www.tmtpost.com/7949623.html",
+          "summary": "AI算力需求的爆发推动存储芯片迎来四十年来最严重供需失衡，一家传统卫浴企业因AI转型重获新生，存储芯片行业进入超级周期。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "蔚来李斌：建议尽快推动电芯标准化和芯片归一化",
+          "link": "https://36kr.com/newsflashes/3761946596786948?f=rss",
+          "summary": "蔚来董事长李斌在智能电动汽车论坛上指出电池和芯片占智能汽车超50%成本，呼吁推动电芯规格统一和芯片种类归一化以降低行业成本。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Anthropic新模型引发恐慌，美国软件股暴跌市值蒸发2万亿美元",
+          "link": "https://36kr.com/p/3761709375521288?f=rss",
+          "summary": "Claude Mythos模型能力过强引发市场恐慌，标普500软件和服务指数一年内缩水25.5%，Zscaler暴跌8.8%，CrowdStrike和Cloudflare跌5%-7%，SaaS板块遭遇史上最大规模市值蒸发。",
+          "source": "36氪"
+        },
+        {
+          "title": "中信证券：互联网板块关注业绩韧性与AI主线",
+          "link": "https://36kr.com/newsflashes/3761947040989958?f=rss",
+          "summary": "中信证券研报指出互联网板块估值已回落至历史低位，建议关注低估值和现金流稳健的公司，同时AI产业趋势加速演绎，Agent范式创新和业绩兑现将带来催化。",
+          "source": "36氪"
+        },
+        {
+          "title": "千亿诉讼临近，OpenAI指控马斯克搞「突袭」",
+          "link": "https://36kr.com/newsflashes/3762063409234434?f=rss",
+          "summary": "OpenAI在法庭文件中指控马斯具新诉求意在刁难被告和扰乱庭审，该案定于4月27日开庭审理，马斯克指控OpenAI背弃非营利初衷。",
+          "source": "36氪"
+        },
+        {
+          "title": "奥特曼家差点被烧，AI争议滑向物理暴力",
+          "link": "https://www.tmtpost.com/7949710.html",
+          "summary": "针对AI的争议从网络言论升级为物理暴力，OpenAI CEO奥特曼住所遭遇纵火威胁，凸显AI快速发展引发的社会矛盾和安全风险正在加剧。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2026-04-10",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+          "link": "https://www.qbitai.com/2026/04/399370.html",
+          "summary": "阿里Wan2.7视频生成大模型以1334Elo评分高居DesignArena榜单榜首，展现国产视频生成技术实力。",
+          "source": "量子位"
+        },
+        {
+          "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+          "link": "https://www.qbitai.com/2026/04/398807.html",
+          "summary": "国产开源模型因超高性价比在硅谷获得认可，LeCun点赞表示开源模型已来到中国时间。",
+          "source": "量子位"
+        },
+        {
+          "title": "刷屏的SBTI，底层算法有点东西…",
+          "link": "https://www.qbitai.com/2026/04/398788.html",
+          "summary": "SBTI算法刷屏网络，其底层技术引发关注，展现AI算法在社交传播中的影响力。",
+          "source": "量子位"
+        },
+        {
+          "title": "小马智行发布PonyWorld世界模型2.0",
+          "link": "https://36kr.com/p/3760914298651400?f=rss",
+          "summary": "小马智行发布物理AI领域最新成果PonyWorld世界模型2.0，具备自我诊断与定向进化能力。",
+          "source": "36氪"
+        },
+        {
+          "title": "OpenAI抨击Anthropic算力资源受限",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "OpenAI向投资者发送备忘录抨击Anthropic发展曲线偏小，算力资源受限，计划2030年实现30吉瓦算力。",
+          "source": "36氪"
+        },
+        {
+          "title": "Meta新超级智能团队的首个AI模型亮相，转向闭源",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "Meta发布首个闭源模型Muse Spark，由超级智能实验室开发，一改此前开源策略采用闭源模式。",
+          "source": "36氪"
+        },
+        {
+          "title": "神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招",
+          "link": "https://www.infoq.cn/article/H6Y6KmRbTKapOjYmTU63?utm_source=rss&utm_medium=article",
+          "summary": "神秘模型屠榜多日碾压Seedance 2.0，背后是阿里新部门ATH的首作，引爆股价拉升。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "独家｜阿里认领屠榜神秘模型「欢乐马」，ATH 郑波团队打造",
+          "link": "https://www.ifanr.com/1661708?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "阿里认领屠榜神秘模型「欢乐马」，由ATH郑波团队打造，展现阿里在AI大模型领域的技术实力。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
+          "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
+          "summary": "Meta发布闭源巨兽模型，143亿美金重注AI赛道，引发对开源信仰的讨论。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌开源实验性多智能体编排测试平台 Scion",
+          "link": "https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&utm_medium=article",
+          "summary": "谷歌开源实验性多智能体编排测试平台Scion，支持多智能体协同与测试。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "紫荆智康发布「紫荆AI医院」线上虚拟诊室",
+          "link": "https://www.qbitai.com/2026/04/399366.html",
+          "summary": "紫荆智康发布紫荆AI医院线上虚拟诊室，面向医生和医学生开放使用，提供智能问诊与诊断辅助。",
+          "source": "量子位"
+        },
+        {
+          "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层",
+          "link": "https://36kr.com/p/3760310709174784?f=rss",
+          "summary": "Chance AI推出Visual Agent视觉智能体，以摄像头为核心交互入口，让AI从回答问题工具进化为看懂世界系统。",
+          "source": "36氪"
+        },
+        {
+          "title": "豆包APP实时语音通话升级全双工模型 抗干扰与低时延能力提升",
+          "link": "https://www.leiphone.com/category/industrynews/FRSInOTlhXXbAE70.html",
+          "summary": "豆包APP实时语音通话功能升级至全双工语音大模型Seeduplex，在复杂声学场景下实现精准抗干扰与动态判停。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "AI最前沿｜腾讯发布QClaw V2大版本",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "腾讯发布QClaw V2大版本，实现多Agent、应用连接器和龙虾管家三大核心能力，单任务操作步骤减少60%以上。",
+          "source": "36氪"
+        },
+        {
+          "title": "一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会",
+          "link": "https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&utm_medium=article",
+          "summary": "蚂蚁集团AI鉴真技术能够准确识别深度伪造内容，相关研究登顶世界顶会。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京",
+          "link": "https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&utm_medium=article",
+          "summary": "AI时代软件架构从云原生向Agent Engineering跃迁，探讨AI时代的软件架构变革。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码",
+          "link": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic因npm源映射文件意外泄露Claude Code源码，引发对开源代码安全的关注。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "撕完周鸿祎，傅盛的AI龙虾能救猎豹吗？",
+          "link": "https://www.tmtpost.com/7947727.html",
+          "summary": "猎豹移动推出AI龙虾产品，在六年亏损后能否扭转局面引发关注。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "SBTI一夜爆红：反卷的里子，AI的路子、微信的场子",
+          "link": "https://www.tmtpost.com/7948873.html",
+          "summary": "SBTI一夜爆红展现AI在社交娱乐领域的应用潜力，成为新的文化现象。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "继「同事.skill」走红，周鸿祎回应「把自己炼成AI分身」",
+          "link": "https://www.leiphone.com/category/industrynews/f3znxJAOAPei6TBd.html",
+          "summary": "周鸿祎回应把自己炼成AI分身，表示未来三到五年各行业都将出现大量专业数字分身。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+          "link": "https://www.qbitai.com/2026/04/398869.html",
+          "summary": "国产AI汽车实测表现优异，BBA老车主对国产车的认知发生变化，展现智能汽车发展成果。",
+          "source": "量子位"
+        },
+        {
+          "title": "太初元碁完成智谱GLM-5.1即发即适配",
+          "link": "https://www.qbitai.com/2026/04/398752.html",
+          "summary": "太初元碁完成智谱GLM-5.1即发即适配，展现国产芯片对大模型的支持能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "魔法原子近300台机器人即将亮相苏超开幕式",
+          "link": "https://36kr.com/p/3760914298651400?f=rss",
+          "summary": "魔法原子将投入290台机器人进行集群展演，验证复杂户外场景下的大规模协同控制能力。",
+          "source": "36氪"
+        },
+        {
+          "title": "10岁孩子都能训机器人！对话松应科技创始人",
+          "link": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&utm_medium=article",
+          "summary": "松应科技做物理AI界的安卓，正将其开源开放，让10岁孩子都能训机器人。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "早报｜大疆Pocket 4官宣，下周发布",
+          "link": "https://www.ifanr.com/1661625?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "大疆Pocket 4官宣将于下周发布，展现智能影像设备持续迭代。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "前英伟达高管吴夏清创办机器人数据服务公司，Calder瞄准世界模型底座",
+          "link": "https://www.tmtpost.com/7948964.html",
+          "summary": "前英伟达高管吴夏清创办Calder瞄准世界模型底座，解决具身机器人的数据饥渴。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "当参数不再决定胜负，AI时代的企业级SSD靠什么「赢」？｜MemoryS 2026",
+          "link": "https://www.leiphone.com/category/chips/R1EXdjpNag6btxzW.html",
+          "summary": "AI时代企业级SSD不再只是容量载体，而是突破性能瓶颈的关键，成为算力架构里的重要变量。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "独家丨继大疆押注后，智能派再获数亿元融资",
+          "link": "https://www.leiphone.com/category/weiwu/Ud0K9PkfbXTb1v2Y.html",
+          "summary": "智能派再获数亿元融资，大疆已入局，将全面切入FDM 3D打印产品线。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "KV Cache需求暴涨32倍，AI如何重写存储产业链的「旧分工」？",
+          "link": "https://www.leiphone.com/category/chips/W7PslLH3ukXGla1A.html",
+          "summary": "KV Cache需求暴涨32倍，AI推理推动存储产业链重构，SSD开始进入AI计算主路径。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "生数科技完成近20 亿元 B 轮融资",
+          "link": "https://www.qbitai.com/2026/04/398772.html",
+          "summary": "生数科技完成近20亿元B轮融资，以通用世界模型定义下一代数字与物理世界生产力底座。",
+          "source": "量子位"
+        },
+        {
+          "title": "「开源中国」完成数亿元C+轮融资",
+          "link": "https://36kr.com/p/3760914298651400?f=rss",
+          "summary": "开源与AI基础设施服务商开源中国完成数亿元C+轮融资，资金将重点投向AI基础设施建设。",
+          "source": "36氪"
+        },
+        {
+          "title": "「快快游戏」完成6000万元人民币A轮融资",
+          "link": "https://36kr.com/p/3760914298651400?f=rss",
+          "summary": "厦门快快游戏宣布完成6000万元人民币A轮融资，资金主要用于启动精品跃迁计划。",
+          "source": "36氪"
+        },
+        {
+          "title": "大公司｜腾讯云宣布涨价",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "腾讯云宣布2026年5月9日起对AI算力、容器服务及弹性MapReduce相关产品价格上调5%。",
+          "source": "36氪"
+        },
+        {
+          "title": "AI最前沿｜OpenAI称拟将IPO部分股份预留给散户投资者",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "OpenAI计划在首次公开募股中预留一部分股份供散户投资者认购，估值可能高达1万亿美元。",
+          "source": "36氪"
+        },
+        {
+          "title": "投融资｜「阿迈特医疗」获超2亿元D轮融资",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "阿迈特医疗完成超2亿元D轮融资，资金用于加速核心产品研发、全球市场推广与国际战略布局。",
+          "source": "36氪"
+        },
+        {
+          "title": "投融资｜「开普勒机器人」完成亿元级A++轮融资",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "开普勒机器人完成亿元级A++轮融资，将发布国内首个原生适配VTLA全感知模型的力触觉全栈数采方案。",
+          "source": "36氪"
+        },
+        {
+          "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+          "link": "https://36kr.com/newsflashes/3760948716438017?f=rss",
+          "summary": "Anthropic同意向CoreWeave租用数据中心算力，包括美国数据中心多种英伟达芯片架构，以支持Claude AI模型。",
+          "source": "36氪"
+        },
+        {
+          "title": "大公司财报｜新希望：3月商品猪销售收入15.47亿元，同比降19.86%",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "新希望公告2026年3月销售商品猪130.47万头，销售收入15.47亿元，同比下降19.86%。",
+          "source": "36氪"
+        },
+        {
+          "title": "大公司财报｜中信证券业绩快报：一季度净利润102.16亿元，同比增长54.6%",
+          "link": "https://36kr.com/p/3760260422648327?f=rss",
+          "summary": "中信证券发布业绩快报，2026年一季度实现净利润102.16亿元，同比增长54.6%。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

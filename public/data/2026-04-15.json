@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-15",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "黄仁勋率先开源量子AI大模型",
+          "link": "https://www.qbitai.com/2026/04/401351.html",
+          "summary": "英伟达发布全球首个开源量子AI模型系列NVIDIA Ising，通过AI驱动的校准与纠错技术显著提升量子计算稳定性，纠错速度提升2.5倍、精度提高3倍。",
+          "source": "量子位"
+        },
+        {
+          "title": "李飞飞世界模型「杀手锏」开源",
+          "link": "https://zhidx.com/p/548882.html",
+          "summary": "World Labs开源Spark 2.0渲染器，基于WebGL2实现超亿级3D高斯泼溅点云在浏览器端流畅渲染，支持手机和VR设备，采用连续LoD、.RAD格式和虚拟显存三大核心技术。",
+          "source": "智东西"
+        },
+        {
+          "title": "北大联合Llama-Factory推出DataFlex工业级数据动态训练系统",
+          "link": "https://mp.weixin.qq.com/s/QoXfElsL0UL8kAk_ThfYcw",
+          "summary": "北大团队推出DataFlex统一数据中心动态训练框架，集成动态样本选择、数据混合与样本重加权三种策略，已在Hugging Face月榜登顶，推动AI从参数驱动向数据驱动转型。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "Anthropic推出Claude Mythos预览版，强化网络安全",
+          "link": "https://www.infoq.cn/article/0ERlUO96S3XjvTgekpru?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic发布专注于识别操作系统及浏览器漏洞的Claude Mythos模型，仅限合作方访问，亚马逊、苹果和微软等少数受信合作伙伴可使用该模型发现并修复安全漏洞。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "OpenAI发布网络安全版GPT-5.4-Cyber模型",
+          "link": "https://mp.weixin.qq.com/s/w7pmO7w2G6SlaHWAC3hBUg",
+          "summary": "OpenAI推出GPT-5.4-Cyber模型，支持二进制逆向分析等高阶安全任务，面向网络安全受信访问项目参与者开放，被视为对Anthropic Mythos的回应。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "阿里云X平头哥深度访谈：模型推理提升13倍背后的秘密",
+          "link": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article",
+          "summary": "阿里云与平头哥联合优化模型推理性能，实现13倍提升。双方从芯片底层到上层框架进行全栈协同优化，探索异构算力在AI推理场景中的最佳实践。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "你等的DeepSeek，早已变了",
+          "link": "https://www.tmtpost.com/7954258.html",
+          "summary": "DeepSeek自爆火以来经历系列转型，从纯算法研发延伸至自建数据中心基础设施，V4旗舰模型将采用万亿参数和百万级上下文窗口，首次与华为昇腾等国产芯片深度适配。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型NVIDIA Ising",
+          "link": "https://zhidx.com/p/548873.html",
+          "summary": "NVIDIA Ising包含350亿参数校准模型和两种纠错解码模型，校准时间从数天缩短至数小时，已被IonQ、哈佛大学、费米实验室等机构采用，推动量子计算实用化。",
+          "source": "智东西"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "科大讯飞发布AstronClaw智能体矩阵",
+          "link": "https://36kr.com/newsflashes/3768090609206025?f=rss",
+          "summary": "科大讯飞推出软硬一体智能体矩阵，硬件端办公本、AI眼镜、机器人全面接入，软件端Loomy新增Buddy分身协作功能，并发布企业级开源技能仓库SkillHub。",
+          "source": "36氪"
+        },
+        {
+          "title": "阿里ATH发布AI开发工具Meoo，已打通阿里云核心产品",
+          "link": "https://www.leiphone.com/category/industrynews/IxgflozPQulEV4xG.html",
+          "summary": "阿里ATH事业群发布AI开发工具Meoo（秒悟），集成千问、Kimi、GLM、MiniMax四大模型，用户用自然语言描述想法最快1分钟生成完整网站并一键部署上线。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "美团发布AI产品「小团健康管家」",
+          "link": "https://36kr.com/p/3767326268392199?f=rss",
+          "summary": "美团在乌镇健康大会发布聚焦家庭健康管理的AI产品「小团健康管家」，提供问病问药、健康咨询、家庭健康档案管理和体检报告智能解读，可跳转购药和在线问诊。",
+          "source": "36氪"
+        },
+        {
+          "title": "实测参考生之王Vidu Q3：AI驱动整个剧组",
+          "link": "https://mp.weixin.qq.com/s/H7X6TGLLiBUFenEsC_lPzA",
+          "summary": "生数科技发布视频大模型Vidu Q3，通过「参考生视频」实现人物、场景、风格稳定复用，并实现声画同出，整合音效与镜头调度，推动AI从辅助创作走向核心生产环节。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "TuriX-CUA：超靠谱的AI上班搭子",
+          "link": "https://mp.weixin.qq.com/s/cO_ijEhE6nohSNCU1qpV8w",
+          "summary": "国产开源AI项目TuriX推出桌面应用Superpower，通过CUA技术让AI像人一样观察、思考并操作电脑界面，支持跨应用自动化、代码生成、信息整理与邮件发送。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "教育界来了AI龙虾！帮老师做教案、给学生辅导作业",
+          "link": "https://zhidx.com/p/548254.html",
+          "summary": "好未来发布教育智能体产品矩阵：面向教师的九章龙虾可一键生成教案课件，面向学生的小精龙具备长期记忆和因材施教能力，AI教育能力已逼近L3级别。",
+          "source": "智东西"
+        },
+        {
+          "title": "Claude Code把自己的介绍外包给Mintlify",
+          "link": "https://zhidx.com/p/549021.html",
+          "summary": "Anthropic将Claude Code文档维护外包给Mintlify，后者数据显示45.3%文档流量来自AI代理。Mintlify完成4500万美元B轮融资估值5亿美元，专注AI友好文档基础设施。",
+          "source": "智东西"
+        },
+        {
+          "title": "MiniMax Agent桌面端更新：新增Pocket和Computer Use功能",
+          "link": "https://36kr.com/p/3767326268392199?f=rss",
+          "summary": "MiniMax发布Agent桌面端两项更新：Pocket功能支持接入飞书、微信、企业微信等IM软件；Computer Use功能让Agent可像人一样操作鼠标键盘，直接操控电脑软件。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "千问AI眼镜S1正式开售，最低到手价3499元",
+          "link": "https://36kr.com/p/3767326268392199?f=rss",
+          "summary": "千问AI眼镜S1正式开售，支持屏幕显示、1200万像素摄像头和热插拔换电池，为全天候AI服务进行了整机层面系统性重构，最低到手价3499元。",
+          "source": "36氪"
+        },
+        {
+          "title": "特斯拉AI5芯片成功流片，将成为产量最高AI芯片之一",
+          "link": "https://36kr.com/p/3767970803221251?f=rss",
+          "summary": "马斯克宣布特斯拉AI芯片设计团队成功完成AI5芯片流片，性能更强的AI6、Dojo3及多款芯片正在研发中。AI5未来将成为全球产量最大AI芯片之一，感谢台积电和三星支持。",
+          "source": "36氪"
+        },
+        {
+          "title": "东风天元智舱Plus搭载黑芝麻智能武当C1296芯片",
+          "link": "https://36kr.com/newsflashes/3768084359971328?f=rss",
+          "summary": "黑芝麻智能宣布东风天元智舱Plus舱驾一体平台搭载武当C1296芯片，单芯片同时支持智能座舱、L2+行车辅助及FAPA泊车，将率先搭载东风奕派007。",
+          "source": "36氪"
+        },
+        {
+          "title": "谷歌推出Gemini Robotics-ER 1.6，仪表读数成功率飙升300%",
+          "link": "https://zhidx.com/p/548845.html",
+          "summary": "谷歌发布Gemini Robotics-ER 1.6机器人推理模型，新增仪表读数能力，与波士顿动力合作让Spot机器人实现全自主巡检，仪表读数成功率从23%飙升至93%。",
+          "source": "智东西"
+        },
+        {
+          "title": "智元联合北大、智源实现人形机器人自主打乒乓",
+          "link": "https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article",
+          "summary": "智元机器人联合北大、智源研究院实现人形机器人自主打乒乓，展示了机器人在动态环境中实时感知、决策与运动控制的综合能力突破。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "智元投资德塔智能，人形机器人基础模型创企三个月融资超亿元",
+          "link": "https://zhidx.com/p/548866.html",
+          "summary": "德塔智能由北京通研院孵化，专注原生人形机器人基础模型，已实现回旋踢、空翻等极限动作。高瓴、乐聚、智元、星海图等参投，团队来自清华、北大、UCLA。",
+          "source": "智东西"
+        },
+        {
+          "title": "国产AI芯片崛起：三大门派瓜分英伟达市场",
+          "link": "https://www.tmtpost.com/7954297.html",
+          "summary": "国产AI芯片形成三大门派格局，在算力、生态和性价比上逐步缩小与英伟达差距，部分场景已实现国产替代，推动AI算力供应链自主可控。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "英伟达AI设计芯片一夜搞定，原本要8人干10个月",
+          "link": "https://www.leiphone.com/category/zaobao/TTND3GWsmzuoRuiC.html",
+          "summary": "英伟达首席科学家透露，基于强化学习的NB-Cell工具可将标准单元库迁移从8人10个月缩短为一夜，AI生成的单元在面积、功耗、延时方面达到甚至超越人工设计。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "拿下Anthropic 500亿美元大单！FluidStack冲击千亿估值",
+          "link": "https://zhidx.com/p/549140.html",
+          "summary": "AI算力基建创企FluidStack正洽谈10亿美元新融资，目标估值180亿美元。核心推动力是与Anthropic签署的500亿美元数据中心建设协议，营收两年增长超35倍。",
+          "source": "智东西"
+        },
+        {
+          "title": "CoreWeave与Jane Street签署60亿美元AI云计算协议",
+          "link": "https://36kr.com/newsflashes/3768058599047688?f=rss",
+          "summary": "量化交易巨头Jane Street与CoreWeave签署60亿美元AI云计算协议，CoreWeave将向Jane Street提供包括英伟达VERA RUBIN在内的下一代计算资源访问权限。",
+          "source": "36氪"
+        },
+        {
+          "title": "OpenAI内部信曝光：指Claude营收注水80亿",
+          "link": "https://www.qbitai.com/2026/04/401333.html",
+          "summary": "OpenAI内部信泄露称Anthropic年化收入掺水80亿美元，随后该信件被泄露公开，两大AI巨头的竞争从技术层面延伸至商业数据的互相质疑。",
+          "source": "量子位"
+        },
+        {
+          "title": "OpenAI 8520亿美元估值遭投资者质疑",
+          "link": "https://36kr.com/p/3767326268392199?f=rss",
+          "summary": "随着OpenAI战略转向企业市场并应对Anthropic竞争，其8520亿美元估值受到自身投资者审视。部分投资者担忧战略调整使其在竞争中处于脆弱境地，IPO前景存疑。",
+          "source": "36氪"
+        },
+        {
+          "title": "Meta AI基建负责人大换血，OpenAI「星际之门」三巨头加盟",
+          "link": "https://zhidx.com/p/548869.html",
+          "summary": "Meta AI基础设施工程副总裁拉马尼即将离职，OpenAI星际之门项目三位关键负责人集体加入Meta。Meta 2026年资本支出预计飙升至1150-1350亿美元，多位核心高管相继离任。",
+          "source": "智东西"
+        },
+        {
+          "title": "20人不到融资千万美元，华人团队在硅谷打造超级智能体",
+          "link": "https://zhidx.com/p/548802.html",
+          "summary": "Creao AI完成新一轮千万美元融资，累计超3000万美元。团队不足20人，来自Google、Meta等公司，定位「超级智能体」，围绕复杂任务端到端执行。",
+          "source": "智东西"
+        },
+        {
+          "title": "CREAO AI完成千万美金融资，累计超3000万美元",
+          "link": "https://36kr.com/p/3767326268392199?f=rss",
+          "summary": "CREAO AI由Prosperity7 Ventures和经纬创投领投，云启资本、砺思资本、高瓴创投、红杉中国等持续加注。不到一年累计完成超3000万美元融资。",
+          "source": "36氪"
+        },
+        {
+          "title": "美格智能拟3亿元投建AI研发及先进制造产业项目",
+          "link": "https://36kr.com/newsflashes/3768070409437704?f=rss",
+          "summary": "美格智能公告拟在南通购置约46亩工业用地，建立研发中心及先进工艺中试制造基地，投资建设AI研发及先进制造产业项目，预计总投资3亿元。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-19",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Kimi新论文：把KVCache玩成新商业模式了",
+          "link": "https://www.qbitai.com/2026/04/403528.html",
+          "summary": "Kimi发布新论文探索KVCache在超长上下文场景中的商业化潜力，提出将推理缓存机制转化为可持续运营的商业模式，为大模型服务降本增效提供新思路。",
+          "source": "量子位"
+        },
+        {
+          "title": "大模型架构的下半场",
+          "link": "https://www.qbitai.com/2026/04/403515.html",
+          "summary": "聚焦面向大模型深度扩展的Flash Depth Attention与混合深度注意力机制，探讨后Transformer时代大模型架构演进方向，为下一代模型设计提供理论参考。",
+          "source": "量子位"
+        },
+        {
+          "title": "世界引擎：Post-Training开启Physical AGI新纪元",
+          "link": "https://mp.weixin.qq.com/s/5YWYvtMxyWZqbZW2EANG0Q",
+          "summary": "港大与华为联合推出World Engine自动驾驶后训练框架，以闭环仿真、难例挖掘与强化学习为核心，突破数据规模依赖，实现物理AI决策能力质变提升。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "新一代记忆智能体框架MIA：让智能体告别「失忆式工作」",
+          "link": "https://mp.weixin.qq.com/s/Ps0y3Q9Du9O_v95hhyk8NQ",
+          "summary": "上海创智学院与华东师大联合提出MIA框架，通过双记忆闭环与交替强化学习实现经验向能力内化，7B参数版本性能超越更大模型，入选Hugging Face Daily Papers。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "小模型才是Agent系统的「核心组件」？",
+          "link": "https://mp.weixin.qq.com/s/i4_M7Yu-tLnqJL2k_1AL4A",
+          "summary": "探讨小模型在AI系统中从替代方案到精准执行单元的角色转变，Agent系统将工作流拆分为规划、检索、执行等环节并为不同环节分配最适合的模型。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek需要重走来时路",
+          "link": "https://www.tmtpost.com/7958810.html",
+          "summary": "钛媒体深度分析DeepSeek当前面临的挑战与战略抉择，据悉DeepSeek正首次洽谈外部融资，估值超100亿美元，但核心团队精力与资源分配面临考验。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Cursor 3推出智能体优先界面，突破传统IDE模式",
+          "link": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
+          "summary": "Cursor 3发布全新智能体优先界面设计，打破传统IDE交互范式，将AI Agent作为核心交互单元，重新定义代码编辑器的用户体验与工作流程。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+          "link": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+          "summary": "亚马逊云科技提出Agent注册表方案，旨在解决多云环境下AI Agent的发现、认证与治理难题，为企业级Agent部署提供标准化管理基础设施。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI写代码太快，人类测试跟不上，Meta把bug检出率提升4倍",
+          "link": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+          "summary": "Meta提出新方法应对AI生成代码的测试瓶颈，通过自动化测试策略将bug检出率提升4倍，解决AI编码速度远超人类测试能力的现实挑战。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程",
+          "link": "https://www.qbitai.com/2026/04/403214.html",
+          "summary": "提出GUI智能体从训练到评测再到部署的一站式解决方案，无需人工干预和预设脚本，实现端到端自动化，推动GUI自动化测试迈入新阶段。",
+          "source": "量子位"
+        },
+        {
+          "title": "更新越频繁，Claude Code与Codex越像",
+          "link": "https://mp.weixin.qq.com/s/0h2fAdCdwI3kxt3oYV80LQ",
+          "summary": "深度分析Claude Code与Codex两大AI编程工具从差异化到高度同质化的演进，开源框架OpenClaw推动技术标准化，工具红利期已接近尾声。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "一天审完两万篇！AAAI 2026首次实装AI审稿",
+          "link": "https://mp.weixin.qq.com/s/JwSzrcAgXStm_oZ-xpQ7Sw",
+          "summary": "AAAI 2026首次大规模部署AI辅助双盲评审，为22977篇投稿生成AI评审报告，单篇成本不足1美元，在技术错误检测等多项指标上优于人类评审。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "吴泳铭的「手术刀」：阿里的AI集权能否打赢Token战争",
+          "link": "https://www.tmtpost.com/7958630.html",
+          "summary": "阿里组织变革后频繁秀肌肉，吴泳铭以AI为核心重塑业务架构，分析阿里在AI Token战争中的战略布局与竞争态势，探讨集中式AI投入能否带来回报。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "你以为在举报AI烂片？谷歌用验证码玩了15年",
+          "link": "https://mp.weixin.qq.com/s/RzN8tM3hjgBlB3YrAdPCWQ",
+          "summary": "YouTube要求用户对AI视频评分实则为谷歌训练Veo模型收集标注数据，揭示谷歌自收购reCAPTCHA以来将用户行为转化为训练数据的商业模式。",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "高德发布全球首个面向AGI的全栈具身技术体系「ABot」",
+          "link": "https://www.qbitai.com/2026/04/403505.html",
+          "summary": "高德发布ABot全栈具身技术体系，涵盖数据层、模型层与智能体层，15项任务达SOTA水平，构建从感知到决策的持续进化具身智能闭环。",
+          "source": "量子位"
+        },
+        {
+          "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+          "link": "https://www.qbitai.com/2026/04/403226.html",
+          "summary": "高德ABot体系在导航基座、操作基座和智能体层面实现15项SOTA，标志着行业底层基础设施开始成型，局面迅速收敛。",
+          "source": "量子位"
+        },
+        {
+          "title": "高德全自主具身机器人炸场亦庄马拉松，拿下「导盲」硬核考题",
+          "link": "https://mp.weixin.qq.com/s/lfjpZ7KDzNS41WCiCJjMUg",
+          "summary": "高德推出全球首款开放环境全自主具身机器人「高德途途」，成功完成视障人士导盲任务，标志具身智能从实验室走向真实场景的重大突破。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "荣耀齐天大圣队机器人「闪电」夺冠亦庄人形机器人半马",
+          "link": "https://36kr.com/p/3773492357169920?f=rss",
+          "summary": "荣耀机器人「闪电」以50分26秒净用时斩获2026北京亦庄人形机器人半马冠军，搭载自研液冷散热与一体化关节模组，峰值扭矩达400牛米。",
+          "source": "36氪"
+        },
+        {
+          "title": "荣耀包揽北京亦庄人形机器人半马前六",
+          "link": "https://36kr.com/newsflashes/3773322075357696?f=rss",
+          "summary": "荣耀机器人战队包揽亦庄人形机器人半马前六名，搭载新能安电池的「元气仔」获得最佳步态控制奖，展现全栈自研技术实力。",
+          "source": "36氪"
+        },
+        {
+          "title": "十一个为什么，看懂亦庄机器人马拉松",
+          "link": "https://www.tmtpost.com/7958813.html",
+          "summary": "深度解读亦庄机器人半马赛事背后的技术细节与行业意义，摔倒的机器人同样值得关注，赛事推动人形机器人从实验室走向真实复杂路况。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "一年时间，机器人从「马拉松笑话」到超越「最强人类」",
+          "link": "https://www.tmtpost.com/7958826.html",
+          "summary": "回顾人形机器人一年来的技术飞跃，从去年半马的频频摔倒到今年跑赢人类选手，探讨奔跑之后何时能真正投入实际工作场景。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "史上最萌垫底，2026机器人半马抽象大赏",
+          "link": "https://www.ifanr.com/1662773?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "2026亦庄机器人半马赛场上各种形态的机器人同台竞技，从高个子到小矮人，萌翻全场的同时展现人形机器人技术百花齐放的产业现状。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿",
+          "link": "https://36kr.com/newsflashes/3773392715268613?f=rss",
+          "summary": "特斯拉Robotaxi正式拓展至达拉斯和休斯顿，在美国得州三座城市落地运营，标志着其自动驾驶出租车服务覆盖范围持续扩大。",
+          "source": "36氪"
+        },
+        {
+          "title": "眼镜之后，AI指环、项链争抢智能穿戴万亿风口",
+          "link": "https://www.tmtpost.com/7958958.html",
+          "summary": "AI智能穿戴设备从眼镜延伸至指环、项链等形态，各大厂商争相布局，探索AI能力与可穿戴硬件结合的新范式，竞逐万亿级市场。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片",
+          "link": "https://www.tmtpost.com/7956924.html",
+          "summary": "氮化镓激光芯片领域获10亿级投资，资本看中的是其在AI算力、光通信等领域的战略价值，窄门深耕终迎产业爆发机遇。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？",
+          "link": "https://www.qbitai.com/2026/04/403210.html",
+          "summary": "英伟达CEO黄仁勋回应顶级AI厂商是否在去CUDA的质疑，直言「你的前提就是错的」，万字实录揭示GPU生态竞争的最新态势。",
+          "source": "量子位"
+        },
+        {
+          "title": "第二人生获数千万融资，加码全彩3D打印与世界大模型",
+          "link": "https://36kr.com/newsflashes/3773230282572290?f=rss",
+          "summary": "潮玩科技公司第二人生完成数千万级股权融资，已实现AI生成到3D打印的全链路闭环，本轮资金将投向全彩3D打印与世界大模型构建。",
+          "source": "36氪"
+        },
+        {
+          "title": "三年亏14亿，千亿芯片巨头辟谣「友商抢单」",
+          "link": "https://www.tmtpost.com/7958586.html",
+          "summary": "芯原股份三年累计亏损14亿元，「抢单传闻」一度引发股价闪跌，公司紧急辟谣，反映AI芯片赛道竞争白热化与资本市场的敏感神经。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "五家AIC去年净赚超184亿元",
+          "link": "https://36kr.com/newsflashes/3773203588055558?f=rss",
+          "summary": "五家国有大行旗下AIC合计净利润达184.36亿元，工银投资以52.87亿元稳居榜首，农银投资增速最快达9.65%，呈现利润分化态势。",
+          "source": "36氪"
+        },
+        {
+          "title": "「Claude僧人」的奇幻漂流：弃码出家三十年后回业界调教AI",
+          "link": "https://www.tmtpost.com/7958735.html",
+          "summary": "Anthropic邀请各宗教信徒参与AI价值观对齐工作，一位出家三十年的前程序员回归业界参与Claude的训练，揭示AI伦理建设的新路径。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

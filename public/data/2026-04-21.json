@@ -1,0 +1,231 @@
+{
+  "date": "2026-04-21",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "阿里发布Qwen3.6-Max预览版，登顶最佳国产模型",
+          "link": "https://36kr.com/p/3775833331286530?f=rss",
+          "summary": "阿里发布新一代千问旗舰模型早期预览版Qwen3.6-Max-Preview，在Artificial Analysis榜单上超过GLM5.1和MiniMax-M2.7，智能体编程能力显著提升。",
+          "source": "36氪"
+        },
+        {
+          "title": "杨植麟交卷！Kimi K2.6抢先开源，实测手搓3D格斗游戏",
+          "link": "https://zhidx.com/p/551012.html",
+          "summary": "月之暗面发布并开源旗舰模型Kimi K2.6，在人类最后的考试中得分54%位居第一，支持300个子Agent并行协作，可连续编码13小时处理4000行代码。",
+          "source": "智东西"
+        },
+        {
+          "title": "Kimi K2.6 开源直逼 GPT-5.4：涨58%的API定价",
+          "link": "https://www.tmtpost.com/7961404.html",
+          "summary": "Kimi K2.6开源后API定价大幅上调，输入价格涨62.5%，输出价格涨28.6%。杨植麟的「绝对胜利」论开始兑现，开源模型商业化提速。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "谢尔盖·布林重启「创始人模式」，组建突击队重押AI编程",
+          "link": "https://mp.weixin.qq.com/s/rcJbCnmUvq8iRxohc0Z3eg",
+          "summary": "谷歌因AI编程能力被Anthropic超越，联合创始人布林亲自牵头组建突击团队，要求员工强制使用AI编程工具，目标打造可自我优化的AI系统。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "谷歌创始人重新出山！组建突击队，要啃AI编程硬骨头",
+          "link": "https://zhidx.com/p/551155.html",
+          "summary": "谷歌集结研究人员与工程师组建AI编程突击队，布林与DeepMind CTO直接参与。谷歌内部约50%代码由AI生成，而Anthropic宣称已达近100%。",
+          "source": "智东西"
+        },
+        {
+          "title": "自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题",
+          "link": "https://www.tmtpost.com/7961261.html",
+          "summary": "DeepSeek V4发布窗口一再推迟，意外点燃全球对「去CUDA化」的讨论。中国AI产业面临兼容与自立的平衡抉择，将决定未来发展方向。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "阿里发布语音识别大模型Fun-ASR1.5，高精度识别30种语言",
+          "link": "https://36kr.com/p/3775833331286530?f=rss",
+          "summary": "阿里巴巴发布端到端语音识别大模型Fun-ASR1.5，无需预设语种标签即可高精度识别30种语言，覆盖中文七大方言体系及二十余种地方口音。",
+          "source": "36氪"
+        },
+        {
+          "title": "Opus 4.7发布，Claude Code之父传授使用心得",
+          "link": "https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic发布新一代旗舰模型Opus 4.7，Claude Code负责人分享模型使用心得，强调模型升级只是开始，开发方式的变革才是关键所在。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "MiniMax不需要讨好开源",
+          "link": "https://www.tmtpost.com/7961547.html",
+          "summary": "MiniMax在开源策略上走出独特路线，不走DeepSeek式的完全开源模式，而是以商业化为导向，在模型能力与开源生态间寻求差异化平衡。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Codex上新：Chronicle功能让AI「看你的屏幕」理解上下文",
+          "link": "https://zhidx.com/p/551076.html",
+          "summary": "OpenAI为Codex编程助手新增Chronicle功能，通过定期截屏生成记忆，自动理解用户工作上下文。仅限macOS和Pro订阅用户，存在提示注入风险。",
+          "source": "智东西"
+        },
+        {
+          "title": "Anthropic发布Claude Design，一句话生成UI",
+          "link": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic推出Claude Design工具，可通过自然语言指令直接生成用户界面，大幅降低UI设计门槛，被视为设计行业的重要变革信号。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "蚂蚁灵光圈上线！一句话生成应用，投入1亿元激励创作者",
+          "link": "https://www.leiphone.com/category/zaobao/ABueyE2qlQKkh1HM.html",
+          "summary": "蚂蚁灵光App推出「灵光圈」，打造消费级Coding Agent平台，用户用自然语言在手机端创建、分发AI应用，已创建超3000万个闪应用。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "OpenAI正与顾问合作，拟出售Codex",
+          "link": "https://36kr.com/newsflashes/3776503418063112?f=rss",
+          "summary": "OpenAI正与顾问团队合作，计划出售其编程工具Codex，进一步聚焦核心AI业务与商业化路径调整。",
+          "source": "36氪"
+        },
+        {
+          "title": "Claude Code桌面版烂爆了，Anthropic终于把「100% AI编码」演砸了",
+          "link": "https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic推出的Claude Code桌面版遭遇大量用户差评，自动编码功能在实际场景中表现不佳，暴露了「100% AI编码」愿景与现实之间的巨大差距。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "大众汽车今年将在其中国车型中加入语音人工智能技术",
+          "link": "https://36kr.com/newsflashes/3776522378233856?f=rss",
+          "summary": "大众汽车计划今年在其中国销售的车型中集成语音AI技术，加速智能化转型以应对中国市场的激烈竞争。",
+          "source": "36氪"
+        },
+        {
+          "title": "Claude封号潮失控！300万用户企业一夜断供",
+          "link": "https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article",
+          "summary": "Anthropic大规模封禁Claude账号，导致企业用户服务中断，无理由无回应的封号策略引发用户抱团维权，暴露AI服务商的治理问题。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "技术深度揭秘｜云知声U1-OCR架构升级，重构OCR 3.0时代",
+          "link": "https://www.qbitai.com/2026/04/403836.html",
+          "summary": "云知声发布升级版U1-OCR架构并开放API，采用Token计费模式，在识别精度和速度上实现显著提升，推动OCR技术进入3.0时代。",
+          "source": "量子位"
+        },
+        {
+          "title": "AI提效20%，程序员加班却越来越狠：老板量生产力的尺子歪了？",
+          "link": "https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article",
+          "summary": "AI工具虽提升开发效率约20%，但程序员加班不减反增。企业对AI生产力的错误衡量标准导致工作量不降反升，引发行业反思。",
+          "source": "InfoQ"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "RoboSense速腾聚创发布芯片战略，凤凰与孔雀SPAD-SoC年内量产",
+          "link": "https://www.leiphone.com/category/industrynews/reb1v7Y22QImJyCv.html",
+          "summary": "速腾聚创发布「创世」数字化架构及凤凰、孔雀两款旗舰SPAD-SoC芯片，凤凰原生2160线超越400万像素摄像头，孔雀实现VGA级全固态感知。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "荣耀推出「养虾本」，这才是2026年AIPC的答案",
+          "link": "https://www.ifanr.com/1662918?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "荣耀推出搭载AI助手「龙虾」的笔记本电脑，主打零门槛AI体验——不用学、用得起、不怕用，重新定义了AIPC的实用方向。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "华为首款大阔折手机Pura X Max全系搭载麒麟9030 Pro",
+          "link": "https://36kr.com/p/3775833331286530?f=rss",
+          "summary": "华为发布首款大阔折手机Pura X Max，搭载麒麟9030 Pro芯片和HarmonyOS 6.1，余承东表示内存成本上涨1200至1500元，后期可能涨价。",
+          "source": "36氪"
+        },
+        {
+          "title": "具身智能公司自变量发布机器人模型WALL-B，35天后进入真实家庭",
+          "link": "https://www.ifanr.com/1663081?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "自变量机器人公司发布通用具身智能大模型WALL-B，仅用35天便进入真实家庭环境测试，标志着具身智能迈出进入家庭的第一步。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "曦望完成超10亿融资，成为国内首家纯推理GPU独角兽",
+          "link": "https://36kr.com/p/3775833331286530?f=rss",
+          "summary": "AI推理GPU企业曦望完成超10亿元融资，累计融资约40亿元，成为国内首家估值超百亿的纯推理GPU独角兽，资金将用于S3芯片量产和后续研发。",
+          "source": "36氪"
+        },
+        {
+          "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+          "link": "https://36kr.com/p/3769659305427459?f=rss",
+          "summary": "宠物AI初创公司PettiChat完成100万美元种子轮融资，推出27.2g智能宠物穿戴设备，实现人宠双向语音翻译，猫声学识别准确率达94.6%。",
+          "source": "36氪"
+        },
+        {
+          "title": "曦智科技4月28日港交所挂牌，有望成为全球AI硅光芯片第一股",
+          "link": "https://www.leiphone.com/category/zaobao/ABueyE2qlQKkh1HM.html",
+          "summary": "光电混合计算芯片公司曦智科技启动港交所招股，专注光子矩阵计算与光互连技术，获百度、腾讯等投资，有望成为全球AI硅光芯片第一股。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "AI技术大爆炸时代，TI音频芯片藏着「改变世界」的潜力",
+          "link": "https://zhidx.com/p/550946.html",
+          "summary": "德州仪器深耕音频模拟芯片，通过IDM模式实现高度集成与定制化，产品覆盖消费电子、汽车和工业领域，为AI交互夯实音频体验基础。",
+          "source": "智东西"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "亚马逊追加投资Anthropic至多330亿美元，双方深化AI芯片合作",
+          "link": "https://zhidx.com/p/551010.html",
+          "summary": "亚马逊宣布向Anthropic追加50亿美元投资，未来还将追加至多200亿美元。Anthropic承诺十年内在AWS投入超1000亿美元，Claude年化收入已超300亿美元。",
+          "source": "智东西"
+        },
+        {
+          "title": "曝贝索斯融资100亿美元押注物理AI，估值达380亿美元",
+          "link": "https://zhidx.com/p/551065.html",
+          "summary": "贝索斯创办的Project Prometheus即将敲定100亿美元新融资，摩根大通和贝莱德入场。公司主攻物理AI模型，叠加首轮融资累计资金储备充裕。",
+          "source": "智东西"
+        },
+        {
+          "title": "字节跳动2025海外营收占比创新高，AI投入致净利润大降70%",
+          "link": "https://36kr.com/p/3775833331286530?f=rss",
+          "summary": "字节跳动2025年海外营收增长近50%，占比超三成创新高。但AI全链条投入导致全年净利润同比下降超70%，抖音集团副总裁澄清含优先股因素。",
+          "source": "36氪"
+        },
+        {
+          "title": "中国具身智能最高单轮融资出炉，前华为百度高管联手创业",
+          "link": "https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article",
+          "summary": "具身智能领域诞生最高单轮融资，前华为和百度高管联合创办的机器人公司获得巨额投资，聚焦真干活、真量产的机器人产品。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "深圳机器人独角兽自变量融资20亿，字节、小米领投",
+          "link": "https://www.leiphone.com/category/zaobao/ABueyE2qlQKkh1HM.html",
+          "summary": "自变量机器人完成近20亿元B轮融资，小米战投和红杉中国领投，是国内唯一同时被字节、美团、阿里三家大厂投资的具身智能企业。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "知名记者出书爆锤OpenAI，奥特曼亲自下场反击",
+          "link": "https://www.tmtpost.com/7951128.html",
+          "summary": "《AI帝国》作者最新访谈揭露OpenAI内幕，Sam Altman亲自下场反击。书中探讨奥特曼究竟是下一个乔布斯还是顶级操纵者，引发行业热议。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "苹果宣布库克卸任CEO，特纳斯9月接任",
+          "link": "https://www.leiphone.com/category/zaobao/ABueyE2qlQKkh1HM.html",
+          "summary": "苹果宣布库克将于9月卸任CEO转任执行董事长，硬件工程高级副总裁特纳斯接任。库克执掌期间公司市值从3500亿美元涨至约4万亿美元。",
+          "source": "雷锋网"
+        }
+      ]
+    }
+  ]
+}

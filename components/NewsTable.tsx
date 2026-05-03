@@ -69,9 +69,10 @@ export default function NewsTable({ category }: NewsTableProps) {
                     href={article.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-blue-400 hover:text-blue-300 hover:underline transition-colors"
+                    className="text-blue-400 hover:text-blue-300 hover:underline transition-colors inline-flex items-center gap-1"
                   >
                     {article.title}
+                    <span className="text-slate-500 text-xs ml-1">↗</span>
                   </a>
                 </td>
                 <td className="py-3 px-4 text-sm text-slate-300">

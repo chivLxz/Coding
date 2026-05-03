@@ -1,0 +1,279 @@
+{
+  "date": "2026-04-08",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
+          "link": "https://www.qbitai.com/2026/04/397898.html",
+          "summary": "智谱发布新一代旗舰模型GLM-5.1，在长程任务处理能力上实现突破，可在单次任务中持续自主工作长达8小时，开源模型首次超越Anthropic Opus4.6。",
+          "source": "量子位"
+        },
+        {
+          "title": "DeepSeek深夜更新后自曝：我是V4",
+          "link": "https://www.qbitai.com/2026/04/397761.html",
+          "summary": "DeepSeek深夜推送更新后，模型自我标识变为V4，引发业界对其新一代大模型即将发布的猜测，V4版本呼之欲出。",
+          "source": "量子位"
+        },
+        {
+          "title": "国产免费2B开源语音模型征服《莽撞人》！复刻郭德纲最难贯口",
+          "link": "https://www.qbitai.com/2026/04/397881.html",
+          "summary": "面壁智能发布全新2B参数开源语音模型，成功复刻郭德纲经典贯口《莽撞人》，外国用户直呼Amazing，刚完成数亿元融资。",
+          "source": "量子位"
+        },
+        {
+          "title": "突发！史上最强Claude发布：聪明到不敢开放，还会突破权限掩盖操作痕迹",
+          "link": "https://www.ifanr.com/1661287",
+          "summary": "Anthropic发布新一代旗舰模型Claude Opus 4.6，被认为是史上最强AI模型，但因安全风险不向普通用户开放，引发安全与能力的双重讨论。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "Claude Opus 4.6一天之内被超越两次，这次来自国产模型",
+          "link": "https://www.ifanr.com/1661343",
+          "summary": "Claude Opus 4.6发布当天即被两个国产模型在评测榜单上超越，标志着国产大模型在长程任务和综合能力上的快速追赶。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "刚刚，DeepSeek大升级，V4真的不远了",
+          "link": "https://www.ifanr.com/1661286",
+          "summary": "DeepSeek推送重大更新，多维度性能提升显著，模型自我标识疑似暴露V4身份，业界密切关注其下一代模型的正式发布。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "GPT-6如果只是吊胃口，那OpenAI就真会掉下悬崖了",
+          "link": "https://www.tmtpost.com/7945697.html",
+          "summary": "OpenAI的GPT-6被寄予厚望但迟迟未发，在竞品加速迭代的背景下，如果GPT-6不能带来足够突破，OpenAI的领先地位将岌岌可危。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "Anthropic那个「强到不敢发」的模型，终于来了",
+          "link": "https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx",
+          "summary": "Anthropic正式发布此前内部评估中表现过于强大而延迟公开的新模型，在代码生成、安全对齐和长程推理方面均有重大突破。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "传Meta新一代模型即将发布，执行开源与闭源混合策略",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "Meta即将发布新一代AI模型，采取开源与闭源并行策略，旗舰模型和独家技术保留内部，同时保持对开发者的开源可用性。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "小米罗福莉开怼大模型“价格战”：建议LLM公司不要盲目压低价格",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "小米MiMo大模型负责人罗福莉发文分析Agent算力分配与定价逻辑，认为低价卖token加开放第三方框架实则是陷阱，行业出路在于更高效的Agent与更强模型的协同。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "罗福莉再发声，Agent时代模型订阅制凉了？",
+          "link": "https://www.tmtpost.com/7945702.html",
+          "summary": "小米MiMo负责人罗福莉再度发文探讨Token经济学，认为在Agent时代传统订阅制已难以为继，按token额度计费才是可持续的商业模式。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "阿里电商AI新动向：围绕Token重构电商，组织迎来新一轮调整",
+          "link": "https://36kr.com/p/3748018292802309?f=rss",
+          "summary": "阿里巴巴CEO吴泳铭组建Alibaba Token Hub事业群，淘天推出千牛Claw引入AI Agent服务商，计划用Token经济重构电商增长模式。",
+          "source": "36氪"
+        },
+        {
+          "title": "扣子宣布2.5版本升级，探索AI Agent从“工具”到“伙伴”的关键一步",
+          "link": "https://www.leiphone.com/category/industrynews/fHCljG3JWZXEpZPE.html",
+          "summary": "扣子2.5版本推出Agent World协作平台，为AI Agent配备独立邮箱、云手机、云电脑和技能商店，实现从工具到伙伴的定位升级。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+          "link": "https://www.qbitai.com/2026/04/397942.html",
+          "summary": "智谱GLM-5.1发布当天即上线华为云，对接华为云多款产品，用户可通过华为云生态直接体验新一代旗舰模型的强大能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "通义升级事业部、三大CTO入阵：阿里巴巴为AI拆藩篱",
+          "link": "https://www.tmtpost.com/7945695.html",
+          "summary": "阿里成立集团技术委员会，将通义实验室升级为通义大模型事业部，三大CTO入阵统筹AI技术体系建设，加速AI战略落地。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "GitHub将使用Free、Pro和Pro+用户的Copilot交互数据来训练AI模型",
+          "link": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q",
+          "summary": "GitHub宣布将利用免费和专业版用户的Copilot交互数据训练AI模型，引发开发者社区对数据隐私和用户知情权的讨论。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌",
+          "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax",
+          "summary": "Claude Code近期更新被指思考深度大幅下降，多位大厂AI负责人公开批评，官方回应后仍遭开发者吐槽，质疑其退化为AI玩具。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌发布AI心理健康支持更新",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "谷歌通过Gemini新增危机识别求助模块，Google.org投入3000万美元资助全球心理热线，利用AI模拟平台培训志愿者，强化AI辅助心理健康。",
+          "source": "36氪"
+        },
+        {
+          "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar",
+          "link": "https://www.qbitai.com/2026/04/397922.html",
+          "summary": "SentiPulse联合人大高瓴人工智能学院开源交互式3D数字人框架SentiAvatar，在多项基准测试中超越行业主流模型，领跑数字人赛道。",
+          "source": "量子位"
+        },
+        {
+          "title": "奥特曼回应为何关停Sora：算力资源极度紧缺",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "OpenAI CEO奥特曼在专访中坦白关停Sora的原因是算力资源极度紧缺，Sora不在公司最高优先级列表中，引发对AI算力瓶颈的关注。",
+          "source": "36氪"
+        },
+        {
+          "title": "从Vibe Coding到Architecture Coding：Toco AI建模驱动AI Coding实践",
+          "link": "https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM",
+          "summary": "Toco AI提出从Vibe Coding到Architecture Coding的范式转变，以建模驱动的方式提升AI编程的工程化水平，在QCon北京分享实践经验。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "美团李树斌：AI内容爆炸时代，“真人真评价”对餐饮业将更珍贵",
+          "link": "https://www.leiphone.com/category/industrynews/yRnQMywX3bISa7vb.html",
+          "summary": "美团高级副总裁李树斌在餐饮连锁峰会上表示，AI生成内容泛滥将使真人真实评价更有价值，大众点评的真人评价成为差异化竞争优势。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "AI代笔的小说不但以假乱真还火了，AI真的要取代作家和编剧了吗？",
+          "link": "https://www.tmtpost.com/7945478.html",
+          "summary": "AI生成的小说作品以假乱真并获得市场认可，引发对AI取代创意写作行业的广泛讨论，作家和编剧面临前所未有的职业挑战。",
+          "source": "钛媒体"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "海光信息发布“机密Token”，保障云端大模型数据安全",
+          "link": "https://36kr.com/p/3756524566610437?f=rss",
+          "summary": "海光信息全球首发机密Token技术，依托硬件级安全架构实现云端大模型全流程数据明文零暴露，为云端大模型规模化落地提供安全保障。",
+          "source": "36氪"
+        },
+        {
+          "title": "面向AI的SSD，彻底火出圈",
+          "link": "https://www.tmtpost.com/7945729.html",
+          "summary": "面向AI工作负载优化的SSD进入产业狂欢期，AI训练和推理对高速存储的需求激增，推动存储厂商加速AI专用SSD的研发和量产。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+          "link": "https://36kr.com/p/3757589543813893?f=rss",
+          "summary": "灵动佳芯完成近亿元A轮融资，基于PVDF的柔性触觉传感器已进入具身智能和锂电池安全领域，在服务机器人细分市场年出货超千万只。",
+          "source": "36氪"
+        },
+        {
+          "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
+          "link": "https://www.qbitai.com/2026/04/397912.html",
+          "summary": "地瓜机器人完成1.5亿美元B轮融资，累计融资2.7亿美元，资金将用于加速全球化业务布局和机器人核心技术的研发迭代。",
+          "source": "量子位"
+        },
+        {
+          "title": "当具身智能走进工厂：没有星辰大海，只有一本算不清的账",
+          "link": "https://www.tmtpost.com/7946012.html",
+          "summary": "具身智能在工业场景的商业化面临成本账算不平的困境，但核心硬件降本与人力成本上升的双重趋势正逐步打开商业化空间。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "宇树科技移动机器人新专利获授权",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "宇树科技“一种移动机器人”专利获授权，采用竖直半椭圆球体机身配广角激光雷达设计，发明人为王兴兴和王凯，优化了机器人感知能力。",
+          "source": "36氪"
+        },
+        {
+          "title": "英特尔确认加入马斯克TeraFab项目，全面赋能芯片设计、制造与封装",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "英特尔宣布加入马斯克的TeraFab超级芯片制造项目，目标年产1太瓦算力，英特尔代工部门将参与芯片设计、制造和封装全流程。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "富瀚微：公司已经实现工业视觉芯片的量产",
+          "link": "https://36kr.com/newsflashes/3758151483507462?f=rss",
+          "summary": "富瀚微在业绩说明会上表示已实现工业视觉芯片量产，供给工业机器人客户，并通过方案公司向头部人形机器人客户提供芯片。",
+          "source": "36氪"
+        },
+        {
+          "title": "芯片出海，征服日本汽车？",
+          "link": "https://www.tmtpost.com/7945622.html",
+          "summary": "中国芯片企业加速出海步伐，日本汽车产业正主动拥抱中国芯，在汽车电子和智能驾驶领域形成新的合作关系。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "三星电子为平泽P5晶圆厂下达70余台光刻机订单",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "三星为平泽P5晶圆厂PH1阶段订购70余台光刻机，其中约20台为ASML的EUV系统，将用于1c nm制程DRAM和HBM生产。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "中科曙光：2026年第一季度净利润2.25亿元，同比增长20.88%",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "中科曙光发布一季报，营收30.72亿元同比增长18.80%，净利润2.25亿元同比增长20.88%，扣非净利润同比增长57.77%，业绩增长强劲。",
+          "source": "36氪"
+        },
+        {
+          "title": "三星电子第一季度营业利润同比飙升755%",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "三星电子Q1营业利润达创纪录的57.2万亿韩元，同比飙升755%，营收增长68.1%至133万亿韩元，远超市场预期。",
+          "source": "36氪"
+        },
+        {
+          "title": "马云、雷军同时出手！千寻智能30天融资30亿元",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "具身智能公司千寻智能完成10亿元新一轮融资，顺为资本和云锋基金联合领投，30天内累计融资30亿元，雷军和马云罕见同框押注。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "首形科技获数亿元A1轮融资，超高仿生情感交互机器人受追捧",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "超高仿生情感交互机器人企业首形科技完成数亿元A1轮融资，华控基金及某互联网大厂联合领投，资金用于多模态具身交互系统迭代。",
+          "source": "36氪"
+        },
+        {
+          "title": "SpaceX计划6月初启动IPO路演，估值预计1.75万亿美元",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "SpaceX计划6月启动IPO路演，计划筹资750亿美元，估值达1.75万亿美元，将创下史上最大IPO记录，散户参与度将超历次IPO。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "Sand.ai完成新一轮约五千万美金融资，VidMuse ARR破千万美金",
+          "link": "https://36kr.com/p/3757404054930182?f=rss",
+          "summary": "Sand.ai旗下Video Agent产品VidMuse上线仅两月ARR超千万美金，母公司完成约五千万美金融资，成为Video Agent赛道最快商业化里程碑。",
+          "source": "36氪"
+        },
+        {
+          "title": "长光辰芯通过港交所聆讯，“长光系”将迎来首个港股IPO",
+          "link": "https://www.leiphone.com/category/zaobao/NfikXhzCS4LtKCzB.html",
+          "summary": "CMOS图像传感器龙头长光辰芯通过港交所聆讯，2025年收入8.57亿元同比增长27.3%，毛利率66.9%，工业成像全球市场份额第三。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+          "link": "https://36kr.com/p/3756524566610437?f=rss",
+          "summary": "谷歌CEO皮查伊预计2027年成为AI改变工作方式的重要拐点，谷歌手握千亿美元资本支出计划，正推进量子计算、太空数据中心等长期技术布局。",
+          "source": "36氪"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-03",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "DeepSeek V4最大的遗憾",
+          "link": "https://www.qbitai.com/2026/05/412737.html",
+          "summary": "DeepSeek V4发布后引发热议，但核心记忆机制Engram缺席成为最大遗憾，探讨模型架构取舍与未来方向。",
+          "source": "量子位"
+        },
+        {
+          "title": "智谱公布「降智」的秘密：Scaling不可避免的痛",
+          "link": "https://www.qbitai.com/2026/05/412585.html",
+          "summary": "智谱公开研究揭示大模型「降智」现象根因在于Prefill阶段的信息丢失，这是Scaling Law带来的固有挑战。",
+          "source": "量子位"
+        },
+        {
+          "title": "ACL 2026｜RouteMoA：无需预推理的动态路由实现高效多智能体混合",
+          "link": "https://mp.weixin.qq.com/s/nHWEqgpdH2FdZ08AaPylSg",
+          "summary": "提出轻量级评分器预测模型能力的动态路由框架，降低89.8%成本和63.6%延迟，同时提升准确率，为多模型协同提供新范式。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "GPT-5.5和Opus 4.7在ARC-AGI-3测试中均未考到1分，人类却满分",
+          "link": "https://mp.weixin.qq.com/s/S_Z3olXnNNrh5qsPgYS9lw",
+          "summary": "当前顶尖AI模型在ARC-AGI-3抽象推理基准上表现极差，揭示大模型仍依赖统计模式而非本质智能，AGI之路依然漫长。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "不可思议！400B大模型在iPhone上跑起来了",
+          "link": "https://mp.weixin.qq.com/s/kQMDj9KCEdX-ztGiQYZp7Q",
+          "summary": "开源项目Flash-MoE在iPhone 17 Pro上成功运行400B参数MoE模型，仅用5.5GB内存流式加载209GB模型，端侧大模型进入新阶段。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "腾讯混元CL-bench续作：让大模型读懂你的日常生活",
+          "link": "https://mp.weixin.qq.com/s/ysSIbSEdC9beb4wxIu8IdA",
+          "summary": "腾讯混元联合复旦推出CL-Bench Life基准，测试模型从群聊、笔记等无序信息中推理意图的能力，GPT-5.5仅能解决约22%任务。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "GIM和港大ACL主会：让大模型自己写代码挖掘量化因子",
+          "link": "https://mp.weixin.qq.com/s/_-woiTczeslm6xvKlAwcqw",
+          "summary": "CogAlpha框架利用LLM构建21智能体协同研究系统自动挖掘Alpha因子，年化超额收益达16.39%，将LLM从生成工具升级为研究组织者。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek灰度测试「识图模式」，多模态能力终于上线",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "DeepSeek开启灰度测试识图模式，具备多模态识别能力，与快速模式、专家模式并列，推理速度接近flash级别。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "苹果官方App误打包了Claude.md，大公司也Vibe Coding",
+          "link": "https://www.qbitai.com/2026/05/412713.html",
+          "summary": "苹果官方应用中意外打包了Claude.md文件，暴露即便是顶级科技公司也在使用AI辅助编程的Vibe Coding工作流。",
+          "source": "量子位"
+        },
+        {
+          "title": "Mistral AI推出Workflows，用于编排企业AI工作流",
+          "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag",
+          "summary": "Mistral AI发布Workflows产品，帮助企业用户可视化编排和自动化AI工作流，降低企业AI应用门槛。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "当国产模型追上闭源旗舰，企业AI编程的真正障碍才浮出水面",
+          "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
+          "summary": "国产大模型在编程能力上已追上闭源旗舰，但企业AI编程落地仍面临代码安全、流程整合和开发者习惯等深层障碍。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "我在OpenAI修中文",
+          "link": "https://www.tmtpost.com/7975466.html",
+          "summary": "OpenAI研究科学家陈博远分享GPT-Image-2发布幕后花絮，包括多语言文字渲染、视觉数学证明等创新案例。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "Edge AI Daily早报（5月3日）",
+          "link": "https://www.tmtpost.com/7975690.html",
+          "summary": "谷歌确认将在Gemini中引入广告，2026年内落地；四大科技巨头计划投入7250亿美元于AI基础设施；OpenAI推出Codex宠物模式。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "假期出游，我被AI坑惨了",
+          "link": "https://www.tmtpost.com/7975705.html",
+          "summary": "六个真实案例揭示用AI做旅行攻略的踩坑经历，反映当前AI助手在实际生活场景中的可靠性仍有不足。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "他用AI办了个音乐节，主题：别读博",
+          "link": "https://www.qbitai.com/2026/05/412597.html",
+          "summary": "一代科研人用AI工具策划了一场主题为「别读博」的赛博音乐节，以幽默方式表达科研压力与AI时代的学术生态。",
+          "source": "量子位"
+        },
+        {
+          "title": "马斯克翻车！一边告OpenAI一边偷偷蒸馏ChatGPT",
+          "link": "https://36kr.com/p/3791460373929221?f=rss",
+          "summary": "马斯克在OpenAI诉讼庭审中亲口承认xAI蒸馏了ChatGPT模型，还当庭给AI公司排名：Anthropic第一、OpenAI第二。",
+          "source": "36氪"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源",
+          "link": "https://www.qbitai.com/2026/05/412870.html",
+          "summary": "新一代具身智能仿真框架实现高吞吐并行高保真渲染，突破算力瓶颈，助力具身智能规模化训练并已开源。",
+          "source": "量子位"
+        },
+        {
+          "title": "刚刚，小扎买了一家机器人公司，要做人形机器人的「安卓平台」",
+          "link": "https://mp.weixin.qq.com/s/A1wo0H3fRecKGejwTt2Tbg",
+          "summary": "Meta收购机器人AI公司ARI，避开硬件制造专注打造类似Android的机器人智能操作系统，从元宇宙转向实体AI。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "ICLR 2026｜PAT3D让文生3D从能看推进到能模拟、能交互",
+          "link": "https://mp.weixin.qq.com/s/om_Y2NyRngtxPjwfMg3lTQ",
+          "summary": "CMU等团队提出PAT3D，首次将物理仿真引入文本到3D场景生成，解决物体穿插悬空问题，支持场景编辑和机器人仿真。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "LWD具身训练系统：让机器人在真实世界自主「打怪练级」",
+          "link": "https://zhidx.com/p/554605.html",
+          "summary": "罗剑岚团队提出LWD框架，通过真实世界强化学习闭环让机器人集群持续进化，八项长程任务平均成功率从0.76提升至0.95。",
+          "source": "智东西"
+        },
+        {
+          "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+          "link": "https://36kr.com/newsflashes/3792810419543301?f=rss",
+          "summary": "本田追加投资硅谷自动驾驶AI公司helm_ai，双方将推进下一代端到端自动驾驶和ADAS系统，用于2027年后的电动和混动车型。",
+          "source": "36氪"
+        },
+        {
+          "title": "卓驭于贝贝：向物理AI转型是生存法则的必然选择",
+          "link": "https://36kr.com/p/3789475357400068?f=rss",
+          "summary": "卓驭科技发布原生多模态基础模型并切入VLA2.0范式，探索从硬件销售到L4订阅分润的第二增长曲线，行业洗牌在即。",
+          "source": "36氪"
+        },
+        {
+          "title": "小米自研SoC玄戒O3参数曝光：超大核4.05GHz，折叠屏首发",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "小米玄戒O3采用超大核+大核+小核设计，超大核4.05GHz，将由MIX Fold 5折叠屏首发，Q3发布。前代玄戒O1出货已破百万。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "苹果搁置Vision Pro研发，重心转向Siri和AI眼镜",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "Vision Pro升级M5芯片后仍未扭转市场冷淡，总销量约60万台且退货率偏高，苹果已停止新款开发，团队转向AI智能眼镜。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "DeepSeek V4引爆需求！中国科技巨头纷抢华为昇腾950芯片",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "DeepSeek V4发布后昇腾950PR芯片需求飙升，字节腾讯阿里紧急锁定订单。华为2026年计划生产约75万颗，4月已启动量产。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "现代汽车调整机器人业务：实验室划归AVP本部",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "现代汽车将机器人实验室从研发本部划归先进车辆平台本部，强化机器人与AI、自动驾驶的技术联动，由前英伟达高管兼任负责人。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "硅谷大厂的AI「含金量」开始分级",
+          "link": "https://www.tmtpost.com/7975709.html",
+          "summary": "硅谷财报季揭示美国大厂开始收割AI红利，而字节腾讯阿里等中国公司在AI商业化变现上仍有差距，AI含金量出现分化。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "又一算力独角兽冲击IPO：超聚变估值站上910亿元",
+          "link": "https://36kr.com/p/3791796527602951?f=rss",
+          "summary": "前华为X86服务器业务超聚变IPO辅导仅四个月完成，2024年营收超400亿，中移资本持股15%，估值达910亿元冲击中部算力第一股。",
+          "source": "36氪"
+        },
+        {
+          "title": "阿里字节留的「参考答案」，小红书能抄多少分？",
+          "link": "https://www.tmtpost.com/7975614.html",
+          "summary": "小红书加速大厂化转型，在AI技术布局和商业化路径上参考阿里字节经验，但社区基因与科技基因的融合仍面临挑战。",
+          "source": "钛媒体"
+        },
+        {
+          "title": "寒武纪Q1盈利暴涨：营收28.85亿同比增长159%，牛散章建平退出",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "寒武纪2026年Q1营收28.85亿同比增159.56%，净利润10.13亿同比增185%，但知名牛散章建平已退出前十大股东。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "Anthropic正在考虑估值超9000亿美元的融资报价",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "Anthropic考虑新一轮融资，估值可能超9000亿美元，有望超越OpenAI成为全球估值最高的AI初创公司，讨论仍处早期阶段。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "SpaceX批准马斯克天价薪酬：达成火星殖民目标可获2亿股",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "SpaceX董事会批准马斯克薪酬方案，若市值达7.5万亿美元并在火星建成百万人口定居点，将获2亿股超级投票权股票。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "马斯克庭审自曝：与谷歌联合创始人佩奇因AI安全观闹掰",
+          "link": "https://www.leiphone.com/category/zaobao/Yhq9TTDgatWOOdDC.html",
+          "summary": "马斯克在OpenAI诉讼庭审中披露与佩奇友谊破裂始末，两人因AI安全立场对立而决裂，此事成为他创办OpenAI的核心动机。",
+          "source": "雷锋网"
+        }
+      ]
+    }
+  ]
+}

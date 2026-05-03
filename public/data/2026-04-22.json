@@ -1,0 +1,207 @@
+{
+  "date": "2026-04-22",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "蚂蚁百灵Ling-2.6-flash正式发布，100B参数拿下Agent场景SOTA",
+          "link": "https://zhidx.com/p/551541.html",
+          "summary": "蚂蚁集团发布Ling-2.6-flash模型，总参数104B、激活参数7.4B，采用混合线性注意力架构，推理速度达340 tokens/s，Agent基准评测达到同尺寸SOTA，token消耗仅为同类模型十分之一。",
+          "source": "智东西"
+        },
+        {
+          "title": "苹果提出HedgeMamba：将Transformer高效转换为Mamba架构",
+          "link": "https://mp.weixin.qq.com/s/NLTYnIWvhPffpQKIM3qIdw",
+          "summary": "苹果团队提出HedgeMamba蒸馏方法，通过两阶段策略将高性能Transformer模型转换为低成本的Mamba架构，仅用10B token微调即可使1B参数模型逼近原始Transformer性能，为模型低成本迁移提供可规模化路径。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "DeepSeek API突然更新：上下文窗口扩至100万，知识截止日期更新",
+          "link": "https://zhidx.com/p/551789.html",
+          "summary": "多位开发者反馈DeepSeek官方API模型能力发生变化，上下文窗口从128k扩展至100万，知识截止日期更新为2025年5月，正值V4旗舰大模型发布前夕。",
+          "source": "智东西"
+        },
+        {
+          "title": "谷歌云发布新一代TPU芯片TPU 8t和TPU 8i，AI算力再升级",
+          "link": "https://36kr.com/newsflashes/3777953384748033?f=rss",
+          "summary": "谷歌云发布最新一代TPU张量处理单元，推出TPU 8t用于AI模型训练和TPU 8i用于推理服务，同时宣布AI使用量已达每分钟160亿tokens，较上季度增长60%。",
+          "source": "36氪"
+        },
+        {
+          "title": "复旦发布自进化智能体系统GenericAgent，Token成本直降近10倍",
+          "link": "https://mp.weixin.qq.com/s/va5DgDbcD07DBFRP1_RSw",
+          "summary": "复旦大学A3实验室发布全球首个基于上下文信息密度最大化原则的自进化智能体系统GA，通过最小原子工具集和分层记忆架构实现100%任务完成率，Token消耗降低90%以上。",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "上交大×vivo提出C²FG：动态引导机制全面提升Diffusion生成质量",
+          "link": "https://www.leiphone.com/category/ai/T1QJcttY3cV0JjVU.html",
+          "summary": "上海交大与vivo团队提出C²FG方法，通过分析条件引导的时变差异实现动态guidance，在ImageNet上FID从2.29降至2.07，强模型SiT-XL上从1.80降至1.51，证明固定guidance机制本身存在系统性偏差。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "全球首个世界统一模型发布，机器人家庭成员来了",
+          "link": "https://www.qbitai.com/2026/04/404446.html",
+          "summary": "全球首个世界统一模型正式发布，标志着具身智能领域迈出关键一步，该模型有望为家庭服务机器人提供统一的世界理解与交互能力。",
+          "source": "量子位"
+        },
+        {
+          "title": "西湖大学提出WorldForge：零训练实现视频生成的精确相机控制",
+          "link": "https://www.leiphone.com/category/ai/Hui1xX2vdMbvb4z2.html",
+          "summary": "西湖大学团队提出WorldForge，在不改变模型参数的情况下实现精确相机轨迹控制，FID下降20%，轨迹误差降低2到5倍，入选CVPR 2026 Highlight，推动视频生成从视觉合成走向空间理解。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "出门问问发布AI原生协作平台CodeBanana，人与Agent同框办公",
+          "link": "https://zhidx.com/p/551575.html",
+          "summary": "出门问问发布企业级AI原生协作平台CodeBanana，以项目为核心单元构建群聊沟通+Agent执行+工作空间沉淀的三位一体架构，Agent无处不在且以Coding为基础，已有20至30家客户。",
+          "source": "智东西"
+        },
+        {
+          "title": "Claude封号限流砍权益，OpenAI趁机用Codex稳稳接住用户",
+          "link": "https://www.ifanr.com/1663315?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "Anthropic被曝将Claude Code从20美元Pro套餐移至100美元Max套餐，虽称仅为灰度测试但引发开发者强烈不满，OpenAI趁机宣传Codex仍保留在20美元套餐中吸引用户迁移。",
+          "source": "爱范儿"
+        },
+        {
+          "title": "腾讯云全栈开源Cube沙箱，支持零代码迁移Agent执行环境",
+          "link": "https://zhidx.com/p/551349.html",
+          "summary": "腾讯云以Apache 2.0协议完整开源AI Agent代码执行沙箱Cube，冷启动仅60ms，兼容OpenAI SDK与E2B SDK，开发者无需改代码即可迁移Agent执行环境，支持私有化部署。",
+          "source": "智东西"
+        },
+        {
+          "title": "宇视发布「阳关」企业级SOP智能体平台，AI重塑企业干活流程",
+          "link": "https://zhidx.com/p/551687.html",
+          "summary": "宇视科技发布多模态企业级SOP智能体平台「阳关」，新增Skills能力层使算法开发成本降低40%，覆盖智慧生产、办公、运营和具身智能四大场景，强调可驾驭工程而非消费级提示词。",
+          "source": "智东西"
+        },
+        {
+          "title": "OpenAI正式发布ChatGPT Images 2.0，生图能力飞跃式提升",
+          "link": "https://zhidx.com/p/551490.html",
+          "summary": "OpenAI发布图像生成模型ChatGPT Images 2.0，迅速登顶Image Arena所有榜单第一，领先第二名242分。模型可生成真假难辨的直播截图、转账记录等，也引发AI生图伦理风险讨论。",
+          "source": "智东西"
+        },
+        {
+          "title": "亚马逊云科技宣布DevOps Agent正式可用，自动化事件排查",
+          "link": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
+          "summary": "亚马逊云科技宣布DevOps Agent正式可用，该Agent可自动化开展事件排查和运维工作，标志着AI Agent在DevOps领域的进一步落地。",
+          "source": "InfoQ"
+        },
+        {
+          "title": "「中国版Grok上车」：阶跃联合极氪推出整车智能体超级Eva",
+          "link": "https://www.leiphone.com/category/transportation/aJDWM6AvG34wuMaZ.html",
+          "summary": "极氪8X首发搭载阶跃、吉利、千里科技联合研发的整车智能体「超级Eva」，打通感知理解到执行的整车链路，用户只需表达目标而非拆解命令，标志着大模型上车从对话升级迈入智能体阶段。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "被马斯克翻牌的AI版抖音Loopit，融资3.4亿元",
+          "link": "https://zhidx.com/p/551484.html",
+          "summary": "AI互动内容平台Loopit母公司涌跃智能完成5000万美元融资，由Garena领投。用户通过简单描述即可生成可交互内容，DAU数十倍增长，曾获Google Play全球总榜第8。",
+          "source": "智东西"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+          "link": "https://www.qbitai.com/2026/04/404713.html",
+          "summary": "科大讯飞推出燎原N30m笔记本，定位全栈国产AIPC产品，集成讯飞自研AI能力，旨在为国产AI PC树立新的行业标杆。",
+          "source": "量子位"
+        },
+        {
+          "title": "地平线发布中国首款舱驾融合芯片星空Starry 6P/6H，5nm制程650TOPS",
+          "link": "https://36kr.com/newsflashes/3777922471253252?f=rss",
+          "summary": "地平线推出中国首款舱驾融合整车智能体芯片星空Starry 6P/6H，6P采用5nm制程，算力达650TOPS，带宽273GB/s，将座舱和智驾能力融合于单芯片方案。",
+          "source": "36氪"
+        },
+        {
+          "title": "人形机器人半马完赛：搭载RISC-V AI CPU K3芯片的灵龙2.0跑完21公里",
+          "link": "https://www.leiphone.com/category/ai/Dwb8f1Vzvx72ToZg.html",
+          "summary": "第二届北京亦庄人形机器人半程马拉松中，搭载进迭时空RISC-V AI CPU K3芯片的灵龙2.0机器人顺利完赛。K3芯片从微架构层面实现AI推理与伺服控制一体化，验证了RISC-V方案在具身智能场景的成熟度。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "联想开天提出「1+2+N」体系，AI智能体重写信创PC逻辑",
+          "link": "https://www.leiphone.com/category/chips/Xz8KHRsWQvG6U4x5.html",
+          "summary": "联想开天推出1个智能体天禧AI Pro加2大无界生态方案加N款算力终端的体系，通过WINE API转译实现Windows应用在Linux上原生运行，性能损耗仅3%-6%，将信创PC从工具推向智能体平台。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "萤石发布搭载「星辰世界模型」的蒸汽洗地机器人及多款AI硬件",
+          "link": "https://www.qbitai.com/2026/04/404420.html",
+          "summary": "萤石发布多款AI硬件新品，包括搭载蓝海大模型2.0的AI CoreX家庭智能中枢、AI随身拍Pika儿童设备，以及搭载星辰世界模型的AI双擎蒸汽洗地机器人，实现感知决策一体化的自主清洁。",
+          "source": "量子位"
+        },
+        {
+          "title": "为旌科技：死亡率99%的芯片创业淘汰赛中的幸存者",
+          "link": "https://www.leiphone.com/category/chips/JwOcSjNfH5zTtfIl.html",
+          "summary": "出自海思核心团队的为旌科技聚焦智慧视觉与智能驾驶端侧AI芯片，全栈自研ISP、NPU及工具链，已获50余家量产客户、百万级发货量，近期完成3亿元A+轮融资，2026年将进入放量期。",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "腾讯和阿里洽谈投资DeepSeek，后者寻求超200亿美元估值融资",
+          "link": "https://36kr.com/newsflashes/3777903768146945?f=rss",
+          "summary": "据外媒报道腾讯和阿里正在洽谈投资DeepSeek，这家AI新贵首次启动外部融资即寻求超200亿美元估值。DeepSeek仍依赖英伟达芯片训练旗舰模型，正将V4模型适配至华为、寒武纪等国产芯片。",
+          "source": "36氪"
+        },
+        {
+          "title": "OpenAI拟向合资企业DeployCo注资至多15亿美元，专攻企业级AI市场",
+          "link": "https://zhidx.com/p/551755.html",
+          "summary": "OpenAI计划向私募股权合资企业DeployCo注资至多15亿美元，首期5亿美元换取股权，DeployCo估值将达100亿美元。该公司将向企业推广OpenAI工具，OpenAI承诺17.5%年化保底回报。",
+          "source": "智东西"
+        },
+        {
+          "title": "亚马逊追加50亿美元投资Anthropic，累计投资达130亿美元",
+          "link": "https://www.leiphone.com/category/zaobao/C0IFolZzxkmL5sr3.html",
+          "summary": "亚马逊宣布向Anthropic追加50亿美元投资并额外提供6GW Trainium芯片算力，累计投资达130亿美元。Anthropic将在未来10年向AWS投入超1000亿美元，同时有传闻称Anthropic还将引入AMD加速器。",
+          "source": "雷锋网"
+        },
+        {
+          "title": "医疗AI公司AcuityMD获8000万美元C轮融资，估值达9.55亿美元",
+          "link": "https://zhidx.com/p/551845.html",
+          "summary": "医疗AI公司AcuityMD获8000万美元C轮融资，估值达9.55亿美元，累计融资超1.6亿美元。同时推出AI Agent产品AcuityAI，通过医疗技术本体知识图谱为销售代表提供精准商业情报。",
+          "source": "智东西"
+        },
+        {
+          "title": "英特尔CEO陈立武投资NeoCognition，自进化AI智能体获4000万美元种子轮",
+          "link": "https://zhidx.com/p/551566.html",
+          "summary": "由俄亥俄州立大学教授苏瑜创立的NeoCognition获4000万美元种子轮融资，致力于开发自我学习型AI智能体。投资方包括英特尔CEO陈立武、Databricks联合创始人等，清华、中科大、南大背景学霸组队创业。",
+          "source": "智东西"
+        },
+        {
+          "title": "谷歌云推出7.5亿美元基金助力合作伙伴加速智能体AI开发",
+          "link": "https://36kr.com/newsflashes/3777953050416385?f=rss",
+          "summary": "谷歌云宣布设立7.5亿美元基金，面向全球咨询公司、系统集成商和软件合作伙伴，帮助加速客户利用智能体AI实现数字化转型，进一步巩固谷歌在企业AI市场的生态布局。",
+          "source": "36氪"
+        },
+        {
+          "title": "被南孚电池救下的重庆AI独角兽象帝先，能否顺利IPO？",
+          "link": "https://www.tmtpost.com/7963315.html",
+          "summary": "GPU芯片公司象帝先与安孚科技（南孚电池母公司）跨界合作引发关注，分析探讨这一豪赌式整合能否帮助这家重庆AI独角兽顺利完成IPO，为国产GPU芯片蹚出新路。",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}

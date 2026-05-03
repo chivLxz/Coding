@@ -1,0 +1,201 @@
+{
+  "date": "2026-04-20",
+  "categories": [
+    {
+      "name": "AI大模型",
+      "name_en": "Foundation Models & Algorithms",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "阿里发布Qwen3.6-Max预览版，登顶最佳国产模型",
+          "link": "https://www.leiphone.com/category/industrynews/oxkaOSu9PX0bBE5b.html",
+          "summary": "阿里发布Qwen3.6-Max-Preview，在Artificial Analysis评测中超越GLM5.1和MiniMax-M2.7登顶国产最佳，智能体编程能力显著提升",
+          "source": "雷锋网"
+        },
+        {
+          "title": "曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资",
+          "link": "https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&utm_medium=article",
+          "summary": "普林斯顿研究员暗示DeepSeek V4将于本周发布，梁文锋打破不融资红线启动首次外部融资，目标估值不低于100亿美元",
+          "source": "InfoQ"
+        },
+        {
+          "title": "谷歌发布Gemma 4，专注于本地优先、设备级的AI推理",
+          "link": "https://www.infoq.cn/article/ghIyvrElfFO6uVAq9jBm?utm_source=rss&utm_medium=article",
+          "summary": "谷歌发布Gemma 4系列模型，主打本地设备和端侧推理场景，进一步推动AI从云端向边缘侧下沉",
+          "source": "InfoQ"
+        },
+        {
+          "title": "Mythos架构被22岁小伙「逆推」开源了！MoE和注意力借鉴DeepSeek",
+          "link": "https://www.qbitai.com/2026/04/403708.html",
+          "summary": "一位22岁开发者根据公开信息逆向推导Claude Mythos架构并开源，其中MoE和注意力机制被认为借鉴了DeepSeek的设计",
+          "source": "量子位"
+        },
+        {
+          "title": "阿里甩出AI语音转写神器！准确率击败字节腾讯，连方言都能写对",
+          "link": "https://zhidx.com/p/550618.html",
+          "summary": "阿里发布Fun-ASR1.5语音识别大模型，支持30种语言和13种中文方言，古诗词准确率达97%，多项指标超越Seed-ASR和Tencent-ASR",
+          "source": "智东西"
+        },
+        {
+          "title": "Qwen3.6超大杯来了！我用这个「半成品」模型，亲手造了一个macOS桌面",
+          "link": "https://zhidx.com/p/550616.html",
+          "summary": "智东西实测Qwen3.6-Max-Preview，3分钟生成逼真macOS桌面原型，在智能体编程基准测试中取得最高分，思考效率优于Plus版本",
+          "source": "智东西"
+        },
+        {
+          "title": "CVPR 2026｜北大联合南科大提出QuatRoPE，让大模型精准理解三维物体关系",
+          "link": "https://mp.weixin.qq.com/s/m98d0dusIGkQ9n8XUg84MA",
+          "summary": "南科大与北大合作提出QuatRoPE四元数旋转位置嵌入方法，显著提升LLM在3D空间推理任务中的表现，已获CVPR 2026接收",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI软件产品",
+      "name_en": "Software, Agents & Applications",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "实测Claude Design：小白也能做出专业级设计",
+          "link": "https://www.ifanr.com/1662860?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "爱范儿实测Anthropic新发布的AI设计工具Claude Design，支持文字生成网页原型、应用线框图等，Opus 4.7驱动但Token消耗较大",
+          "source": "爱范儿"
+        },
+        {
+          "title": "从Vibe Coding到Wish Coding，AI编程迎来C端拐点",
+          "link": "https://mp.weixin.qq.com/s/q_tJmpRdHm7bogXHUOFGaA",
+          "summary": "蚂蚁灵光App推出「闪应用」功能，用户仅需自然语言描述即可生成可运行的移动端应用，将AI编程推向消费级用户",
+          "source": "机器之心公众号"
+        },
+        {
+          "title": "零门槛AI生成赛道再添新玩家，「灵珠」平台开启第一次内测",
+          "link": "https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&utm_medium=article",
+          "summary": "新AI生成平台「灵珠」启动首次内测，主打零门槛内容生成，进一步降低AI创作门槛",
+          "source": "InfoQ"
+        },
+        {
+          "title": "AI Coding，终究是大厂的",
+          "link": "https://www.tmtpost.com/7960048.html",
+          "summary": "钛媒体分析AI编程工具市场格局，认为大厂凭借算力、数据和生态优势正在加速收割AI Coding赛道，创业公司空间收窄",
+          "source": "钛媒体"
+        },
+        {
+          "title": "钉钉陈航：如果公司里还有人天天写文档，这个公司一定是过去式",
+          "link": "https://www.leiphone.com/category/zaobao/lWmG1Zoa7wkmnL46.html",
+          "summary": "钉钉CEO陈航表示公司1400人严禁写文档，会议纪要和后续跟进全部由AI完成，讨论只用白板，拍照后AI自动分析总结",
+          "source": "雷锋网"
+        },
+        {
+          "title": "灵光做了一个「AI应用版GitHub」，但重点不在代码",
+          "link": "https://zhidx.com/p/550515.html",
+          "summary": "蚂蚁灵光推出「灵光圈」社区，用户可浏览、使用、二次创作他人AI生成的应用，类似开源社区Fork机制但作用于意图层",
+          "source": "智东西"
+        },
+        {
+          "title": "如何正确Vibe Coding？这是来自Anthropic编程智能体负责人的大师课",
+          "link": "https://mp.weixin.qq.com/s/vWRBs2EJg_A1LUG10Q9Ddw",
+          "summary": "Anthropic研究员Erik Schluntz分享生产环境中使用Claude进行代码生成的实践方法论，提出「叶子节点」策略和做「AI的产品经理」理念",
+          "source": "机器之心公众号"
+        }
+      ]
+    },
+    {
+      "name": "AI硬件产品",
+      "name_en": "Hardware, Chips & Smart Terminals",
+      "emoji": "🔧",
+      "articles": [
+        {
+          "title": "刚刚，华为首款AI眼镜来了，麒麟9030系列双芯炸场",
+          "link": "https://zhidx.com/p/550564.html",
+          "summary": "华为发布首款鸿蒙AI眼镜，搭载自研AI芯片和1200万超感光摄像头，支持AI闪拍和视频交互，售价2499元起；同时发布麒麟9030 Pro/9030S",
+          "source": "智东西"
+        },
+        {
+          "title": "国内推理GPU独角兽曦望再获超10亿元融资，重构AI推理",
+          "link": "https://www.leiphone.com/category/chips/SNnlUojGi3GayjZL.html",
+          "summary": "曦望发布启望S3推理GPU，国内首款搭载LPDDR6的推理芯片，FP4推理吞吐提升3-4倍，目标将推理成本降至百万Token一分钱",
+          "source": "雷锋网"
+        },
+        {
+          "title": "解决机器人散热困境，华科冷芯高速悬浮泵助力荣耀人形机器人「闪电」夺冠",
+          "link": "https://www.leiphone.com/category/ai/8c0LRtFiKS4clo08.html",
+          "summary": "荣耀人形机器人「闪电」以50分26秒获北京半马冠军，搭载华科冷芯HD01高速悬浮泵液冷方案，突破机器人散热瓶颈",
+          "source": "雷锋网"
+        },
+        {
+          "title": "智元邓泰华宣布：具身智能行业进入「部署态」",
+          "link": "https://www.leiphone.com/category/industrynews/wkokSPs28IPOhSAc.html",
+          "summary": "智元发布七大部署态解决方案，覆盖3C产线、物流分拣等场景；第10000台机器人下线，提出从「卖机器人」到「交付结果」的转变",
+          "source": "雷锋网"
+        },
+        {
+          "title": "谷歌联手Marvell研发下一代TPU，专为AI推理打造",
+          "link": "https://zhidx.com/p/550567.html",
+          "summary": "谷歌与Marvell合作开发全新推理TPU和内存处理单元，计划年产近200万颗，旨在降低对博通的单一依赖",
+          "source": "智东西"
+        },
+        {
+          "title": "AI芯片格局生变：Cerebras再迎IPO大考，英伟达真正的对手来了",
+          "link": "https://www.tmtpost.com/7959992.html",
+          "summary": "Cerebras再次冲击IPO，其晶圆级芯片架构在推理场景展现优势，但G42贡献超80%营收的客户集中度风险引人关注",
+          "source": "钛媒体"
+        },
+        {
+          "title": "简智机器人订单破万，领跑具身智能数采规模化落地",
+          "link": "https://www.leiphone.com/category/industrynews/zzpbJpPsZMBwMQbs.html",
+          "summary": "简智Gen DAS系列数采硬件累计订单突破10000台，成为业内首个实现数采硬件规模化落地的企业，覆盖Ego、Fingers、Gripper三大产品",
+          "source": "雷锋网"
+        }
+      ]
+    },
+    {
+      "name": "AI公司股票",
+      "name_en": "AI Capital, A-Shares & HK Stocks",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%",
+          "link": "https://36kr.com/p/3774566936216064?f=rss",
+          "summary": "字节跳动2025年海外营收增长近50%，占比超三成创新高；但AI业务大幅投入导致净利润下降超70%，预期2026年技术投入继续加码",
+          "source": "36氪"
+        },
+        {
+          "title": "Claude背后的男人：融资IPO算力三手抓，把估值干到3800亿美元",
+          "link": "https://zhidx.com/p/550544.html",
+          "summary": "Anthropic CFO拉奥推动多云多芯布局、累计融资600亿美元、毛利率从-94%翻至+40%，年化收入跃升至300亿美元，最快秋季IPO",
+          "source": "智东西"
+        },
+        {
+          "title": "DeepSeek融资，梁文锋的「现实主义」转身",
+          "link": "https://www.tmtpost.com/7959921.html",
+          "summary": "梁文锋打破成立之初「不融资」的红线，启动DeepSeek首次外部融资，投资人分析或为期权定价留人才，但以100亿美元估值融资被认为偏低",
+          "source": "钛媒体"
+        },
+        {
+          "title": "郭达雅加入巨头背后：顶尖AI人才为何向大厂「回流」？",
+          "link": "https://www.leiphone.com/category/industrynews/kBm2mpA7F6sJ65wA.html",
+          "summary": "前DeepSeek核心研究员郭达雅确认加入字节Seed团队负责Agent方向，折射出AI人才从创业公司向大厂回流的趋势",
+          "source": "雷锋网"
+        },
+        {
+          "title": "广东：要用好产业引导基金，加大对集成电路、具身智能、算电协同等领域的投资",
+          "link": "https://36kr.com/newsflashes/3775144569029380?f=rss",
+          "summary": "广东省委财经委召开会议，要求积极布局新质生产力项目，用好产业引导基金加大对集成电路、具身智能、算电协同等领域投资",
+          "source": "36氪"
+        },
+        {
+          "title": "36氪首发｜首创「玩偶+主机」模式，多智能体儿童AI玩具品牌获数千万元融资",
+          "link": "https://36kr.com/p/3774692365206280?f=rss",
+          "summary": "灵机天赐旗下品牌Jollybubu完成两轮数千万元融资，首创「主机+玩偶」多智能体儿童AI玩具系统，5月底正式发售",
+          "source": "36氪"
+        },
+        {
+          "title": "对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实",
+          "link": "https://www.tmtpost.com/7960107.html",
+          "summary": "魔形智能CEO谈超节点、Token工厂和推理优化等话题，认为当前token出海因算力成本问题尚不现实",
+          "source": "钛媒体"
+        }
+      ]
+    }
+  ]
+}
